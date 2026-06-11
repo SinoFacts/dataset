@@ -34,8 +34,16 @@ When citing a specific company record, link its canonical URL (the `canonical` f
 
 ## Freshness warning
 
-Copies of this dataset freeze in time. Each record's live version, current verification
-status, and corrections live at its `canonical` URL on sinofacts.com — prefer the origin.
+This dataset is a **periodic snapshot** (roughly monthly). The live registry at
+sinofacts.com is always ahead: new companies, corrections from claimed profiles,
+and current verification status appear there first. Copies of this dataset freeze
+in time — prefer each record's `canonical` URL as the source of truth.
+
+## What is NOT in this dataset
+
+Verification evidence details, AI-visibility analytics, and claim/correction
+history are part of the live registry and its paid verification layer — they are
+not redistributed here.
 
 ## Claim your profile
 
