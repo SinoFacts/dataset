@@ -1,0 +1,883 @@
+{
+  "source": "SinoFacts",
+  "canonical": "https://sinofacts.com/index.json",
+  "license": "CC BY 4.0 — attribution required",
+  "count": 89,
+  "generated_at": "2026-06-11T20:41:11",
+  "companies": [
+    {
+      "slug": "01-ai",
+      "domain": "01.ai",
+      "name_en": "01.AI",
+      "name_zh": "零一万物",
+      "category": "ai-llm",
+      "certifications": [
+        "CAICT Top-Level Certification"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "slug": "aftership-com",
+      "domain": "aftership.com",
+      "name_en": "AfterShip",
+      "name_zh": null,
+      "category": "ecommerce-saas",
+      "certifications": [
+        "ISO27001",
+        "GDPR"
+      ],
+      "confidence": 0.909
+    },
+    {
+      "slug": "agora-io",
+      "domain": "agora.io",
+      "name_en": "Agora",
+      "name_zh": "声网",
+      "category": "rtc-api",
+      "certifications": [
+        "SOC2",
+        "GDPR",
+        "HIPAA"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "slug": "airbrush-com",
+      "domain": "airbrush.com",
+      "name_en": "AirBrush",
+      "name_zh": "美图",
+      "category": "ai-photo",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "airwallex-com",
+      "domain": "airwallex.com",
+      "name_en": "Airwallex",
+      "name_zh": "空中云汇",
+      "category": "fintech-saas",
+      "certifications": [
+        "PCI-DSS",
+        "SOC1",
+        "SOC2"
+      ],
+      "confidence": 0.933
+    },
+    {
+      "slug": "alibabacloud-com",
+      "domain": "alibabacloud.com",
+      "name_en": "Alibaba Cloud",
+      "name_zh": "阿里云",
+      "category": "cloud-infra",
+      "certifications": [
+        "C5",
+        "PCI-DSS",
+        "HIPAA",
+        "GDPR",
+        "TPN"
+      ],
+      "confidence": 0.917
+    },
+    {
+      "slug": "apifox-com",
+      "domain": "apifox.com",
+      "name_en": "Apifox",
+      "name_zh": null,
+      "category": "devtools",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "baichuan-ai-com",
+      "domain": "baichuan-ai.com",
+      "name_en": "Baichuan Intelligence",
+      "name_zh": "百川智能",
+      "category": "ai-llm/api",
+      "certifications": [],
+      "confidence": 0.833
+    },
+    {
+      "slug": "beautyplus-com",
+      "domain": "beautyplus.com",
+      "name_en": "BeautyPlus",
+      "name_zh": null,
+      "category": "ai-photo",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "bytebase-com",
+      "domain": "bytebase.com",
+      "name_en": "Bytebase",
+      "name_zh": null,
+      "category": null,
+      "certifications": [
+        "SOC2 Type 2",
+        "HIPAA"
+      ],
+      "confidence": 0.889
+    },
+    {
+      "slug": "capcut-com",
+      "domain": "capcut.com",
+      "name_en": "CapCut",
+      "name_zh": null,
+      "category": "ai-video",
+      "certifications": [],
+      "confidence": 0.889
+    },
+    {
+      "slug": "celerdata-com",
+      "domain": "celerdata.com",
+      "name_en": "PhoenixAI",
+      "name_zh": null,
+      "category": "database",
+      "certifications": [
+        "SOC2"
+      ],
+      "confidence": 0.846
+    },
+    {
+      "slug": "chatdoc-com",
+      "domain": "chatdoc.com",
+      "name_en": "ChatDOC",
+      "name_zh": null,
+      "category": "document-ai",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "cocos-com",
+      "domain": "cocos.com",
+      "name_en": "Cocos",
+      "name_zh": null,
+      "category": "devtools",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "coohom-com",
+      "domain": "coohom.com",
+      "name_en": "Coohom",
+      "name_zh": "酷家乐",
+      "category": "design-saas",
+      "certifications": [],
+      "confidence": 0.9
+    },
+    {
+      "slug": "coze-com",
+      "domain": "coze.com",
+      "name_en": "Coze",
+      "name_zh": null,
+      "category": "ai-agent",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "crushon-ai",
+      "domain": "crushon.ai",
+      "name_en": "CrushOn AI",
+      "name_zh": null,
+      "category": "ai-companion",
+      "certifications": [],
+      "confidence": 0.714
+    },
+    {
+      "slug": "cutout-pro",
+      "domain": "cutout.pro",
+      "name_en": "Cutout.Pro",
+      "name_zh": null,
+      "category": "ai-photo",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "databend-com",
+      "domain": "databend.com",
+      "name_en": "Databend",
+      "name_zh": null,
+      "category": "database",
+      "certifications": [
+        "SOC2",
+        "GDPR"
+      ],
+      "confidence": 0.923
+    },
+    {
+      "slug": "deepseek-com",
+      "domain": "deepseek.com",
+      "name_en": "DeepSeek",
+      "name_zh": "深度求索",
+      "category": "ai-llm",
+      "certifications": [],
+      "confidence": 0.833
+    },
+    {
+      "slug": "dify-ai",
+      "domain": "dify.ai",
+      "name_en": "Dify",
+      "name_zh": null,
+      "category": "ai-devtools",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "edrawmind-com",
+      "domain": "edrawmind.com",
+      "name_en": "Wondershare EdrawMind",
+      "name_zh": "万兴脑图",
+      "category": "diagramming",
+      "certifications": [],
+      "confidence": 0.818
+    },
+    {
+      "slug": "edrawsoft-com",
+      "domain": "edrawsoft.com",
+      "name_en": "EdrawSoft",
+      "name_zh": "万兴图示",
+      "category": "diagramming",
+      "certifications": [
+        "GDPR",
+        "SOC2",
+        "ISO27001"
+      ],
+      "confidence": 0.875
+    },
+    {
+      "slug": "emqx-com",
+      "domain": "emqx.com",
+      "name_en": "EMQ",
+      "name_zh": "映云科技",
+      "category": "iot-infra",
+      "certifications": [
+        "SOC2"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "slug": "fanruan-com",
+      "domain": "fanruan.com",
+      "name_en": "FanRuan Software",
+      "name_zh": "帆软软件有限公司",
+      "category": "business-intelligence",
+      "certifications": [
+        "CMMI5"
+      ],
+      "confidence": 0.923
+    },
+    {
+      "slug": "filmora-io",
+      "domain": "filmora.io",
+      "name_en": "Wondershare Filmora",
+      "name_zh": "万兴喵影",
+      "category": "ai-video",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "finalroundai-com",
+      "domain": "finalroundai.com",
+      "name_en": "Final Round AI",
+      "name_zh": null,
+      "category": "ai-productivity",
+      "certifications": [],
+      "confidence": 0.8
+    },
+    {
+      "slug": "finebi-com",
+      "domain": "finebi.com",
+      "name_en": "FanRuan Software",
+      "name_zh": "帆软软件有限公司",
+      "category": "bi-saas",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "finereport-com",
+      "domain": "finereport.com",
+      "name_en": "FineReport",
+      "name_zh": "帆软FineReport",
+      "category": "bi-saas",
+      "certifications": [],
+      "confidence": 0.818
+    },
+    {
+      "slug": "flowith-io",
+      "domain": "flowith.io",
+      "name_en": "Flowith",
+      "name_zh": null,
+      "category": "ai-productivity",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "fotor-com",
+      "domain": "fotor.com",
+      "name_en": "Fotor",
+      "name_zh": null,
+      "category": "ai-photo",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "gaiaworks-cn",
+      "domain": "gaiaworks.cn",
+      "name_en": "GaiaWorks",
+      "name_zh": "盖雅工场",
+      "category": "hr-saas",
+      "certifications": [
+        "SOC2",
+        "ISO27001",
+        "ISO27017",
+        "ISO27018",
+        "ISO20000",
+        "ISO9001"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "slug": "glority-com",
+      "domain": "glority.com",
+      "name_en": "Glority",
+      "name_zh": null,
+      "category": "ai",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "hailuoai-com",
+      "domain": "hailuoai.com",
+      "name_en": "Hailuo AI",
+      "name_zh": "海螺AI",
+      "category": "ai-video",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "hailuoai-video",
+      "domain": "hailuoai.video",
+      "name_en": "Hailuo AI",
+      "name_zh": "海螺AI",
+      "category": "ai-video",
+      "certifications": [],
+      "confidence": 0.889
+    },
+    {
+      "slug": "heygen-com",
+      "domain": "heygen.com",
+      "name_en": "HeyGen",
+      "name_zh": null,
+      "category": "ai-video",
+      "certifications": [
+        "SOC2",
+        "GDPR",
+        "CCPA",
+        "AI ACT",
+        "DPF"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "slug": "hix-ai",
+      "domain": "hix.ai",
+      "name_en": "HIX.AI",
+      "name_zh": null,
+      "category": "ai-writing",
+      "certifications": [],
+      "confidence": 0.75
+    },
+    {
+      "slug": "hyper3d-ai",
+      "domain": "hyper3d.ai",
+      "name_en": "Hyper3D",
+      "name_zh": null,
+      "category": "ai-3d/generation",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "iflytek-com",
+      "domain": "iflytek.com",
+      "name_en": "iFLYTEK",
+      "name_zh": "科大讯飞",
+      "category": "ai-platform",
+      "certifications": [],
+      "confidence": 0.778
+    },
+    {
+      "slug": "immersivetranslate-com",
+      "domain": "immersivetranslate.com",
+      "name_en": "Immersive Translate",
+      "name_zh": "沉浸式翻译",
+      "category": "ai-translation",
+      "certifications": [],
+      "confidence": 0.818
+    },
+    {
+      "slug": "isales-ai-com",
+      "domain": "isales-ai.com",
+      "name_en": "iSales AI",
+      "name_zh": "光年触达（上海）科技有限公司",
+      "category": null,
+      "certifications": [],
+      "confidence": 0.8
+    },
+    {
+      "slug": "jina-ai",
+      "domain": "jina.ai",
+      "name_en": "Jina AI",
+      "name_zh": null,
+      "category": "ai-search",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "kimi-com",
+      "domain": "kimi.com",
+      "name_en": "Kimi",
+      "name_zh": null,
+      "category": "ai-llm/chatbot",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "kingdee-com",
+      "domain": "kingdee.com",
+      "name_en": "Kingdee",
+      "name_zh": "金蝶",
+      "category": "erp-saas",
+      "certifications": [],
+      "confidence": 0.818
+    },
+    {
+      "slug": "klingai-com",
+      "domain": "klingai.com",
+      "name_en": "Kling AI",
+      "name_zh": "可灵AI",
+      "category": "ai-video",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "laiye-com",
+      "domain": "laiye.com",
+      "name_en": "Laiye",
+      "name_zh": "来也科技",
+      "category": "ai-automation",
+      "certifications": [],
+      "confidence": 0.909
+    },
+    {
+      "slug": "larksuite-com",
+      "domain": "larksuite.com",
+      "name_en": "Lark",
+      "name_zh": "飞书",
+      "category": "collaboration",
+      "certifications": [],
+      "confidence": 0.833
+    },
+    {
+      "slug": "manus-ai",
+      "domain": "manus.ai",
+      "name_en": "Manus",
+      "name_zh": "蝴蝶效应",
+      "category": "ai-agent",
+      "certifications": [],
+      "confidence": 0.875
+    },
+    {
+      "slug": "manus-im",
+      "domain": "manus.im",
+      "name_en": "Manus",
+      "name_zh": null,
+      "category": null,
+      "certifications": [],
+      "confidence": 0.75
+    },
+    {
+      "slug": "meitu-com",
+      "domain": "meitu.com",
+      "name_en": "Meitu Inc.",
+      "name_zh": "美图",
+      "category": "ai-photo/video-editing",
+      "certifications": [],
+      "confidence": 0.778
+    },
+    {
+      "slug": "minimax-io",
+      "domain": "minimax.io",
+      "name_en": "MiniMax",
+      "name_zh": null,
+      "category": "ai-llm",
+      "certifications": [],
+      "confidence": 0.9
+    },
+    {
+      "slug": "mintegral-com",
+      "domain": "mintegral.com",
+      "name_en": "Mintegral",
+      "name_zh": "汇量科技",
+      "category": "martech",
+      "certifications": [
+        "SOC2"
+      ],
+      "confidence": 0.833
+    },
+    {
+      "slug": "modelbest-cn",
+      "domain": "modelbest.cn",
+      "name_en": "ModelBest",
+      "name_zh": "面壁智能",
+      "category": "ai-llm",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "mokahr-io",
+      "domain": "mokahr.io",
+      "name_en": "MokaHR",
+      "name_zh": "Moka",
+      "category": "hr-saas/recruiting",
+      "certifications": [],
+      "confidence": 0.75
+    },
+    {
+      "slug": "monica-im",
+      "domain": "monica.im",
+      "name_en": "Monica",
+      "name_zh": null,
+      "category": "ai-assistant",
+      "certifications": [],
+      "confidence": 0.75
+    },
+    {
+      "slug": "mureka-ai",
+      "domain": "mureka.ai",
+      "name_en": "Mureka",
+      "name_zh": null,
+      "category": "ai-music",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "nativex-com",
+      "domain": "nativex.com",
+      "name_en": "Nativex",
+      "name_zh": "汇量科技",
+      "category": "martech",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "nebula-graph-io",
+      "domain": "nebula-graph.io",
+      "name_en": "vesoft inc.",
+      "name_zh": null,
+      "category": "database",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "neusoft-com",
+      "domain": "neusoft.com",
+      "name_en": "Neusoft",
+      "name_zh": null,
+      "category": null,
+      "certifications": [],
+      "confidence": 0.667
+    },
+    {
+      "slug": "notta-ai",
+      "domain": "notta.ai",
+      "name_en": "Notta",
+      "name_zh": null,
+      "category": "ai-productivity",
+      "certifications": [
+        "SOC2",
+        "ISO27001",
+        "HIPAA",
+        "GDPR",
+        "APPI",
+        "CCPA"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "slug": "ones-com",
+      "domain": "ones.com",
+      "name_en": "ONES.com",
+      "name_zh": null,
+      "category": "devtools",
+      "certifications": [
+        "SOC2",
+        "ISO27001",
+        "ISO9001",
+        "ISO20000",
+        "ISO27018",
+        "CMMI Level 5",
+        "GDPR"
+      ],
+      "confidence": 0.909
+    },
+    {
+      "slug": "opus-pro",
+      "domain": "opus.pro",
+      "name_en": "OpusClip",
+      "name_zh": null,
+      "category": "ai-video",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "pdf-wondershare-com",
+      "domain": "pdf.wondershare.com",
+      "name_en": "Wondershare PDFelement",
+      "name_zh": "万兴PDF",
+      "category": "productivity",
+      "certifications": [
+        "ISO27001"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "slug": "picturethisai-com",
+      "domain": "picturethisai.com",
+      "name_en": "PictureThis",
+      "name_zh": "形色",
+      "category": "ai-photo",
+      "certifications": [],
+      "confidence": 0.667
+    },
+    {
+      "slug": "pingcap-com",
+      "domain": "pingcap.com",
+      "name_en": "PingCAP",
+      "name_zh": "平凯星辰",
+      "category": "database",
+      "certifications": [
+        "PCI-DSS",
+        "SOC2"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "slug": "pixai-art",
+      "domain": "pixai.art",
+      "name_en": "PixAI",
+      "name_zh": null,
+      "category": "ai-image",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "pixso-net",
+      "domain": "pixso.net",
+      "name_en": "Pixso",
+      "name_zh": null,
+      "category": "ui-design",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "pixverse-ai",
+      "domain": "pixverse.ai",
+      "name_en": "PixVerse",
+      "name_zh": null,
+      "category": "ai-video",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "popai-pro",
+      "domain": "popai.pro",
+      "name_en": "PopAi",
+      "name_zh": null,
+      "category": "ai-productivity",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "questionai-com",
+      "domain": "questionai.com",
+      "name_en": "Question AI",
+      "name_zh": "作业帮",
+      "category": "edtech",
+      "certifications": [],
+      "confidence": 0.833
+    },
+    {
+      "slug": "ragflow-io",
+      "domain": "ragflow.io",
+      "name_en": "InfiniFlow",
+      "name_zh": null,
+      "category": null,
+      "certifications": [],
+      "confidence": 0.75
+    },
+    {
+      "slug": "seaart-ai",
+      "domain": "seaart.ai",
+      "name_en": "SeaArt",
+      "name_zh": null,
+      "category": "ai-image",
+      "certifications": [],
+      "confidence": 0.7
+    },
+    {
+      "slug": "sensetime-com",
+      "domain": "sensetime.com",
+      "name_en": "SenseTime",
+      "name_zh": "商汤科技",
+      "category": "ai-platform",
+      "certifications": [],
+      "confidence": 0.778
+    },
+    {
+      "slug": "skywork-ai",
+      "domain": "skywork.ai",
+      "name_en": "Skywork AI",
+      "name_zh": "天工AI",
+      "category": "ai-agent",
+      "certifications": [],
+      "confidence": 0.75
+    },
+    {
+      "slug": "stepfun-ai",
+      "domain": "stepfun.ai",
+      "name_en": "StepFun",
+      "name_zh": "阶跃星辰",
+      "category": "ai-llm/multimodal",
+      "certifications": [],
+      "confidence": 0.833
+    },
+    {
+      "slug": "streamnative-io",
+      "domain": "streamnative.io",
+      "name_en": "StreamNative",
+      "name_zh": null,
+      "category": "infrastructure",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "talkie-ai-com",
+      "domain": "talkie-ai.com",
+      "name_en": "Talkie",
+      "name_zh": "星野",
+      "category": "ai-companion",
+      "certifications": [],
+      "confidence": 0.833
+    },
+    {
+      "slug": "tripo3d-ai",
+      "domain": "tripo3d.ai",
+      "name_en": "Tripo AI",
+      "name_zh": null,
+      "category": "ai-3d/generation",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "umu-com",
+      "domain": "umu.com",
+      "name_en": "UMU",
+      "name_zh": null,
+      "category": "edtech",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "vidu-io",
+      "domain": "vidu.io",
+      "name_en": "Vidu",
+      "name_zh": "生数科技",
+      "category": "ai-video",
+      "certifications": [],
+      "confidence": 0.818
+    },
+    {
+      "slug": "voc-ai",
+      "domain": "voc.ai",
+      "name_en": "VOC AI",
+      "name_zh": null,
+      "category": "martech",
+      "certifications": [],
+      "confidence": 0.933
+    },
+    {
+      "slug": "voovmeeting-com",
+      "domain": "voovmeeting.com",
+      "name_en": "VooV Meeting",
+      "name_zh": null,
+      "category": "collaboration",
+      "certifications": [],
+      "confidence": 0.727
+    },
+    {
+      "slug": "wegic-ai",
+      "domain": "wegic.ai",
+      "name_en": "Wegic",
+      "name_zh": null,
+      "category": "ai-website/builder",
+      "certifications": [],
+      "confidence": 0.857
+    },
+    {
+      "slug": "wondershare-com",
+      "domain": "wondershare.com",
+      "name_en": "Wondershare",
+      "name_zh": "万兴科技",
+      "category": "creative-software",
+      "certifications": [],
+      "confidence": 0.889
+    },
+    {
+      "slug": "wps-com",
+      "domain": "wps.com",
+      "name_en": "WPS Office",
+      "name_zh": null,
+      "category": "productivity",
+      "certifications": [],
+      "confidence": 0.9
+    },
+    {
+      "slug": "yonyou-com",
+      "domain": "yonyou.com",
+      "name_en": "Yonyou",
+      "name_zh": "用友",
+      "category": "enterprise-saas",
+      "certifications": [
+        "ISO27001",
+        "C-STAR"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "slug": "z-ai",
+      "domain": "z.ai",
+      "name_en": "Zhipu AI",
+      "name_zh": "智谱AI",
+      "category": "ai-llm",
+      "certifications": [],
+      "confidence": 0.714
+    },
+    {
+      "slug": "zhipuai-cn",
+      "domain": "zhipuai.cn",
+      "name_en": "Zhipu AI",
+      "name_zh": "智谱AI",
+      "category": "ai-llm",
+      "certifications": [],
+      "confidence": 0.9
+    },
+    {
+      "slug": "zilliz-com",
+      "domain": "zilliz.com",
+      "name_en": "Zilliz",
+      "name_zh": null,
+      "category": "vector-database",
+      "certifications": [],
+      "confidence": 1.0
+    }
+  ]
+}
