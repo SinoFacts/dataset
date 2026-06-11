@@ -2,8 +2,8 @@
   "source": "SinoFacts",
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
-  "count": 89,
-  "generated_at": "2026-06-11T20:41:11",
+  "count": 97,
+  "generated_at": "2026-06-11T23:04:11",
   "companies": [
     {
       "slug": "01-ai",
@@ -97,6 +97,15 @@
       "confidence": 0.833
     },
     {
+      "slug": "baichuan-cn",
+      "domain": "baichuan.cn",
+      "name_en": "Baichuan AI",
+      "name_zh": "百川智能",
+      "category": "ai-llm",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
       "slug": "beautyplus-com",
       "domain": "beautyplus.com",
       "name_en": "BeautyPlus",
@@ -145,6 +154,15 @@
       "category": "document-ai",
       "certifications": [],
       "confidence": 1.0
+    },
+    {
+      "slug": "cloudwalk-com",
+      "domain": "cloudwalk.com",
+      "name_en": "CloudWalk Technology",
+      "name_zh": "云从科技",
+      "category": "computer-vision",
+      "certifications": [],
+      "confidence": 0.833
     },
     {
       "slug": "cocos-com",
@@ -336,6 +354,24 @@
       "confidence": 1.0
     },
     {
+      "slug": "gaoding-com",
+      "domain": "gaoding.com",
+      "name_en": "Gaoding",
+      "name_zh": "稿定（厦门）科技有限公司",
+      "category": "design-saas",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "gauthmath-com",
+      "domain": "gauthmath.com",
+      "name_en": "Gauth",
+      "name_zh": null,
+      "category": "edtech",
+      "certifications": [],
+      "confidence": 0.75
+    },
+    {
       "slug": "glority-com",
       "domain": "glority.com",
       "name_en": "Glority",
@@ -412,6 +448,15 @@
       "category": "ai-translation",
       "certifications": [],
       "confidence": 0.818
+    },
+    {
+      "slug": "intl-yonyou-com",
+      "domain": "intl.yonyou.com",
+      "name_en": "Yonyou",
+      "name_zh": "用友",
+      "category": "erp-saas",
+      "certifications": [],
+      "confidence": 1.0
     },
     {
       "slug": "isales-ai-com",
@@ -603,6 +648,15 @@
       "confidence": 1.0
     },
     {
+      "slug": "oceanbase-com",
+      "domain": "oceanbase.com",
+      "name_en": "OceanBase",
+      "name_zh": "奥星贝斯",
+      "category": "database",
+      "certifications": [],
+      "confidence": 0.75
+    },
+    {
       "slug": "ones-com",
       "domain": "ones.com",
       "name_en": "ONES.com",
@@ -655,10 +709,10 @@
       "name_zh": "平凯星辰",
       "category": "database",
       "certifications": [
-        "PCI-DSS",
-        "SOC2"
+        "SOC2",
+        "PCI-DSS"
       ],
-      "confidence": 1.0
+      "confidence": 0.867
     },
     {
       "slug": "pixai-art",
@@ -769,6 +823,15 @@
       "confidence": 0.833
     },
     {
+      "slug": "tensor-art",
+      "domain": "tensor.art",
+      "name_en": "Tensor.Art",
+      "name_zh": "回响科技",
+      "category": "ai-image",
+      "certifications": [],
+      "confidence": 0.8
+    },
+    {
       "slug": "tripo3d-ai",
       "domain": "tripo3d.ai",
       "name_en": "Tripo AI",
@@ -877,7 +940,16 @@
       "name_zh": null,
       "category": "vector-database",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.8
+    },
+    {
+      "slug": "zmo-ai",
+      "domain": "zmo.ai",
+      "name_en": "ZMO.AI",
+      "name_zh": "感知阶跃",
+      "category": "ai-image",
+      "certifications": [],
+      "confidence": 0.75
     }
   ]
 }
