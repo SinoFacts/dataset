@@ -2,17 +2,17 @@
   "companies": 317,
   "with_certifications": 69,
   "categories": {
-    "other": 34,
+    "other": 33,
     "ai-video": 28,
     "ai-image": 24,
     "infrastructure": 18,
     "ai-productivity": 17,
     "design-saas": 17,
     "devtools": 15,
+    "ai-agent": 14,
     "database": 14,
     "ecommerce-saas": 13,
     "data-infra": 13,
-    "ai-agent": 13,
     "ai-llm": 11,
     "security": 11,
     "bi-saas": 9,
@@ -35,5 +35,5 @@
     "erp-saas": 2,
     "ai-translation": 1
   },
-  "generated_at": "2026-06-12"
+  "generated_at": "2026-06-13"
 }

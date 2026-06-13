@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 317,
-  "generated_at": "2026-06-12T15:06:26",
+  "generated_at": "2026-06-13T05:06:26",
   "companies": [
     {
       "slug": "01-ai",
@@ -94,18 +94,24 @@
         "ISO27001",
         "GDPR"
       ],
-      "confidence": 0.909
+      "confidence": 0.818
     },
     {
       "slug": "agora-io",
       "domain": "agora.io",
       "name_en": "Agora",
-      "name_zh": "声网",
+      "name_zh": null,
       "category": "rtc-api",
       "certifications": [
         "SOC2",
+        "ISO27001",
+        "ISO27017",
+        "ISO27018",
+        "ISO27701",
         "GDPR",
-        "HIPAA"
+        "HIPAA",
+        "CCPA",
+        "COPPA"
       ],
       "confidence": 1.0
     },
@@ -676,7 +682,7 @@
       "name_zh": null,
       "category": "ai-devtools",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.875
     },
     {
       "slug": "dolphindb-com",
@@ -1105,8 +1111,8 @@
       "name_zh": null,
       "category": "ai-video",
       "certifications": [
-        "SOC2",
         "GDPR",
+        "SOC 2 TYPE II",
         "CCPA",
         "AI ACT",
         "DPF"
@@ -1560,9 +1566,9 @@
       "domain": "manus.im",
       "name_en": "Manus",
       "name_zh": null,
-      "category": null,
+      "category": "ai-agent",
       "certifications": [],
-      "confidence": 0.75
+      "confidence": 0.833
     },
     {
       "slug": "matrixorigin-io",
