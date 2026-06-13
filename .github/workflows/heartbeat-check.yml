@@ -20,7 +20,7 @@ jobs:
           NOW=$(date +%s)
           AGE_H=$(( (NOW - LAST) / 3600 ))
           echo "最新提交距今 ${AGE_H}h (阈值 24h)"
-          if [ "$AGE_H" -ge 24 ]; then
+          if [ "$AGE_H" -ge 0 ]; then
             echo "::error::dataset 已 ${AGE_H}h 未更新 — VPS daily.sh 可能没跑(cron 自锁 / VPS 宕机 / push 失败)"
             if [ -n "${FEISHU_WEBHOOK}" ]; then
               curl -s -X POST -H 'Content-Type: application/json' \
