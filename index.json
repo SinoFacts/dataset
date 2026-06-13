@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 317,
-  "generated_at": "2026-06-13T05:33:05",
+  "generated_at": "2026-06-13T19:03:47",
   "companies": [
     {
       "slug": "01-ai",
@@ -454,7 +454,7 @@
       "name_zh": null,
       "category": "ai-video",
       "certifications": [],
-      "confidence": 0.889
+      "confidence": 0.875
     },
     {
       "slug": "celerdata-com",
@@ -865,7 +865,7 @@
       "name_zh": "万兴喵影",
       "category": "ai-video",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.889
     },
     {
       "slug": "finalroundai-com",
@@ -1902,7 +1902,7 @@
       "name_zh": null,
       "category": "ai-video",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.818
     },
     {
       "slug": "pacdora-com",
@@ -2087,7 +2087,7 @@
       "name_zh": null,
       "category": "ai-video",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.875
     },
     {
       "slug": "pokee-ai",
@@ -2803,10 +2803,10 @@
       "slug": "vidu-io",
       "domain": "vidu.io",
       "name_en": "Vidu",
-      "name_zh": "生数科技",
+      "name_zh": null,
       "category": "ai-video",
       "certifications": [],
-      "confidence": 0.818
+      "confidence": 0.727
     },
     {
       "slug": "viggle-ai",
