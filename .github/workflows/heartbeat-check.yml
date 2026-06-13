@@ -1,0 +1,32 @@
+name: heartbeat-check
+# 外部死人开关:检测 dataset 是否每天有新提交(= VPS daily.sh 是否在跑)。
+# VPS daily.sh 每日 19:00 UTC 跑并推 dataset;此处 20:30 UTC 检查,>24h 无更新即告警。
+# 告警双通道:Feishu(配了 FEISHU_WEBHOOK secret 才发) + 任务 exit 1 触发 GitHub 失败邮件。
+on:
+  schedule:
+    - cron: '30 20 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  freshness:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check dataset freshness
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: |
+          LAST=$(git log -1 --format=%ct HEAD)
+          NOW=$(date +%s)
+          AGE_H=$(( (NOW - LAST) / 3600 ))
+          echo "最新提交距今 ${AGE_H}h (阈值 24h)"
+          if [ "$AGE_H" -ge 24 ]; then
+            echo "::error::dataset 已 ${AGE_H}h 未更新 — VPS daily.sh 可能没跑(cron 自锁 / VPS 宕机 / push 失败)"
+            if [ -n "${FEISHU_WEBHOOK}" ]; then
+              curl -s -X POST -H 'Content-Type: application/json' \
+                -d "{\"msg_type\":\"text\",\"content\":{\"text\":\"🔴 [SinoFacts watchdog] dataset 已 ${AGE_H}h 未更新,VPS daily.sh 可能没跑(cron/VPS/push?),速查\"}}" \
+                "${FEISHU_WEBHOOK}" || true
+            fi
+            exit 1
+          fi
+          echo "✅ dataset 新鲜(${AGE_H}h),daily.sh 正常"
