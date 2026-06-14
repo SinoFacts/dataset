@@ -2,8 +2,8 @@
   "source": "SinoFacts",
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
-  "count": 317,
-  "generated_at": "2026-06-13T19:03:47",
+  "count": 383,
+  "generated_at": "2026-06-14T19:03:46",
   "companies": [
     {
       "slug": "01-ai",
@@ -28,6 +28,15 @@
       "confidence": 0.636
     },
     {
+      "slug": "1panel-pro",
+      "domain": "1panel.pro",
+      "name_en": "1Panel",
+      "name_zh": "1Panel",
+      "category": null,
+      "certifications": [],
+      "confidence": 0.786
+    },
+    {
       "slug": "302-ai",
       "domain": "302.ai",
       "name_en": "302.AI",
@@ -35,6 +44,17 @@
       "category": null,
       "certifications": [],
       "confidence": 0.889
+    },
+    {
+      "slug": "4paradigm-com",
+      "domain": "4paradigm.com",
+      "name_en": "4Paradigm",
+      "name_zh": null,
+      "category": "ai-platform",
+      "certifications": [
+        "GDPR"
+      ],
+      "confidence": 1.0
     },
     {
       "slug": "accio-com",
@@ -94,22 +114,22 @@
         "ISO27001",
         "GDPR"
       ],
-      "confidence": 0.818
+      "confidence": 0.917
     },
     {
       "slug": "agora-io",
       "domain": "agora.io",
       "name_en": "Agora",
-      "name_zh": null,
+      "name_zh": "声网",
       "category": "rtc-api",
       "certifications": [
         "SOC2",
+        "GDPR",
+        "HIPAA",
         "ISO27001",
         "ISO27017",
         "ISO27018",
         "ISO27701",
-        "GDPR",
-        "HIPAA",
         "CCPA",
         "COPPA"
       ],
@@ -154,6 +174,15 @@
         "SOC2"
       ],
       "confidence": 0.933
+    },
+    {
+      "slug": "aispeech-com",
+      "domain": "aispeech.com",
+      "name_en": "AISpeech",
+      "name_zh": "思必驰",
+      "category": "ai-audio",
+      "certifications": [],
+      "confidence": 0.778
     },
     {
       "slug": "aitable-ai",
@@ -231,6 +260,18 @@
       "confidence": 1.0
     },
     {
+      "slug": "aloudata-com",
+      "domain": "aloudata.com",
+      "name_en": "Aloudata",
+      "name_zh": "浙江大应科技有限公司",
+      "category": "data-infra",
+      "certifications": [
+        "ISO9001",
+        "ISO27001"
+      ],
+      "confidence": 0.929
+    },
+    {
       "slug": "apecloud-com",
       "domain": "apecloud.com",
       "name_en": "ApeCloud",
@@ -254,6 +295,15 @@
       "name_en": "Apifox",
       "name_zh": null,
       "category": "devtools",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "apitable-com",
+      "domain": "apitable.com",
+      "name_en": "APITable",
+      "name_zh": null,
+      "category": "lowcode",
       "certifications": [],
       "confidence": 1.0
     },
@@ -291,6 +341,19 @@
       "name_zh": "深度赋智MGX",
       "category": "ai-coding",
       "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "authing-cn",
+      "domain": "authing.cn",
+      "name_en": "Authing",
+      "name_zh": "Authing",
+      "category": "identity",
+      "certifications": [
+        "ISO 9001",
+        "GDPR",
+        "Information Security Level 3 Protection (China)"
+      ],
       "confidence": 1.0
     },
     {
@@ -391,6 +454,15 @@
       "confidence": 0.889
     },
     {
+      "slug": "bitbrowser-net",
+      "domain": "bitbrowser.net",
+      "name_en": "BitBrowser",
+      "name_zh": null,
+      "category": "antidetect-browser",
+      "certifications": [],
+      "confidence": 0.909
+    },
+    {
       "slug": "boardmix-com",
       "domain": "boardmix.com",
       "name_en": "Boardmix",
@@ -454,7 +526,7 @@
       "name_zh": null,
       "category": "ai-video",
       "certifications": [],
-      "confidence": 0.875
+      "confidence": 0.889
     },
     {
       "slug": "celerdata-com",
@@ -480,6 +552,24 @@
       "confidence": 0.727
     },
     {
+      "slug": "chaitin-com",
+      "domain": "chaitin.com",
+      "name_en": "Chaitin",
+      "name_zh": "北京长亭科技有限公司",
+      "category": "security",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "channelwill-com",
+      "domain": "channelwill.com",
+      "name_en": "CWILL",
+      "name_zh": null,
+      "category": "saas-ecommerce",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
       "slug": "chat2db-ai",
       "domain": "chat2db.ai",
       "name_en": "Chat2DB",
@@ -496,6 +586,24 @@
       "category": "document-ai",
       "certifications": [],
       "confidence": 1.0
+    },
+    {
+      "slug": "cherry-ai-com",
+      "domain": "cherry-ai.com",
+      "name_en": "Cherry Studio",
+      "name_zh": "上海千彗科技有限公司",
+      "category": "ai-productivity",
+      "certifications": [],
+      "confidence": 0.889
+    },
+    {
+      "slug": "cjdropshipping-com",
+      "domain": "cjdropshipping.com",
+      "name_en": "CJ Dropshipping",
+      "name_zh": null,
+      "category": "ecommerce",
+      "certifications": [],
+      "confidence": 0.7
     },
     {
       "slug": "clacky-ai",
@@ -516,6 +624,15 @@
       "confidence": 1.0
     },
     {
+      "slug": "clonbrowser-com",
+      "domain": "clonbrowser.com",
+      "name_en": "ClonBrowser",
+      "name_zh": null,
+      "category": null,
+      "certifications": [],
+      "confidence": 0.818
+    },
+    {
       "slug": "cloudwalk-com",
       "domain": "cloudwalk.com",
       "name_en": "CloudWalk Technology",
@@ -534,6 +651,15 @@
       "confidence": 1.0
     },
     {
+      "slug": "codegeex-cn",
+      "domain": "codegeex.cn",
+      "name_en": "CodeGeeX",
+      "name_zh": "CodeGeeX",
+      "category": "ai-coding",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
       "slug": "collov-ai",
       "domain": "collov.ai",
       "name_en": "Collov AI",
@@ -541,6 +667,15 @@
       "category": null,
       "certifications": [],
       "confidence": 0.667
+    },
+    {
+      "slug": "convertlab-com",
+      "domain": "convertlab.com",
+      "name_en": "ConvertLab",
+      "name_zh": "Convertlab",
+      "category": "martech",
+      "certifications": [],
+      "confidence": 0.917
     },
     {
       "slug": "coohom-com",
@@ -608,6 +743,15 @@
       "confidence": 1.0
     },
     {
+      "slug": "daocloud-io",
+      "domain": "daocloud.io",
+      "name_en": "DaoCloud",
+      "name_zh": "DaoCloud",
+      "category": "cloud-infra",
+      "certifications": [],
+      "confidence": 0.818
+    },
+    {
       "slug": "databend-com",
       "domain": "databend.com",
       "name_en": "Databend",
@@ -620,6 +764,24 @@
       "confidence": 0.923
     },
     {
+      "slug": "dataease-io",
+      "domain": "dataease.io",
+      "name_en": "FIT2CLOUD",
+      "name_zh": "杭州飞致云信息科技有限公司",
+      "category": "bi",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "datagrand-com",
+      "domain": "datagrand.com",
+      "name_en": "DataGrand",
+      "name_zh": "达观数据",
+      "category": "ai-document",
+      "certifications": [],
+      "confidence": 0.9
+    },
+    {
       "slug": "datastrato-ai",
       "domain": "datastrato.ai",
       "name_en": "Datastrato",
@@ -629,6 +791,26 @@
         "SOC 2 Type II"
       ],
       "confidence": 0.727
+    },
+    {
+      "slug": "dcloud-io",
+      "domain": "dcloud.io",
+      "name_en": "DCloud",
+      "name_zh": "数字天堂",
+      "category": "devtools",
+      "certifications": [
+        "国家信息安全等级保护三级"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "slug": "deemos-com",
+      "domain": "deemos.com",
+      "name_en": "Deemos",
+      "name_zh": "Deemos",
+      "category": "ai-3d",
+      "certifications": [],
+      "confidence": 1.0
     },
     {
       "slug": "deepflow-io",
@@ -646,7 +828,7 @@
       "name_zh": "深度求索",
       "category": "ai-llm",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.833
     },
     {
       "slug": "derbysoft-com",
@@ -676,13 +858,22 @@
       "confidence": 1.0
     },
     {
+      "slug": "dicloak-com",
+      "domain": "dicloak.com",
+      "name_en": "DICloak",
+      "name_zh": null,
+      "category": null,
+      "certifications": [],
+      "confidence": 0.889
+    },
+    {
       "slug": "dify-ai",
       "domain": "dify.ai",
-      "name_en": "Dify",
+      "name_en": "LangGenius, Inc.",
       "name_zh": null,
       "category": "ai-devtools",
       "certifications": [],
-      "confidence": 0.875
+      "confidence": 0.9
     },
     {
       "slug": "dolphindb-com",
@@ -701,6 +892,33 @@
       "category": "ai-video",
       "certifications": [],
       "confidence": 0.923
+    },
+    {
+      "slug": "dp-tech",
+      "domain": "dp.tech",
+      "name_en": "DP Technology",
+      "name_zh": "深势科技",
+      "category": "ai-platform",
+      "certifications": [],
+      "confidence": 0.917
+    },
+    {
+      "slug": "dropshipman-com",
+      "domain": "dropshipman.com",
+      "name_en": "Dropshipman",
+      "name_zh": null,
+      "category": "saas-ecommerce",
+      "certifications": [],
+      "confidence": 0.778
+    },
+    {
+      "slug": "dsers-com",
+      "domain": "dsers.com",
+      "name_en": "DSers",
+      "name_zh": null,
+      "category": "saas-ecommerce",
+      "certifications": [],
+      "confidence": 0.818
     },
     {
       "slug": "duix-com",
@@ -794,12 +1012,33 @@
       "confidence": 0.9
     },
     {
+      "slug": "eprolo-com",
+      "domain": "eprolo.com",
+      "name_en": "EPROLO",
+      "name_zh": null,
+      "category": null,
+      "certifications": [],
+      "confidence": 0.7
+    },
+    {
       "slug": "etowertech-com",
       "domain": "etowertech.com",
       "name_en": "WallTech",
       "name_zh": "沃行科技",
       "category": "logistics-saas",
       "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "evoto-ai",
+      "domain": "evoto.ai",
+      "name_en": "Evoto",
+      "name_zh": null,
+      "category": "ai-photo",
+      "certifications": [
+        "GDPR",
+        "CCPA"
+      ],
       "confidence": 1.0
     },
     {
@@ -865,7 +1104,7 @@
       "name_zh": "万兴喵影",
       "category": "ai-video",
       "certifications": [],
-      "confidence": 0.889
+      "confidence": 1.0
     },
     {
       "slug": "finalroundai-com",
@@ -1001,6 +1240,15 @@
       "confidence": 0.75
     },
     {
+      "slug": "geelark-com",
+      "domain": "geelark.com",
+      "name_en": "GeeLark",
+      "name_zh": "GeeLark",
+      "category": null,
+      "certifications": [],
+      "confidence": 0.667
+    },
+    {
       "slug": "geetest-com",
       "domain": "geetest.com",
       "name_en": "GeeTest",
@@ -1105,6 +1353,15 @@
       "confidence": 0.889
     },
     {
+      "slug": "halo-run",
+      "domain": "halo.run",
+      "name_en": "Halo",
+      "name_zh": "凌霞（深圳）软件有限公司",
+      "category": "devtools",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
       "slug": "heygen-com",
       "domain": "heygen.com",
       "name_en": "HeyGen",
@@ -1117,6 +1374,15 @@
         "AI ACT",
         "DPF"
       ],
+      "confidence": 1.0
+    },
+    {
+      "slug": "higress-io",
+      "domain": "higress.io",
+      "name_en": "Higress",
+      "name_zh": "Higress",
+      "category": "api-gateway",
+      "certifications": [],
       "confidence": 1.0
     },
     {
@@ -1181,6 +1447,15 @@
         "网络安全等级保护"
       ],
       "confidence": 1.0
+    },
+    {
+      "slug": "hubstudio-com",
+      "domain": "hubstudio.com",
+      "name_en": "Hubstudio",
+      "name_zh": "Hubstudio",
+      "category": null,
+      "certifications": [],
+      "confidence": 0.727
     },
     {
       "slug": "hyper3d-ai",
@@ -1277,6 +1552,15 @@
       "confidence": 0.8
     },
     {
+      "slug": "ixbrowser-com",
+      "domain": "ixbrowser.com",
+      "name_en": "IXBrowser",
+      "name_zh": null,
+      "category": "saas-ecommerce",
+      "certifications": [],
+      "confidence": 0.889
+    },
+    {
       "slug": "jijiaerp-com",
       "domain": "jijiaerp.com",
       "name_en": "Jijia ERP",
@@ -1304,6 +1588,15 @@
       "category": "ai-career",
       "certifications": [],
       "confidence": 0.889
+    },
+    {
+      "slug": "js-design",
+      "domain": "js.design",
+      "name_en": "JSdesign",
+      "name_zh": "即时设计",
+      "category": "design-saas",
+      "certifications": [],
+      "confidence": 0.917
     },
     {
       "slug": "juicefs-com",
@@ -1392,6 +1685,15 @@
       "name_zh": "可灵AI",
       "category": "ai-video",
       "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "koderover-com",
+      "domain": "koderover.com",
+      "name_en": "KodeRover",
+      "name_zh": "KodeRover",
+      "category": "devtools",
+      "certifications": [],
       "confidence": 0.857
     },
     {
@@ -1436,6 +1738,15 @@
       "confidence": 0.909
     },
     {
+      "slug": "lalicat-com",
+      "domain": "lalicat.com",
+      "name_en": "Lalicat",
+      "name_zh": null,
+      "category": "saas-ecommerce",
+      "certifications": [],
+      "confidence": 0.9
+    },
+    {
       "slug": "larksuite-com",
       "domain": "larksuite.com",
       "name_en": "Lark",
@@ -1443,6 +1754,15 @@
       "category": "collaboration",
       "certifications": [],
       "confidence": 0.833
+    },
+    {
+      "slug": "layabox-com",
+      "domain": "layabox.com",
+      "name_en": "Layabox",
+      "name_zh": "北京蓝亚盒子科技有限公司",
+      "category": "devtools",
+      "certifications": [],
+      "confidence": 1.0
     },
     {
       "slug": "leadscloud-com",
@@ -1522,6 +1842,15 @@
       "confidence": 0.778
     },
     {
+      "slug": "lowcoder-cloud",
+      "domain": "lowcoder.cloud",
+      "name_en": "Lowcoder",
+      "name_zh": null,
+      "category": "lowcode",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
       "slug": "mabangerp-com",
       "domain": "mabangerp.com",
       "name_en": "Mabang ERP",
@@ -1568,7 +1897,16 @@
       "name_zh": null,
       "category": "ai-agent",
       "certifications": [],
-      "confidence": 0.833
+      "confidence": 1.0
+    },
+    {
+      "slug": "mastergo-com",
+      "domain": "mastergo.com",
+      "name_en": "MasterGo",
+      "name_zh": "莫高设计",
+      "category": "design-saas",
+      "certifications": [],
+      "confidence": 1.0
     },
     {
       "slug": "matrixorigin-io",
@@ -1578,6 +1916,15 @@
       "category": "database",
       "certifications": [],
       "confidence": 0.778
+    },
+    {
+      "slug": "maxkb-cn",
+      "domain": "maxkb.cn",
+      "name_en": "MaxKB",
+      "name_zh": "MaxKB",
+      "category": "ai-devtools",
+      "certifications": [],
+      "confidence": 0.6
     },
     {
       "slug": "me-bot",
@@ -1596,6 +1943,15 @@
       "category": "ai-photo/video-editing",
       "certifications": [],
       "confidence": 0.778
+    },
+    {
+      "slug": "memfiredb-com",
+      "domain": "memfiredb.com",
+      "name_en": "MemFire",
+      "name_zh": "MemFire",
+      "category": "database",
+      "certifications": [],
+      "confidence": 0.9
     },
     {
       "slug": "meshy-ai",
@@ -1617,7 +1973,7 @@
       "name_zh": null,
       "category": "ai-llm",
       "certifications": [],
-      "confidence": 0.7
+      "confidence": 0.9
     },
     {
       "slug": "mintegral-com",
@@ -1631,10 +1987,42 @@
       "confidence": 0.833
     },
     {
+      "slug": "mobvista-com",
+      "domain": "mobvista.com",
+      "name_en": "Mobvista",
+      "name_zh": null,
+      "category": "adtech",
+      "certifications": [
+        "SOC2",
+        "ISO27001",
+        "ePrivacyseal",
+        "kidSAFE"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "slug": "mobvoi-com",
+      "domain": "mobvoi.com",
+      "name_en": "Mobvoi",
+      "name_zh": null,
+      "category": null,
+      "certifications": [],
+      "confidence": 0.857
+    },
+    {
       "slug": "mockplus-com",
       "domain": "mockplus.com",
       "name_en": "Mockplus",
       "name_zh": "摹客",
+      "category": "design",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "modao-cc",
+      "domain": "modao.cc",
+      "name_en": "Modao",
+      "name_zh": "墨刀",
       "category": "design",
       "certifications": [],
       "confidence": 1.0
@@ -1647,6 +2035,15 @@
       "category": "ai-llm",
       "certifications": [],
       "confidence": 1.0
+    },
+    {
+      "slug": "moego-pet",
+      "domain": "moego.pet",
+      "name_en": "MoeGo",
+      "name_zh": null,
+      "category": "saas",
+      "certifications": [],
+      "confidence": 0.909
     },
     {
       "slug": "mokahr-io",
@@ -1683,6 +2080,15 @@
       "category": "ai-video",
       "certifications": [],
       "confidence": 1.0
+    },
+    {
+      "slug": "morelogin-com",
+      "domain": "morelogin.com",
+      "name_en": "MoreLogin",
+      "name_zh": "MoreLogin",
+      "category": "saas-ecommerce",
+      "certifications": [],
+      "confidence": 0.929
     },
     {
       "slug": "morphstudio-com",
@@ -1814,6 +2220,15 @@
       "confidence": 0.6
     },
     {
+      "slug": "nstbrowser-io",
+      "domain": "nstbrowser.io",
+      "name_en": "Nstbrowser",
+      "name_zh": "Nstbrowser",
+      "category": null,
+      "certifications": [],
+      "confidence": 0.727
+    },
+    {
       "slug": "nxcloud-com",
       "domain": "nxcloud.com",
       "name_en": "NXCLOUD",
@@ -1830,6 +2245,15 @@
       "category": "database",
       "certifications": [],
       "confidence": 0.75
+    },
+    {
+      "slug": "oceanpayment-com",
+      "domain": "oceanpayment.com",
+      "name_en": "Oceanpayment",
+      "name_zh": "Oceanpayment",
+      "category": "fintech",
+      "certifications": [],
+      "confidence": 0.909
     },
     {
       "slug": "okki-com",
@@ -1887,6 +2311,24 @@
       "confidence": 1.0
     },
     {
+      "slug": "opencsg-com",
+      "domain": "opencsg.com",
+      "name_en": "OpenCSG",
+      "name_zh": "开放传神",
+      "category": "ai-infra",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "openpie-com",
+      "domain": "openpie.com",
+      "name_en": "OpenPie",
+      "name_zh": "杭州拓数派科技发展有限公司",
+      "category": "database",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
       "slug": "openresty-com",
       "domain": "openresty.com",
       "name_en": "OpenResty Inc.",
@@ -1902,7 +2344,7 @@
       "name_zh": null,
       "category": "ai-video",
       "certifications": [],
-      "confidence": 0.818
+      "confidence": 1.0
     },
     {
       "slug": "pacdora-com",
@@ -1967,6 +2409,15 @@
       "certifications": [
         "ISO27001"
       ],
+      "confidence": 1.0
+    },
+    {
+      "slug": "pdfgear-com",
+      "domain": "pdfgear.com",
+      "name_en": "PDFgear",
+      "name_zh": null,
+      "category": "ai-document",
+      "certifications": [],
       "confidence": 1.0
     },
     {
@@ -2087,7 +2538,7 @@
       "name_zh": null,
       "category": "ai-video",
       "certifications": [],
-      "confidence": 0.875
+      "confidence": 1.0
     },
     {
       "slug": "pokee-ai",
@@ -2126,6 +2577,15 @@
       "confidence": 1.0
     },
     {
+      "slug": "ppinfra-com",
+      "domain": "ppinfra.com",
+      "name_en": "PPIO",
+      "name_zh": "派欧云计算（上海）有限公司",
+      "category": "ai-infrastructure",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
       "slug": "promeai-pro",
       "domain": "promeai.pro",
       "name_en": "LibAI Lab",
@@ -2144,6 +2604,17 @@
         "PCI-DSS"
       ],
       "confidence": 0.8
+    },
+    {
+      "slug": "qfpay-com",
+      "domain": "qfpay.com",
+      "name_en": "QFPay",
+      "name_zh": null,
+      "category": null,
+      "certifications": [
+        "PCI-DSS"
+      ],
+      "confidence": 0.778
     },
     {
       "slug": "qoder-com",
@@ -2191,6 +2662,15 @@
       "confidence": 0.75
     },
     {
+      "slug": "rainbond-com",
+      "domain": "rainbond.com",
+      "name_en": "Rainbond",
+      "name_zh": "Rainbond",
+      "category": "cloudnative",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
       "slug": "readdy-ai",
       "domain": "readdy.ai",
       "name_en": "Readdy",
@@ -2198,6 +2678,15 @@
       "category": "design",
       "certifications": [],
       "confidence": 0.909
+    },
+    {
+      "slug": "redfinger-com",
+      "domain": "redfinger.com",
+      "name_en": "Redfinger",
+      "name_zh": null,
+      "category": null,
+      "certifications": [],
+      "confidence": 0.75
     },
     {
       "slug": "refly-ai",
@@ -2216,6 +2705,15 @@
       "category": "ai-image",
       "certifications": [],
       "confidence": 1.0
+    },
+    {
+      "slug": "reqable-com",
+      "domain": "reqable.com",
+      "name_en": "Reqable",
+      "name_zh": null,
+      "category": null,
+      "certifications": [],
+      "confidence": 0.8
     },
     {
       "slug": "risingwave-com",
@@ -2292,6 +2790,15 @@
       "confidence": 0.769
     },
     {
+      "slug": "scrapeless-com",
+      "domain": "scrapeless.com",
+      "name_en": "Scrapeless",
+      "name_zh": null,
+      "category": "devtools",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
       "slug": "seaart-ai",
       "domain": "seaart.ai",
       "name_en": "SeaArt",
@@ -2307,6 +2814,22 @@
       "name_zh": "环界云计算",
       "category": "infra",
       "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "selectdb-com",
+      "domain": "selectdb.com",
+      "name_en": "SelectDB",
+      "name_zh": "SelectDB",
+      "category": "database",
+      "certifications": [
+        "CMMI Level 3",
+        "Classified Protection Level 3",
+        "ISO/IEC 27001:2022",
+        "ISO/IEC 27018:2019",
+        "ISO/IEC 27017:2015",
+        "Trusted Database Evaluation"
+      ],
       "confidence": 1.0
     },
     {
@@ -2344,6 +2867,15 @@
       "category": "ai-image",
       "certifications": [],
       "confidence": 0.625
+    },
+    {
+      "slug": "shipout-com",
+      "domain": "shipout.com",
+      "name_en": "ShipOut",
+      "name_zh": null,
+      "category": "logistics-saas",
+      "certifications": [],
+      "confidence": 0.9
     },
     {
       "slug": "shopastro-com",
@@ -2532,6 +3064,15 @@
       "confidence": 0.875
     },
     {
+      "slug": "taichi-graphics",
+      "domain": "taichi.graphics",
+      "name_en": "Taichi Graphics",
+      "name_zh": null,
+      "category": "ai-infra",
+      "certifications": [],
+      "confidence": 0.889
+    },
+    {
       "slug": "talkie-ai-com",
       "domain": "talkie-ai.com",
       "name_en": "Talkie",
@@ -2581,6 +3122,24 @@
       "category": "ai-image",
       "certifications": [],
       "confidence": 0.8
+    },
+    {
+      "slug": "tensorchord-ai",
+      "domain": "tensorchord.ai",
+      "name_en": "TensorChord",
+      "name_zh": null,
+      "category": "ai-infra",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
+      "slug": "tezign-com",
+      "domain": "tezign.com",
+      "name_en": "Tezign",
+      "name_zh": "特赞",
+      "category": null,
+      "certifications": [],
+      "confidence": 0.833
     },
     {
       "slug": "threatbook-io",
@@ -2679,6 +3238,15 @@
       "confidence": 0.917
     },
     {
+      "slug": "transwarp-io",
+      "domain": "transwarp.io",
+      "name_en": "Transwarp",
+      "name_zh": null,
+      "category": "data-infra",
+      "certifications": [],
+      "confidence": 1.0
+    },
+    {
       "slug": "trickle-so",
       "domain": "trickle.so",
       "name_en": "Trickle",
@@ -2773,6 +3341,15 @@
       "confidence": 0.875
     },
     {
+      "slug": "usadrop-com",
+      "domain": "usadrop.com",
+      "name_en": "USAdrop",
+      "name_zh": "USAdrop",
+      "category": "saas-ecommerce",
+      "certifications": [],
+      "confidence": 0.867
+    },
+    {
       "slug": "useepay-com",
       "domain": "useepay.com",
       "name_en": "UseePay",
@@ -2800,13 +3377,24 @@
       "confidence": 0.889
     },
     {
+      "slug": "vidnoz-com",
+      "domain": "vidnoz.com",
+      "name_en": "Vidnoz",
+      "name_zh": null,
+      "category": null,
+      "certifications": [
+        "ISO27001"
+      ],
+      "confidence": 0.909
+    },
+    {
       "slug": "vidu-io",
       "domain": "vidu.io",
       "name_en": "Vidu",
-      "name_zh": null,
+      "name_zh": "生数科技",
       "category": "ai-video",
       "certifications": [],
-      "confidence": 0.727
+      "confidence": 0.818
     },
     {
       "slug": "viggle-ai",
@@ -2843,6 +3431,15 @@
       "category": "ai-video",
       "certifications": [],
       "confidence": 1.0
+    },
+    {
+      "slug": "vmlogin-com",
+      "domain": "vmlogin.com",
+      "name_en": "VMLogin",
+      "name_zh": "安徽铁脚印网络科技有限公司",
+      "category": null,
+      "certifications": [],
+      "confidence": 0.727
     },
     {
       "slug": "voc-ai",
@@ -2891,6 +3488,15 @@
       "category": "ai-video",
       "certifications": [],
       "confidence": 0.833
+    },
+    {
+      "slug": "webeye-com",
+      "domain": "webeye.com",
+      "name_en": "WebEye",
+      "name_zh": "WebEye",
+      "category": "adtech",
+      "certifications": [],
+      "confidence": 1.0
     },
     {
       "slug": "wegic-ai",
@@ -3030,13 +3636,25 @@
       "confidence": 0.625
     },
     {
+      "slug": "yuansfer-com",
+      "domain": "yuansfer.com",
+      "name_en": "Yuansfer",
+      "name_zh": "Yuansfer",
+      "category": "fintech-saas",
+      "certifications": [
+        "SOC2",
+        "PCI-DSS"
+      ],
+      "confidence": 0.833
+    },
+    {
       "slug": "z-ai",
       "domain": "z.ai",
       "name_en": "Zhipu AI",
       "name_zh": "智谱AI",
       "category": "ai-llm",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.714
     },
     {
       "slug": "zeemo-ai",
@@ -3101,6 +3719,15 @@
       "name_en": "ZMO.AI",
       "name_zh": "感知阶跃",
       "category": "ai-image",
+      "certifications": [],
+      "confidence": 0.75
+    },
+    {
+      "slug": "zwsoft-com",
+      "domain": "zwsoft.com",
+      "name_en": "ZWSOFT",
+      "name_zh": null,
+      "category": null,
       "certifications": [],
       "confidence": 0.75
     }
