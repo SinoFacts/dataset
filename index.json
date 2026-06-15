@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-14T19:03:46",
+  "generated_at": "2026-06-15T19:04:08",
   "companies": [
     {
       "slug": "01-ai",
@@ -826,9 +826,9 @@
       "domain": "deepseek.com",
       "name_en": "DeepSeek",
       "name_zh": "深度求索",
-      "category": "ai-llm",
+      "category": null,
       "certifications": [],
-      "confidence": 0.833
+      "confidence": 0.917
     },
     {
       "slug": "derbysoft-com",
@@ -1341,7 +1341,7 @@
       "name_zh": "海螺AI",
       "category": "ai-video",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.857
     },
     {
       "slug": "hailuoai-video",
@@ -1973,7 +1973,7 @@
       "name_zh": null,
       "category": "ai-llm",
       "certifications": [],
-      "confidence": 0.9
+      "confidence": 0.778
     },
     {
       "slug": "mintegral-com",
@@ -3654,7 +3654,7 @@
       "name_zh": "智谱AI",
       "category": "ai-llm",
       "certifications": [],
-      "confidence": 0.714
+      "confidence": 0.857
     },
     {
       "slug": "zeemo-ai",

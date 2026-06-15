@@ -2,7 +2,7 @@
   "companies": 383,
   "with_certifications": 79,
   "categories": {
-    "other": 48,
+    "other": 49,
     "ai-video": 28,
     "ai-image": 26,
     "devtools": 23,
@@ -14,7 +14,7 @@
     "data-infra": 15,
     "ai-agent": 14,
     "security": 13,
-    "ai-llm": 11,
+    "ai-llm": 10,
     "ai-infra": 9,
     "bi-saas": 9,
     "enterprise-saas": 8,
@@ -42,5 +42,5 @@
     "fintech": 1,
     "ai-infrastructure": 1
   },
-  "generated_at": "2026-06-14"
+  "generated_at": "2026-06-15"
 }
