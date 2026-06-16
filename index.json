@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-15T19:04:08",
+  "generated_at": "2026-06-16T19:03:29",
   "companies": [
     {
       "slug": "01-ai",
@@ -526,7 +526,7 @@
       "name_zh": null,
       "category": "ai-video",
       "certifications": [],
-      "confidence": 0.889
+      "confidence": 0.667
     },
     {
       "slug": "celerdata-com",
@@ -1100,11 +1100,11 @@
     {
       "slug": "filmora-io",
       "domain": "filmora.io",
-      "name_en": "Wondershare Filmora",
+      "name_en": "Wondershare",
       "name_zh": "万兴喵影",
       "category": "ai-video",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.875
     },
     {
       "slug": "finalroundai-com",
@@ -2344,7 +2344,7 @@
       "name_zh": null,
       "category": "ai-video",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.8
     },
     {
       "slug": "pacdora-com",

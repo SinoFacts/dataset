@@ -48,7 +48,7 @@ boardmix-com,boardmix.com,Boardmix,,Boardmix|Boardmix AI,enterprise-saas,,"Shenz
 bytebase-com,bytebase.com,Bytebase,,Bytebase,other,,,SOC2 Type 2|HIPAA,,freemium,0.889,2026-06-11,https://sinofacts.com/companies/bytebase-com
 byteplus-com,byteplus.com,BytePlus,,Dreamina Seedance 2.0|Dola Seedream 5.0 Lite|Seed-TTS 2.0|Seed-ASR 2.0|ArkClaw,infrastructure,,,ISO 9001|ISO 20000|ISO 22301|ISO 27001|ISO 27017|ISO 27018|ISO 27701|MTCS Level 3|CSA STAR|SOC 1|SOC 2|SOC 3|PCI DSS,Global,freemium,0.909,2026-06-12,https://sinofacts.com/companies/byteplus-com
 camscanner-com,camscanner.com,CamScanner,扫描全能王,CamScanner,ai-productivity,,,ISO 27001|ISO 27701|ISO 20000,Global,,0.727,2026-06-12,https://sinofacts.com/companies/camscanner-com
-capcut-com,capcut.com,CapCut,,CapCut|Dreamina AI|Pippit AI,ai-video,,,,,free,0.889,2026-06-11,https://sinofacts.com/companies/capcut-com
+capcut-com,capcut.com,CapCut,,CapCut|Dreamina AI|Pippit AI,ai-video,,,,,,0.667,2026-06-16,https://sinofacts.com/companies/capcut-com
 celerdata-com,celerdata.com,PhoenixAI,,PhoenixAI|PhoenixAI Cloud|PhoenixAI Anywhere,database,,,SOC2,,,0.846,2026-06-11,https://sinofacts.com/companies/celerdata-com
 certik-com,certik.com,CertiK,,Skynet|SkyInsights,security,,,SOC2|ISO27001,Global|United States|Singapore|Hong Kong|Japan|Abu Dhabi|Korea,,0.727,2026-06-12,https://sinofacts.com/companies/certik-com
 chaitin-com,chaitin.com,Chaitin,北京长亭科技有限公司,SafeLine|X-Ray|CloudWalker|Cloud Atlas|Alioth|ChaitinAI|COSMOS|Insight|T-ANSWER|D-Sensor|CloudWalker-DDR,security,,"Beijing, China",,,unknown,1.0,2026-06-13,https://sinofacts.com/companies/chaitin-com
@@ -109,7 +109,7 @@ fastgpt-io,fastgpt.io,FastGPT,,FastGPT,ai-agent,,,,,freemium,0.75,2026-06-12,htt
 fastmoss-com,fastmoss.com,FastMoss,,FastMoss|YooFinds|MossCreator|Chrome Extension,bi-saas,,"Beijing, China",,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/fastmoss-com
 fellou-ai,fellou.ai,Fellou,,Fellou,ai-agent,,,,,unknown,0.667,2026-06-12,https://sinofacts.com/companies/fellou-ai
 felo-ai,felo.ai,Felo,,Felo,ai-search,,,,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/felo-ai
-filmora-io,filmora.io,Wondershare Filmora,万兴喵影,Filmora,ai-video,,,,Global,freemium,1.0,2026-06-11,https://sinofacts.com/companies/filmora-io
+filmora-io,filmora.io,Wondershare,万兴喵影,Filmora,ai-video,,,,Global,,0.875,2026-06-16,https://sinofacts.com/companies/filmora-io
 finalroundai-com,finalroundai.com,Final Round AI,,Final Round AI|Interview Copilot|AI Mock Interview,ai-productivity,,,,Global,freemium,0.8,2026-06-11,https://sinofacts.com/companies/finalroundai-com
 finebi-com,finebi.com,FanRuan Software,帆软软件有限公司,FineBI,bi-saas,,,,Global,unknown,1.0,2026-06-11,https://sinofacts.com/companies/finebi-com
 finereport-com,finereport.com,FineReport,帆软FineReport,FineReport,bi-saas,,,,,freemium,0.818,2026-06-11,https://sinofacts.com/companies/finereport-com
@@ -237,7 +237,7 @@ openart-ai,openart.ai,OpenArt,OpenArt,OpenArt,ai-image,,,,Global,freemium,1.0,20
 opencsg-com,opencsg.com,OpenCSG,开放传神,CSGHub|CSGShip,ai-infra,,,,,unknown,1.0,2026-06-13,https://sinofacts.com/companies/opencsg-com
 openpie-com,openpie.com,OpenPie,杭州拓数派科技发展有限公司,PieDataCS|PieCloudDB|PieCloudVector|PieDataComputeFoundry|PieFPGA,database,,,,,unknown,1.0,2026-06-13,https://sinofacts.com/companies/openpie-com
 openresty-com,openresty.com,OpenResty Inc.,,OpenResty XRay|OpenResty Edge,infrastructure,,"San Francisco Bay Area, United States",,,unknown,0.875,2026-06-12,https://sinofacts.com/companies/openresty-com
-opus-pro,opus.pro,OpusClip,,OpusClip,ai-video,,,,Global,freemium,1.0,2026-06-11,https://sinofacts.com/companies/opus-pro
+opus-pro,opus.pro,OpusClip,,OpusClip,ai-video,,,,,freemium,0.8,2026-06-16,https://sinofacts.com/companies/opus-pro
 pacdora-com,pacdora.com,Pacdora,包小盒,Pacdora,design-saas,,,,,freemium,1.0,2026-06-12,https://sinofacts.com/companies/pacdora-com
 paradot-ai,paradot.ai,Paradot,Paradot,Paradot,ai-companion,,,,,unknown,1.0,2026-06-12,https://sinofacts.com/companies/paradot-ai
 parcelpanel-com,parcelpanel.com,ParcelPanel,,ParcelWILL,logistics-saas,,,ISO27001|GDPR,,,0.769,2026-06-12,https://sinofacts.com/companies/parcelpanel-com
@@ -256,7 +256,7 @@ pingcap-com,pingcap.com,PingCAP,平凯星辰,TiDB|TiDB Cloud|TiKV,database,,,SOC
 pingpongx-com,pingpongx.com,PingPong,,PingPong Platform|PingPong Payments,other,2015,,SOC2|ISO27001|PCI-DSS|GDPR,Global,,0.727,2026-06-12,https://sinofacts.com/companies/pingpongx-com
 pixai-art,pixai.art,PixAI,,PixAI,ai-image,,,,,freemium,1.0,2026-06-11,https://sinofacts.com/companies/pixai-art
 pixso-net,pixso.net,Pixso,,Pixso|Boardmix|Presenti AI|Paico,design-saas,,Hong Kong,,Global,freemium,1.0,2026-06-11,https://sinofacts.com/companies/pixso-net
-pixverse-ai,pixverse.ai,PixVerse,,PixVerse|PixVerse API,ai-video,,,,,unknown,1.0,2026-06-11,https://sinofacts.com/companies/pixverse-ai
+pixverse-ai,pixverse.ai,PixVerse,,PixVerse|PixVerse API,ai-video,,,,Global,unknown,1.0,2026-06-16,https://sinofacts.com/companies/pixverse-ai
 pokee-ai,pokee.ai,Pokee AI,Pokee AI,Pokee AI|PokeeResearch,ai-agent,,"San Francisco, CA",,Global|North America|APAC|Europe,freemium,1.0,2026-06-12,https://sinofacts.com/companies/pokee-ai
 pollo-ai,pollo.ai,Pollo AI,,Pollo AI|Pollo Agent,ai-video,,,,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/pollo-ai
 polybuzz-ai,polybuzz.ai,PolyBuzz,,PolyBuzz,ai-companion,,,,,freemium,1.0,2026-06-12,https://sinofacts.com/companies/polybuzz-ai
