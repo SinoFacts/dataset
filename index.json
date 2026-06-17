@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-16T19:03:29",
+  "generated_at": "2026-06-17T19:03:57",
   "companies": [
     {
       "slug": "01-ai",
@@ -156,7 +156,7 @@
     {
       "slug": "airbrush-com",
       "domain": "airbrush.com",
-      "name_en": "AirBrush",
+      "name_en": "Airbrush",
       "name_zh": "美图",
       "category": "ai-photo",
       "certifications": [],
@@ -404,7 +404,7 @@
     {
       "slug": "beautyplus-com",
       "domain": "beautyplus.com",
-      "name_en": "BeautyPlus",
+      "name_en": "Pixocial Technology (Singapore) Pte. Ltd.",
       "name_zh": null,
       "category": "ai-photo",
       "certifications": [],
@@ -722,7 +722,7 @@
       "name_zh": null,
       "category": "ai-photo",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.909
     },
     {
       "slug": "cyclone-robotics-com",
@@ -2463,7 +2463,7 @@
       "name_zh": "形色",
       "category": "ai-photo",
       "certifications": [],
-      "confidence": 0.667
+      "confidence": 1.0
     },
     {
       "slug": "picwish-com",
