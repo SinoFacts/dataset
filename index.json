@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-18T19:03:36",
+  "generated_at": "2026-06-19T19:04:17",
   "companies": [
     {
       "slug": "01-ai",
@@ -1113,7 +1113,7 @@
       "name_zh": null,
       "category": "ai-productivity",
       "certifications": [],
-      "confidence": 0.8
+      "confidence": 0.9
     },
     {
       "slug": "finebi-com",
@@ -1410,7 +1410,7 @@
       "name_zh": null,
       "category": "ai-writing",
       "certifications": [],
-      "confidence": 0.75
+      "confidence": 0.727
     },
     {
       "slug": "homestyler-com",
@@ -1482,7 +1482,7 @@
       "name_zh": "沉浸式翻译",
       "category": "ai-translation",
       "certifications": [],
-      "confidence": 0.818
+      "confidence": 0.8
     },
     {
       "slug": "imyfone-com",
@@ -2115,7 +2115,7 @@
       "name_zh": null,
       "category": "ai-music",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.8
     },
     {
       "slug": "myscale-com",
