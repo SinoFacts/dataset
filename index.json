@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-19T19:04:17",
+  "generated_at": "2026-06-20T19:03:22",
   "companies": [
     {
       "slug": "01-ai",
@@ -478,10 +478,10 @@
       "name_zh": null,
       "category": null,
       "certifications": [
-        "SOC2 Type 2",
+        "SOC2",
         "HIPAA"
       ],
-      "confidence": 0.889
+      "confidence": 0.727
     },
     {
       "slug": "byteplus-com",
@@ -1888,7 +1888,7 @@
       "name_zh": "蝴蝶效应",
       "category": "ai-agent",
       "certifications": [],
-      "confidence": 0.875
+      "confidence": 0.909
     },
     {
       "slug": "manus-im",
@@ -2287,19 +2287,19 @@
     {
       "slug": "ones-com",
       "domain": "ones.com",
-      "name_en": "ONES.com",
+      "name_en": "ONES",
       "name_zh": null,
-      "category": "devtools",
+      "category": null,
       "certifications": [
         "SOC2",
         "ISO27001",
         "ISO9001",
         "ISO20000",
         "ISO27018",
-        "CMMI Level 5",
-        "GDPR"
+        "GDPR",
+        "CMMI Level 5"
       ],
-      "confidence": 0.909
+      "confidence": 0.8
     },
     {
       "slug": "openart-ai",
@@ -2938,7 +2938,7 @@
       "name_zh": "天工AI",
       "category": "ai-agent",
       "certifications": [],
-      "confidence": 0.75
+      "confidence": 0.857
     },
     {
       "slug": "sleekflow-io",
