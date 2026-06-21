@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-20T19:03:22",
+  "generated_at": "2026-06-21T19:03:53",
   "companies": [
     {
       "slug": "01-ai",
@@ -173,7 +173,7 @@
         "SOC1",
         "SOC2"
       ],
-      "confidence": 0.933
+      "confidence": 0.923
     },
     {
       "slug": "aispeech-com",
@@ -220,13 +220,13 @@
       "name_zh": "阿里云",
       "category": "cloud-infra",
       "certifications": [
-        "C5",
-        "PCI-DSS",
-        "HIPAA",
         "GDPR",
+        "HIPAA",
+        "PCI DSS",
+        "C5",
         "TPN"
       ],
-      "confidence": 0.917
+      "confidence": 0.846
     },
     {
       "slug": "alluxio-io",
@@ -754,14 +754,14 @@
     {
       "slug": "databend-com",
       "domain": "databend.com",
-      "name_en": "Databend",
+      "name_en": "Databend Labs",
       "name_zh": null,
       "category": "database",
       "certifications": [
         "SOC2",
         "GDPR"
       ],
-      "confidence": 0.923
+      "confidence": 0.929
     },
     {
       "slug": "dataease-io",
@@ -1735,7 +1735,7 @@
       "name_zh": "来也科技",
       "category": "ai-automation",
       "certifications": [],
-      "confidence": 0.909
+      "confidence": 0.818
     },
     {
       "slug": "lalicat-com",

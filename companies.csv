@@ -14,12 +14,12 @@ agora-io,agora.io,Agora,声网,Conversational AI Engine|Video Calling|Voice Call
 aiarty-com,aiarty.com,Digiarty Software,,Aiarty Image Enhancer|Aiarty Video Enhancer|Aiarty Image Matting,other,,,,Global,enterprise,0.889,2026-06-12,https://sinofacts.com/companies/aiarty-com
 aippt-com,aippt.com,AiPPT,AiPPT(像素绽放),AiPPT Classic|AiPPT Flow|AiPPT Visual,ai-productivity,2018,Hong Kong,,,,0.769,2026-06-12,https://sinofacts.com/companies/aippt-com
 airbrush-com,airbrush.com,Airbrush,美图,Airbrush,ai-image,,Singapore,,Global,freemium,1.0,2026-06-17,https://sinofacts.com/companies/airbrush-com
-airwallex-com,airwallex.com,Airwallex,空中云汇,Airwallex,fintech-saas,2015,"Melbourne, Australia",PCI-DSS|SOC1|SOC2,Global,unknown,0.933,2026-06-11,https://sinofacts.com/companies/airwallex-com
+airwallex-com,airwallex.com,Airwallex,空中云汇,Airwallex,fintech-saas,2015,"Melbourne, Australia",PCI-DSS|SOC1|SOC2,Global,unknown,0.923,2026-06-21,https://sinofacts.com/companies/airwallex-com
 aispeech-com,aispeech.com,AISpeech,思必驰,AI办公本|高端矩阵麦克风MA600D|高端吸顶会议麦克风MC10|AISPEECH DFM大模型,ai-audio,,,,,unknown,0.778,2026-06-13,https://sinofacts.com/companies/aispeech-com
 aitable-ai,aitable.ai,AITable.ai,维格AITable,AITable,enterprise-saas,2019,Hong Kong,,,freemium,0.929,2026-06-12,https://sinofacts.com/companies/aitable-ai
 akool-com,akool.com,Akool,Akool,Akool,ai-avatar,,"Palo Alto, California, United States",SOC2,Global,freemium,0.923,2026-06-12,https://sinofacts.com/companies/akool-com
 alauda-io,alauda.io,Alauda,灵雀云,Alauda Container Platform|Alauda Virtualization|Alauda AI|Alauda HyperFlux,infrastructure,2014,"Beijing, China",,Global|Southeast Asia|Middle East|Africa|Latin America|Europe|China,unknown,0.917,2026-06-12,https://sinofacts.com/companies/alauda-io
-alibabacloud-com,alibabacloud.com,Alibaba Cloud,阿里云,,infrastructure,,,C5|PCI-DSS|HIPAA|GDPR|TPN,Global|North America,freemium,0.917,2026-06-11,https://sinofacts.com/companies/alibabacloud-com
+alibabacloud-com,alibabacloud.com,Alibaba Cloud,阿里云,Alibaba Cloud,infrastructure,2009,,GDPR|HIPAA|PCI DSS|C5|TPN,Global,unknown,0.846,2026-06-21,https://sinofacts.com/companies/alibabacloud-com
 alluxio-io,alluxio.io,Alluxio,,Alluxio AI|Alluxio DA,data-infra,,"San Francisco Bay Area, USA",,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/alluxio-io
 allvalue-com,allvalue.com,AllValue,有赞AllValue,AllValue Link|AllValue Shop,ecommerce-saas,,,ISO27001|CSA-STAR|PCI-DSS,United States|Canada|United Kingdom|Australia|New Zealand|Malaysia|Singapore|Hong Kong|Japan,unknown,1.0,2026-06-12,https://sinofacts.com/companies/allvalue-com
 allvoicelab-com,allvoicelab.com,All Voice Lab,趣丸千音,Text to Speech|Voice Cloning|Voice Changer|Video Translation,ai-audio,,,,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/allvoicelab-com
@@ -73,7 +73,7 @@ cutout-pro,cutout.pro,Cutout.Pro,,Cutout.Pro,ai-image,2018,Hong Kong,,Global,,0.
 cyclone-robotics-com,cyclone-robotics.com,Cyclone Robotics,弘玑Cyclone,,ai-automation,,,,,unknown,1.0,2026-06-12,https://sinofacts.com/companies/cyclone-robotics-com
 d5render-com,d5render.com,D5 Render,D5渲染器,D5 Render|D5 Lite|D5 Works,ai-image,,,,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/d5render-com
 daocloud-io,daocloud.io,DaoCloud,DaoCloud,DaoCloud Enterprise 5.0|DaoCloud Enterprise Community|DaoCloud Cloud Native Appliance|d.run AI Operating System,infrastructure,,,,Global,,0.818,2026-06-13,https://sinofacts.com/companies/daocloud-io
-databend-com,databend.com,Databend,,Databend|Databend Cloud|Databend Enterprise|Databend Community,database,,"Las Vegas, Nevada, USA",SOC2|GDPR,,,0.923,2026-06-11,https://sinofacts.com/companies/databend-com
+databend-com,databend.com,Databend Labs,,Databend Cloud|Databend Enterprise|Databend Community,database,,"Las Vegas, Nevada, USA",SOC2|GDPR,,usage-based,0.929,2026-06-21,https://sinofacts.com/companies/databend-com
 dataease-io,dataease.io,FIT2CLOUD,杭州飞致云信息科技有限公司,DataEase,bi,,,,,freemium,1.0,2026-06-13,https://sinofacts.com/companies/dataease-io
 datagrand-com,datagrand.com,DataGrand,达观数据,AI Agent智能体平台|机器人流程自动化(RPA)|智能知识管理系统(KMS)|垂直大模型与智能问答|智能文档处理平台(IDPS)|智能图像识别平台(OCR)|曹植大语言模型,ai-productivity,,"上海, 中国",,,unknown,0.9,2026-06-13,https://sinofacts.com/companies/datagrand-com
 datastrato-ai,datastrato.ai,Datastrato,,Apache Gravitino|Datastrato Enterprise,other,,,SOC 2 Type II,,,0.727,2026-06-12,https://sinofacts.com/companies/datastrato-ai
@@ -174,7 +174,7 @@ koderover-com,koderover.com,KodeRover,KodeRover,Zadig,devtools,,,,,,0.857,2026-0
 kreadoai-com,kreadoai.com,KreadoAI,KreadoAI,KreadoAI,ai-avatar,,,,Global,freemium,0.75,2026-06-12,https://sinofacts.com/companies/kreadoai-com
 kubesphere-io,kubesphere.io,QingCloud,青云科技,KubeSphere Container Platform,infrastructure,,,,,freemium,1.0,2026-06-12,https://sinofacts.com/companies/kubesphere-io
 kyligence-io,kyligence.io,Kyligence,跬智信息,Kyligence Zen|Kyligence Enterprise|Kyligence Copilot,bi-saas,2016,"Shanghai, China",SOC2 Type II|SOC2 Type I|ISO27001|ISO9001,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/kyligence-io
-laiye-com,laiye.com,Laiye,来也科技,Work Execution Platform|Laiye APA|Laiye ADP|AI Agents,ai-automation,2015,,,,unknown,0.909,2026-06-11,https://sinofacts.com/companies/laiye-com
+laiye-com,laiye.com,Laiye,来也科技,,ai-automation,2015,,,,unknown,0.818,2026-06-21,https://sinofacts.com/companies/laiye-com
 lalicat-com,lalicat.com,Lalicat,,Lalicat Antidetect Browser,ecommerce-saas,,Hong Kong,,,subscription,0.9,2026-06-13,https://sinofacts.com/companies/lalicat-com
 larksuite-com,larksuite.com,Lark,飞书,Lark,enterprise-saas,,,,,unknown,0.833,2026-06-11,https://sinofacts.com/companies/larksuite-com
 layabox-com,layabox.com,Layabox,北京蓝亚盒子科技有限公司,LayaAir|LayaIdea|Layaverse|LayaMe|LayaMetaX|FairyGUI,devtools,,"Beijing, China",,,,1.0,2026-06-13,https://sinofacts.com/companies/layabox-com
@@ -306,7 +306,7 @@ solvely-ai,solvely.ai,Solvely,,Solvely,edtech,,,,Global,freemium,1.0,2026-06-12,
 sphere-ex-com,sphere-ex.com,SphereEx,,SphereEx-DBPlusEngine|SphereEx-Tools|SphereEx-Services,database,2021,,,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/sphere-ex-com
 squirrelai-com,squirrelai.com,Squirrel Ai Learning,松鼠AI,Squirrel Ai,edtech,,,,Global|United States,,0.727,2026-06-12,https://sinofacts.com/companies/squirrelai-com
 stepfun-ai,stepfun.ai,StepFun,阶跃星辰,,ai-llm,,,,,unknown,0.833,2026-06-11,https://sinofacts.com/companies/stepfun-ai
-streamnative-io,streamnative.io,StreamNative,,Data Streaming|Agent Engine|Managed Apache Flink,infrastructure,,,,,usage-based,1.0,2026-06-11,https://sinofacts.com/companies/streamnative-io
+streamnative-io,streamnative.io,StreamNative,,StreamNative Cloud|Lakestream|Agent Engine|Managed Apache Flink,infrastructure,,,,,usage-based,1.0,2026-06-21,https://sinofacts.com/companies/streamnative-io
 strikingly-com,strikingly.com,Strikingly,上线了,Strikingly,devtools,,,,Global,freemium,0.923,2026-06-12,https://sinofacts.com/companies/strikingly-com
 style3d-com,style3d.com,Style3D,凌迪科技,Style3D AI|Style3D Studio|Style3D Fabric|Assyst CAD|Style3D Cloud,ai-image,,,,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/style3d-com
 sunrate-com,sunrate.com,SUNRATE,寻汇SUNRATE,International Payments|Commercial Cards|Global Collection|Global Acquiring|Treasury Solutions,fintech-saas,,,PCI-DSS,Global,unknown,0.9,2026-06-12,https://sinofacts.com/companies/sunrate-com
