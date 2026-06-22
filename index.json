@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-21T19:03:53",
+  "generated_at": "2026-06-22T19:03:32",
   "companies": [
     {
       "slug": "01-ai",
@@ -954,7 +954,7 @@
       "name_zh": "万兴脑图",
       "category": "diagramming",
       "certifications": [],
-      "confidence": 0.818
+      "confidence": 0.923
     },
     {
       "slug": "edrawsoft-com",
@@ -963,11 +963,11 @@
       "name_zh": "万兴图示",
       "category": "diagramming",
       "certifications": [
-        "GDPR",
-        "SOC2",
-        "ISO27001"
+        "ISO 27001",
+        "SOC 2",
+        "GDPR"
       ],
-      "confidence": 0.875
+      "confidence": 1.0
     },
     {
       "slug": "eigent-ai",
@@ -1750,10 +1750,10 @@
       "slug": "larksuite-com",
       "domain": "larksuite.com",
       "name_en": "Lark",
-      "name_zh": "飞书",
-      "category": "collaboration",
+      "name_zh": null,
+      "category": "productivity",
       "certifications": [],
-      "confidence": 0.833
+      "confidence": 0.625
     },
     {
       "slug": "layabox-com",
@@ -3463,10 +3463,10 @@
       "slug": "voovmeeting-com",
       "domain": "voovmeeting.com",
       "name_en": "VooV Meeting",
-      "name_zh": null,
+      "name_zh": "腾讯会议海外版",
       "category": "collaboration",
       "certifications": [],
-      "confidence": 0.727
+      "confidence": 1.0
     },
     {
       "slug": "vozo-ai",
@@ -3558,11 +3558,11 @@
     {
       "slug": "wps-com",
       "domain": "wps.com",
-      "name_en": "WPS Office",
-      "name_zh": null,
+      "name_en": "Kingsoft Office Software Inc.",
+      "name_zh": "金山办公",
       "category": "productivity",
       "certifications": [],
-      "confidence": 0.9
+      "confidence": 1.0
     },
     {
       "slug": "xmind-com",

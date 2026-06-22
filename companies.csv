@@ -94,8 +94,8 @@ dsers-com,dsers.com,DSers,,DSers,ecommerce-saas,,"Beijing, China",,,freemium,0.8
 duix-com,duix.com,DUIX,硅基智能,Duix,ai-avatar,,,,Global,subscription,0.8,2026-06-12,https://sinofacts.com/companies/duix-com
 dupdub-com,dupdub.com,DupDub,魔音工坊,DupDub,ai-audio,,"Beijing, China",,Global,,0.769,2026-06-12,https://sinofacts.com/companies/dupdub-com
 dzine-ai,dzine.ai,Dzine,Dzine,Dzine,design-saas,,,,,freemium,0.917,2026-06-12,https://sinofacts.com/companies/dzine-ai
-edrawmind-com,edrawmind.com,Wondershare EdrawMind,万兴脑图,EdrawMind,design-saas,2004,"Shenzhen, China",,Global,,0.818,2026-06-11,https://sinofacts.com/companies/edrawmind-com
-edrawsoft-com,edrawsoft.com,EdrawSoft,万兴图示,EdrawMax|EdrawMind|EdrawProj,design-saas,2004,"Shenzhen, China",GDPR|SOC2|ISO27001,Global,freemium,0.875,2026-06-11,https://sinofacts.com/companies/edrawsoft-com
+edrawmind-com,edrawmind.com,Wondershare EdrawMind,万兴脑图,EdrawMind,design-saas,2004,"Shenzhen, China",,Global,freemium,0.923,2026-06-22,https://sinofacts.com/companies/edrawmind-com
+edrawsoft-com,edrawsoft.com,EdrawSoft,万兴图示,EdrawMax|EdrawMind|EdrawProj,design-saas,2004,"Shenzhen, China",ISO 27001|SOC 2|GDPR,Global,freemium,1.0,2026-06-22,https://sinofacts.com/companies/edrawsoft-com
 eigent-ai,eigent.ai,Eigent AI,,Eigent Open Source Cowork,ai-agent,,,,,unknown,0.667,2026-06-12,https://sinofacts.com/companies/eigent-ai
 eloqdata-com,eloqdata.com,EloqData,晨章数据,EloqKV|EloqDoc|EloqSQL|EloqConvergedDB|EloqCloud,database,,,SOC2,,,0.667,2026-06-12,https://sinofacts.com/companies/eloqdata-com
 emqx-com,emqx.com,EMQ,映云科技,EMQX|EMQX Cloud|EMQX Enterprise|EMQX Edge|EMQX Neuron,infrastructure,,,SOC2,,freemium,1.0,2026-06-11,https://sinofacts.com/companies/emqx-com
@@ -176,7 +176,7 @@ kubesphere-io,kubesphere.io,QingCloud,青云科技,KubeSphere Container Platform
 kyligence-io,kyligence.io,Kyligence,跬智信息,Kyligence Zen|Kyligence Enterprise|Kyligence Copilot,bi-saas,2016,"Shanghai, China",SOC2 Type II|SOC2 Type I|ISO27001|ISO9001,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/kyligence-io
 laiye-com,laiye.com,Laiye,来也科技,,ai-automation,2015,,,,unknown,0.818,2026-06-21,https://sinofacts.com/companies/laiye-com
 lalicat-com,lalicat.com,Lalicat,,Lalicat Antidetect Browser,ecommerce-saas,,Hong Kong,,,subscription,0.9,2026-06-13,https://sinofacts.com/companies/lalicat-com
-larksuite-com,larksuite.com,Lark,飞书,Lark,enterprise-saas,,,,,unknown,0.833,2026-06-11,https://sinofacts.com/companies/larksuite-com
+larksuite-com,larksuite.com,Lark,,Lark,enterprise-saas,,,,,,0.625,2026-06-22,https://sinofacts.com/companies/larksuite-com
 layabox-com,layabox.com,Layabox,北京蓝亚盒子科技有限公司,LayaAir|LayaIdea|Layaverse|LayaMe|LayaMetaX|FairyGUI,devtools,,"Beijing, China",,,,1.0,2026-06-13,https://sinofacts.com/companies/layabox-com
 leadscloud-com,leadscloud.com,Leads Cloud,询盘云,询盘云Marketing CRM|询多多,crm,2017,"Beijing, China",,Global,unknown,0.929,2026-06-12,https://sinofacts.com/companies/leadscloud-com
 lianlianglobal-com,lianlianglobal.com,LianLian Global,,Global Accounts|Global Payouts|Global Payins|Virtual Credit Card|LooperBuy,other,,,,Global,unknown,0.667,2026-06-12,https://sinofacts.com/companies/lianlianglobal-com
@@ -354,7 +354,7 @@ vizard-ai,vizard.ai,Vizard,,Vizard,ai-video,,,,,freemium,1.0,2026-06-12,https://
 vmlogin-com,vmlogin.com,VMLogin,安徽铁脚印网络科技有限公司,VMLogin,other,,"Hefei, China",,,subscription,0.727,2026-06-13,https://sinofacts.com/companies/vmlogin-com
 voc-ai,voc.ai,VOC AI,,,martech,,"Shenzhen, China",,Global,subscription,0.933,2026-06-11,https://sinofacts.com/companies/voc-ai
 voidzero-dev,voidzero.dev,VoidZero,VoidZero,Void|Vite+|Vite|Vitest|Rolldown|Oxc,devtools,,,,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/voidzero-dev
-voovmeeting-com,voovmeeting.com,VooV Meeting,,VooV Meeting,enterprise-saas,,,,Global,,0.727,2026-06-11,https://sinofacts.com/companies/voovmeeting-com
+voovmeeting-com,voovmeeting.com,VooV Meeting,腾讯会议海外版,VooV Meeting,enterprise-saas,,,,Global,unknown,1.0,2026-06-22,https://sinofacts.com/companies/voovmeeting-com
 vozo-ai,vozo.ai,Vozo,,Vozo AI Video Translator,ai-video,,,SOC2|GDPR,Global,freemium,0.9,2026-06-12,https://sinofacts.com/companies/vozo-ai
 wan-video,wan.video,Wan,通义万相,Wan AI,ai-video,,,,,,0.833,2026-06-12,https://sinofacts.com/companies/wan-video
 webeye-com,webeye.com,WebEye,WebEye,TaurusX,martech,,Singapore,,Global,unknown,1.0,2026-06-13,https://sinofacts.com/companies/webeye-com
@@ -364,7 +364,7 @@ whaleops-io,whaleops.io,WhaleOps,白鲸开源,WhaleStudio|WhaleScheduler|WhaleTu
 wiz-ai,wiz.ai,WIZ.AI,,WIZ Platform|WIZ Engage|WIZ SmartAgent|WIZ Insights,crm,,,SOC2|PCI-DSS,Singapore|Indonesia|Philippines|Thailand|Malaysia|Brazil|Mexico|United States,unknown,0.909,2026-06-12,https://sinofacts.com/companies/wiz-ai
 wondershare-com,wondershare.com,Wondershare,万兴科技,Filmora|UniConverter|Recoverit|Dr.Fone|PDFelement,design-saas,2003,,,Global,unknown,0.889,2026-06-11,https://sinofacts.com/companies/wondershare-com
 worldfirst-com,worldfirst.com,WorldFirst,万里汇,World Account|World Card|WorldTrade,fintech-saas,2004,"London, United Kingdom",,Global,unknown,0.867,2026-06-12,https://sinofacts.com/companies/worldfirst-com
-wps-com,wps.com,WPS Office,,WPS Office,enterprise-saas,1988,,,Global,,0.9,2026-06-11,https://sinofacts.com/companies/wps-com
+wps-com,wps.com,Kingsoft Office Software Inc.,金山办公,WPS Office,enterprise-saas,1988,,,Global,free,1.0,2026-06-22,https://sinofacts.com/companies/wps-com
 xmind-com,xmind.com,Xmind,XMind,Xmind,ai-productivity,,,ISO/IEC 27001|SOC 2 Type II,,,0.692,2026-06-12,https://sinofacts.com/companies/xmind-com
 xorbits-io,xorbits.io,Xorbits,,Xorbits,other,,,,,unknown,0.714,2026-06-12,https://sinofacts.com/companies/xorbits-io
 xtransfer-com,xtransfer.com,XTransfer,XTransfer,XTransfer,fintech-saas,2017,"Shanghai, China",,Global,freemium,0.917,2026-06-12,https://sinofacts.com/companies/xtransfer-com
