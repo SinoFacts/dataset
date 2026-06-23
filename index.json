@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-22T19:03:32",
+  "generated_at": "2026-06-23T19:04:54",
   "companies": [
     {
       "slug": "01-ai",
@@ -684,7 +684,7 @@
       "name_zh": "酷家乐",
       "category": "design-saas",
       "certifications": [],
-      "confidence": 0.9
+      "confidence": 1.0
     },
     {
       "slug": "coze-com",
@@ -1667,7 +1667,7 @@
       "name_zh": "金蝶",
       "category": "erp-saas",
       "certifications": [],
-      "confidence": 0.818
+      "confidence": 0.889
     },
     {
       "slug": "kiriengine-app",
@@ -2403,13 +2403,13 @@
     {
       "slug": "pdf-wondershare-com",
       "domain": "pdf.wondershare.com",
-      "name_en": "Wondershare PDFelement",
-      "name_zh": "万兴PDF",
+      "name_en": "Wondershare",
+      "name_zh": null,
       "category": "productivity",
       "certifications": [
-        "ISO27001"
+        "ISO 27001"
       ],
-      "confidence": 1.0
+      "confidence": 0.727
     },
     {
       "slug": "pdfgear-com",
@@ -2628,11 +2628,11 @@
     {
       "slug": "questionai-com",
       "domain": "questionai.com",
-      "name_en": "Question AI",
-      "name_zh": "作业帮",
+      "name_en": "Cloud Whale Interactive Technology LLC",
+      "name_zh": null,
       "category": "edtech",
       "certifications": [],
-      "confidence": 0.833
+      "confidence": 1.0
     },
     {
       "slug": "quvideo-com",
@@ -3318,9 +3318,9 @@
       "domain": "umu.com",
       "name_en": "UMU",
       "name_zh": null,
-      "category": "edtech",
+      "category": "edtech-saas",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.75
     },
     {
       "slug": "univer-ai",
