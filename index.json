@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-23T19:04:54",
+  "generated_at": "2026-06-24T19:05:55",
   "companies": [
     {
       "slug": "01-ai",
@@ -1212,14 +1212,15 @@
       "name_zh": "盖雅工场",
       "category": "hr-saas",
       "certifications": [
-        "SOC2",
-        "ISO27001",
-        "ISO27017",
-        "ISO27018",
-        "ISO20000",
-        "ISO9001"
+        "SOC 2",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018",
+        "ISO 20000",
+        "ISO 9001",
+        "信息系统安全等级保护三级"
       ],
-      "confidence": 1.0
+      "confidence": 0.923
     },
     {
       "slug": "gaoding-com",
@@ -1472,8 +1473,11 @@
       "name_en": "iFLYTEK",
       "name_zh": "科大讯飞",
       "category": "ai-platform",
-      "certifications": [],
-      "confidence": 0.778
+      "certifications": [
+        "CCRC information security certification",
+        "IT product information security certificate"
+      ],
+      "confidence": 1.0
     },
     {
       "slug": "immersivetranslate-com",
@@ -1982,7 +1986,7 @@
       "name_zh": "汇量科技",
       "category": "martech",
       "certifications": [
-        "SOC2"
+        "SOC 2"
       ],
       "confidence": 0.833
     },
@@ -2848,7 +2852,7 @@
       "name_zh": "商汤科技",
       "category": "ai-platform",
       "certifications": [],
-      "confidence": 0.778
+      "confidence": 0.7
     },
     {
       "slug": "sensorsdata-com",
