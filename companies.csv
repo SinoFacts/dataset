@@ -111,8 +111,8 @@ fellou-ai,fellou.ai,Fellou,,Fellou,ai-agent,,,,,unknown,0.667,2026-06-12,https:/
 felo-ai,felo.ai,Felo,,Felo,ai-search,,,,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/felo-ai
 filmora-io,filmora.io,Wondershare,万兴喵影,Filmora,ai-video,,,,Global,,0.875,2026-06-16,https://sinofacts.com/companies/filmora-io
 finalroundai-com,finalroundai.com,Final Round AI,,Final Round AI|Interview Copilot|AI Mock Interview,ai-productivity,,"San Francisco, CA, USA",,Global,freemium,0.9,2026-06-19,https://sinofacts.com/companies/finalroundai-com
-finebi-com,finebi.com,FanRuan Software,帆软软件有限公司,FineBI,bi-saas,,,,Global,unknown,1.0,2026-06-11,https://sinofacts.com/companies/finebi-com
-finereport-com,finereport.com,FineReport,帆软FineReport,FineReport,bi-saas,,,,,freemium,0.818,2026-06-11,https://sinofacts.com/companies/finereport-com
+finebi-com,finebi.com,FanRuan Software,帆软软件有限公司,FineBI,bi-saas,2005,,,Global,unknown,1.0,2026-06-25,https://sinofacts.com/companies/finebi-com
+finereport-com,finereport.com,FineReport,帆软FineReport,FineReport,bi-saas,,,,,freemium,0.909,2026-06-25,https://sinofacts.com/companies/finereport-com
 fineshare-com,fineshare.com,FineShare,,FineVoice|Singify|VoiceTrans|FineCam|Vora,ai-audio,,,,Global,,0.75,2026-06-12,https://sinofacts.com/companies/fineshare-com
 fish-audio,fish.audio,Fish Audio,,Text-to-Speech|Voice Cloning|Speech-to-Text|Voice Changer|Story Studio|Audio Separation|Audio Translation|Sound Effects,other,,,,Global,freemium,0.727,2026-06-12,https://sinofacts.com/companies/fish-audio
 flat-ads-com,flat-ads.com,Flat Ads,,,martech,2019,,,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/flat-ads-com
@@ -158,7 +158,7 @@ ipaylinks-com,ipaylinks.com,iPayLinks,,iPayLinks艾贝盈,other,2015,Hong Kong,P
 isales-ai-com,isales-ai.com,iSales AI,光年触达（上海）科技有限公司,iSales|iMarketing,other,,"Shanghai, China",,Global,unknown,0.8,2026-06-11,https://sinofacts.com/companies/isales-ai-com
 ixbrowser-com,ixbrowser.com,IXBrowser,,ixBrowser,ecommerce-saas,,,,Global,freemium,0.889,2026-06-13,https://sinofacts.com/companies/ixbrowser-com
 jijiaerp-com,jijiaerp.com,Jijia ERP,积加ERP,积加ERP|积加电商中台|积加BI与数仓,ecommerce-saas,,"Shenzhen, China",国家信息安全等级保护认证,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/jijiaerp-com
-jina-ai,jina.ai,Jina AI,,Reader|Embeddings|Reranker|Elastic Inference Service,ai-search,,,,Global,usage-based,1.0,2026-06-11,https://sinofacts.com/companies/jina-ai
+jina-ai,jina.ai,Jina AI,,Reader API|Embeddings API|Reranker API|DeepSearch|Elastic Inference Service,ai-search,,,,Global,freemium,1.0,2026-06-25,https://sinofacts.com/companies/jina-ai
 jobright-ai,jobright.ai,Jobright,Jobright,Jobright,ai-productivity,,,,United States,unknown,0.889,2026-06-12,https://sinofacts.com/companies/jobright-ai
 js-design,js.design,JSdesign,即时设计,即时设计,design-saas,,,,China,free,0.917,2026-06-13,https://sinofacts.com/companies/js-design
 juicefs-com,juicefs.com,Juicedata,Juicedata,JuiceFS|JuiceFS Community Edition|JuiceFS Cloud Service|JuiceFS Enterprise Edition,data-infra,2017,,SOC2,,,0.867,2026-06-12,https://sinofacts.com/companies/juicefs-com
@@ -219,7 +219,7 @@ myscale-com,myscale.com,MyScale,墨奇科技,MyScale,database,,,,,unknown,1.0,20
 nativex-com,nativex.com,Nativex,汇量科技,Nativex,martech,,,,,unknown,1.0,2026-06-24,https://sinofacts.com/companies/nativex-com
 navicat-com,navicat.com,PremiumSoft CyberTech Ltd,卓软数码科技,Navicat|Navicat Premium|Navicat Data Modeler|Navicat BI|Navicat On-Prem Server|Navicat Monitor,devtools,1999,Hong Kong,GDPR,Global,,0.867,2026-06-12,https://sinofacts.com/companies/navicat-com
 nebula-graph-io,nebula-graph.io,vesoft inc.,,NebulaGraph Database|NebulaGraph Analytics|NebulaGraph Cloud|NebulaGraph AI AP,database,2018,"Hangzhou, China",,,freemium,1.0,2026-06-11,https://sinofacts.com/companies/nebula-graph-io
-neusoft-com,neusoft.com,Neusoft,,OneCoreGo|RealOne Suite|Data Middle Platform|NAGIC Cockpit Software Platform,other,1991,,,Global|China|Japan,unknown,0.667,2026-06-11,https://sinofacts.com/companies/neusoft-com
+neusoft-com,neusoft.com,Neusoft,东软集团,OneCoreGo|RealOne Suite|Data Middle Platform|NAGIVI|NAGIC|One Mate|One Map|One Sight|One Cloud|One Guard|One Pay|One Store,enterprise-software,1991,,,Global,unknown,1.0,2026-06-25,https://sinofacts.com/companies/neusoft-com
 nocobase-com,nocobase.com,NocoBase,,NocoBase,devtools,,,,,freemium,0.917,2026-06-12,https://sinofacts.com/companies/nocobase-com
 notegpt-io,notegpt.io,NoteGPT,,NoteGPT,ai-productivity,,,ISO27001|SOC2,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/notegpt-io
 notta-ai,notta.ai,Notta,,Notta|Notta Brain,ai-productivity,2022,"Tokyo, Japan",SOC2|ISO27001|HIPAA|GDPR|APPI|CCPA,Japan|Global,freemium,1.0,2026-06-19,https://sinofacts.com/companies/notta-ai
@@ -377,7 +377,7 @@ z-ai,z.ai,Zhipu AI,智谱AI,Z.ai,ai-llm,,,,,free,0.857,2026-06-15,https://sinofa
 zeemo-ai,zeemo.ai,Zeemo,绘影字幕,Zeemo AI,ai-video,,,,Global,subscription,0.818,2026-06-12,https://sinofacts.com/companies/zeemo-ai
 zegocloud-com,zegocloud.com,ZEGOCLOUD,即构科技,Video Call|Voice Call|Live Streaming|In-app Chat|Cloud Recording,infrastructure,,,,Global,usage-based,0.909,2026-06-12,https://sinofacts.com/companies/zegocloud-com
 zenlayer-com,zenlayer.com,Zenlayer,,Distributed Inference|AI Gateway|Fabric for AI|Bare Metal|Elastic Compute|Cloud Connect|Cloud Router|Private Connect|Virtual Edge|Global Accelerator|CDN|IP Transit|Edge Colocation,infrastructure,2014,"Los Angeles, US",SOC2|ISO27001,Global,usage-based,0.909,2026-06-12,https://sinofacts.com/companies/zenlayer-com
-zhipuai-cn,zhipuai.cn,Zhipu AI,智谱AI,GLM|ChatGLM|AutoGLM|Zread.ai|MaaS|AutoClaw,ai-llm,,"Beijing, China",,,freemium,0.9,2026-06-11,https://sinofacts.com/companies/zhipuai-cn
+zhipuai-cn,zhipuai.cn,Zhipu AI,智谱AI,GLM|GLM-5.2|GLM-5V-Turbo|GLM-5-Turbo|AutoGLM|ChatGLM|AutoClaw|Z.ai|AMiner,ai-llm,,"Beijing, China",,,freemium,1.0,2026-06-25,https://sinofacts.com/companies/zhipuai-cn
 zilliz-com,zilliz.com,Zilliz,,Zilliz Cloud|Milvus,database,,,,,freemium,0.8,2026-06-11,https://sinofacts.com/companies/zilliz-com
 ziniao-com,ziniao.com,,紫鸟浏览器,,other,,,,Global,unknown,0.6,2026-06-12,https://sinofacts.com/companies/ziniao-com
 zmo-ai,zmo.ai,ZMO.AI,感知阶跃,,ai-image,,,,,unknown,0.75,2026-06-11,https://sinofacts.com/companies/zmo-ai

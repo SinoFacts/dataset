@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-24T19:05:55",
+  "generated_at": "2026-06-25T19:04:14",
   "companies": [
     {
       "slug": "01-ai",
@@ -1131,7 +1131,7 @@
       "name_zh": "帆软FineReport",
       "category": "bi-saas",
       "certifications": [],
-      "confidence": 0.818
+      "confidence": 0.909
     },
     {
       "slug": "fineshare-com",
@@ -2163,10 +2163,10 @@
       "slug": "neusoft-com",
       "domain": "neusoft.com",
       "name_en": "Neusoft",
-      "name_zh": null,
-      "category": null,
+      "name_zh": "东软集团",
+      "category": "enterprise-software",
       "certifications": [],
-      "confidence": 0.667
+      "confidence": 1.0
     },
     {
       "slug": "nocobase-com",
@@ -3697,7 +3697,7 @@
       "name_zh": "智谱AI",
       "category": "ai-llm",
       "certifications": [],
-      "confidence": 0.9
+      "confidence": 1.0
     },
     {
       "slug": "zilliz-com",
