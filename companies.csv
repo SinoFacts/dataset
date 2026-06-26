@@ -1,5 +1,5 @@
 slug,domain,name_en,name_zh,products,category,founded_year,hq_city,certifications,target_markets,pricing_model,confidence,last_verified,canonical
-01-ai,01.ai,01.AI,零一万物,Yi Foundation Models|WorldWise Enterprise LLM Platform|Yi-Lightning,ai-llm,,,CAICT Top-Level Certification,Global,unknown,0.9,2026-06-11,https://sinofacts.com/companies/01-ai
+01-ai,01.ai,01.AI,零一万物,Yi Foundation Models|Yi-Lightning Mixture-of-Experts LLM|WorldWise Enterprise LLM Platform|Enterprise AI Agent Tailored Solutions|Yi Open-source,ai-llm,,,,Global,unknown,1.0,2026-06-26,https://sinofacts.com/companies/01-ai
 17track-net,17track.net,17TRACK,,Shopify App|Tracking API|17TRACK Mobile App|Tracking Widget,other,,,GDPR,Global,,0.636,2026-06-12,https://sinofacts.com/companies/17track-net
 1panel-pro,1panel.pro,1Panel,1Panel,1Panel,other,,,,Global,freemium,0.786,2026-06-13,https://sinofacts.com/companies/1panel-pro
 302-ai,302.ai,302.AI,302.AI,302.AI,other,,,,,usage-based,0.889,2026-06-12,https://sinofacts.com/companies/302-ai
@@ -35,7 +35,7 @@ atoms-dev,atoms.dev,Atoms,深度赋智MGX,Atoms,ai-coding,,,,Global,freemium,1.0
 authing-cn,authing.cn,Authing,Authing,Authing Identity Cloud|Single Sign-On (SSO)|Multi-Factor Authentication (MFA)|Identity Directory|Identity Security Platform|Identity Automation,security,,"Beijing, China",ISO 9001|GDPR|Information Security Level 3 Protection (China),Global|China,freemium,1.0,2026-06-13,https://sinofacts.com/companies/authing-cn
 automq-com,automq.com,AutoMQ,,AutoMQ,data-infra,,,,,usage-based,0.818,2026-06-12,https://sinofacts.com/companies/automq-com
 avclabs-com,avclabs.com,AVCLabs,,AVCLabs Video Enhancer AI|AVCLabs Video Blur AI|AVCLabs Photo Enhancer AI|AVCLabs PhotoPro AI|Any Video Converter|AVCLabs Video Enhancer Cloud AI|AVCLabs MCP,ai-video,,,,,unknown,0.571,2026-06-12,https://sinofacts.com/companies/avclabs-com
-baichuan-ai-com,baichuan-ai.com,Baichuan Intelligence,百川智能,百川大模型,ai-llm,,,,,unknown,0.833,2026-06-11,https://sinofacts.com/companies/baichuan-ai-com
+baichuan-ai-com,baichuan-ai.com,Baichuan Intelligence,百川智能,Baichuan Big Model,ai-llm,,,,,unknown,1.0,2026-06-26,https://sinofacts.com/companies/baichuan-ai-com
 baichuan-cn,baichuan.cn,Baichuan AI,百川智能,,ai-llm,,"Beijing, China",,,unknown,1.0,2026-06-11,https://sinofacts.com/companies/baichuan-cn
 basic-ai,basic.ai,BasicAI,倍赛科技,BasicAI Data Annotation Platform|Xtreme1,ai-infra,,"Irvine, CA, USA",,Global,freemium,0.909,2026-06-12,https://sinofacts.com/companies/basic-ai
 beautyplus-com,beautyplus.com,Pixocial Technology (Singapore) Pte. Ltd.,,BeautyPlus,ai-image,,Singapore,,,freemium,1.0,2026-06-17,https://sinofacts.com/companies/beautyplus-com
@@ -205,7 +205,7 @@ mobvista-com,mobvista.com,Mobvista,,Mintegral|GameAnalytics|Nativex|Mindworks|Pl
 mobvoi-com,mobvoi.com,Mobvoi,,TicNote AI Notetaker|TicWatch|Moyin Workshop|DupDub|Sequence Monkey,other,,Hong Kong,,Global,unknown,0.857,2026-06-13,https://sinofacts.com/companies/mobvoi-com
 mockplus-com,mockplus.com,Mockplus,摹客,Mockplus RP|Mockplus Cloud|Mockplus DT|Mockplus 3 Offline,design-saas,,,,,freemium,1.0,2026-06-12,https://sinofacts.com/companies/mockplus-com
 modao-cc,modao.cc,Modao,墨刀,墨刀原型|墨刀白板|墨刀设计|墨刀AI|墨刀AIPPT|墨刀流程图,design-saas,2014,"Beijing, China",,,freemium,1.0,2026-06-13,https://sinofacts.com/companies/modao-cc
-modelbest-cn,modelbest.cn,ModelBest,面壁智能,MiniCPM|MiniCPM-V|VoxCPM|松果派 Pinea|兰台令 Lantay,ai-llm,,"Beijing, China",,Global,freemium,1.0,2026-06-11,https://sinofacts.com/companies/modelbest-cn
+modelbest-cn,modelbest.cn,ModelBest,面壁智能,MiniCPM|MiniCPM-V|VoxCPM|松果派 Pinea|兰台令 Lantay,ai-llm,,"Beijing, China",ASPICE L2,Global,freemium,1.0,2026-06-26,https://sinofacts.com/companies/modelbest-cn
 moego-pet,moego.pet,MoeGo,,MoeGo,saas,,,,US|GB|CA|AU,subscription,0.909,2026-06-13,https://sinofacts.com/companies/moego-pet
 mokahr-io,mokahr.io,MokaHR,Moka,,hr-saas,,,,Global|Asia-Pacific,unknown,0.75,2026-06-11,https://sinofacts.com/companies/mokahr-io
 momen-app,momen.app,Momen,Momen(函子科技),Momen,ai-coding,2019,,,,unknown,0.846,2026-06-12,https://sinofacts.com/companies/momen-app
@@ -218,7 +218,7 @@ mureka-ai,mureka.ai,Mureka,,Mureka,ai-audio,,,,,freemium,0.8,2026-06-19,https://
 myscale-com,myscale.com,MyScale,墨奇科技,MyScale,database,,,,,unknown,1.0,2026-06-12,https://sinofacts.com/companies/myscale-com
 nativex-com,nativex.com,Nativex,汇量科技,Nativex,martech,,,,,unknown,1.0,2026-06-24,https://sinofacts.com/companies/nativex-com
 navicat-com,navicat.com,PremiumSoft CyberTech Ltd,卓软数码科技,Navicat|Navicat Premium|Navicat Data Modeler|Navicat BI|Navicat On-Prem Server|Navicat Monitor,devtools,1999,Hong Kong,GDPR,Global,,0.867,2026-06-12,https://sinofacts.com/companies/navicat-com
-nebula-graph-io,nebula-graph.io,vesoft inc.,,NebulaGraph Database|NebulaGraph Analytics|NebulaGraph Cloud|NebulaGraph AI AP,database,2018,"Hangzhou, China",,,freemium,1.0,2026-06-11,https://sinofacts.com/companies/nebula-graph-io
+nebula-graph-io,nebula-graph.io,Vesoft Inc.,,NebulaGraph Database|NebulaGraph Analytics|NebulaGraph Cloud|NebulaGraph AI AP,graph-database,2018,"Hangzhou, China",,Global,freemium,1.0,2026-06-26,https://sinofacts.com/companies/nebula-graph-io
 neusoft-com,neusoft.com,Neusoft,东软集团,OneCoreGo|RealOne Suite|Data Middle Platform|NAGIVI|NAGIC|One Mate|One Map|One Sight|One Cloud|One Guard|One Pay|One Store,enterprise-software,1991,,,Global,unknown,1.0,2026-06-25,https://sinofacts.com/companies/neusoft-com
 nocobase-com,nocobase.com,NocoBase,,NocoBase,devtools,,,,,freemium,0.917,2026-06-12,https://sinofacts.com/companies/nocobase-com
 notegpt-io,notegpt.io,NoteGPT,,NoteGPT,ai-productivity,,,ISO27001|SOC2,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/notegpt-io
@@ -305,7 +305,7 @@ sobot-io,sobot.io,Sobot,,Sobot Contact Center,crm,,,GDPR,Global,unknown,0.833,20
 solvely-ai,solvely.ai,Solvely,,Solvely,edtech,,,,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/solvely-ai
 sphere-ex-com,sphere-ex.com,SphereEx,,SphereEx-DBPlusEngine|SphereEx-Tools|SphereEx-Services,database,2021,,,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/sphere-ex-com
 squirrelai-com,squirrelai.com,Squirrel Ai Learning,松鼠AI,Squirrel Ai,edtech,,,,Global|United States,,0.727,2026-06-12,https://sinofacts.com/companies/squirrelai-com
-stepfun-ai,stepfun.ai,StepFun,阶跃星辰,,ai-llm,,,,,unknown,0.833,2026-06-11,https://sinofacts.com/companies/stepfun-ai
+stepfun-ai,stepfun.ai,StepFun,,阶跃AI|StepClaw|Step Audio Studio,ai-llm,,,,,unknown,0.857,2026-06-26,https://sinofacts.com/companies/stepfun-ai
 streamnative-io,streamnative.io,StreamNative,,StreamNative Cloud|Lakestream|Agent Engine|Managed Apache Flink,infrastructure,,,,,usage-based,1.0,2026-06-21,https://sinofacts.com/companies/streamnative-io
 strikingly-com,strikingly.com,Strikingly,上线了,Strikingly,devtools,,,,Global,freemium,0.923,2026-06-12,https://sinofacts.com/companies/strikingly-com
 style3d-com,style3d.com,Style3D,凌迪科技,Style3D AI|Style3D Studio|Style3D Fabric|Assyst CAD|Style3D Cloud,ai-image,,,,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/style3d-com

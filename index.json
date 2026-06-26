@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-25T19:04:14",
+  "generated_at": "2026-06-26T19:04:42",
   "companies": [
     {
       "slug": "01-ai",
@@ -11,10 +11,8 @@
       "name_en": "01.AI",
       "name_zh": "零一万物",
       "category": "ai-llm",
-      "certifications": [
-        "CAICT Top-Level Certification"
-      ],
-      "confidence": 0.9
+      "certifications": [],
+      "confidence": 1.0
     },
     {
       "slug": "17track-net",
@@ -379,9 +377,9 @@
       "domain": "baichuan-ai.com",
       "name_en": "Baichuan Intelligence",
       "name_zh": "百川智能",
-      "category": "ai-llm/api",
+      "category": "ai-llm",
       "certifications": [],
-      "confidence": 0.833
+      "confidence": 1.0
     },
     {
       "slug": "baichuan-cn",
@@ -2037,7 +2035,9 @@
       "name_en": "ModelBest",
       "name_zh": "面壁智能",
       "category": "ai-llm",
-      "certifications": [],
+      "certifications": [
+        "ASPICE L2"
+      ],
       "confidence": 1.0
     },
     {
@@ -2153,9 +2153,9 @@
     {
       "slug": "nebula-graph-io",
       "domain": "nebula-graph.io",
-      "name_en": "vesoft inc.",
+      "name_en": "Vesoft Inc.",
       "name_zh": null,
-      "category": "database",
+      "category": "graph-database",
       "certifications": [],
       "confidence": 1.0
     },
@@ -3006,10 +3006,10 @@
       "slug": "stepfun-ai",
       "domain": "stepfun.ai",
       "name_en": "StepFun",
-      "name_zh": "阶跃星辰",
-      "category": "ai-llm/multimodal",
+      "name_zh": null,
+      "category": "ai-llm",
       "certifications": [],
-      "confidence": 0.833
+      "confidence": 0.857
     },
     {
       "slug": "streamnative-io",

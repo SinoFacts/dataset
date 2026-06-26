@@ -10,7 +10,7 @@
     "infrastructure": 20,
     "ai-productivity": 20,
     "design-saas": 20,
-    "database": 17,
+    "database": 16,
     "data-infra": 15,
     "ai-agent": 14,
     "security": 13,
@@ -39,9 +39,10 @@
     "api-gateway": 1,
     "ai-translation": 1,
     "saas": 1,
+    "graph-database": 1,
     "enterprise-software": 1,
     "fintech": 1,
     "ai-infrastructure": 1
   },
-  "generated_at": "2026-06-25"
+  "generated_at": "2026-06-26"
 }
