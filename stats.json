@@ -2,7 +2,7 @@
   "companies": 383,
   "with_certifications": 80,
   "categories": {
-    "other": 49,
+    "other": 48,
     "ai-video": 28,
     "ai-image": 26,
     "devtools": 22,
@@ -35,6 +35,7 @@
     "erp-saas": 2,
     "antidetect-browser": 1,
     "ecommerce": 1,
+    "game-engine": 1,
     "bi": 1,
     "api-gateway": 1,
     "ai-translation": 1,
@@ -44,5 +45,5 @@
     "fintech": 1,
     "ai-infrastructure": 1
   },
-  "generated_at": "2026-06-26"
+  "generated_at": "2026-06-27"
 }

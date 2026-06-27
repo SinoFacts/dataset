@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-26T19:04:42",
+  "generated_at": "2026-06-27T19:03:49",
   "companies": [
     {
       "slug": "01-ai",
@@ -291,8 +291,8 @@
       "slug": "apifox-com",
       "domain": "apifox.com",
       "name_en": "Apifox",
-      "name_zh": null,
-      "category": "devtools",
+      "name_zh": "广州睿狐科技有限公司",
+      "category": "devtools/api-testing",
       "certifications": [],
       "confidence": 1.0
     },
@@ -531,11 +531,11 @@
       "domain": "celerdata.com",
       "name_en": "PhoenixAI",
       "name_zh": null,
-      "category": "database",
+      "category": "database/analytics",
       "certifications": [
-        "SOC2"
+        "SOC 2"
       ],
-      "confidence": 0.846
+      "confidence": 1.0
     },
     {
       "slug": "certik-com",
@@ -644,7 +644,7 @@
       "domain": "cocos.com",
       "name_en": "Cocos",
       "name_zh": null,
-      "category": "devtools",
+      "category": "game-engine",
       "certifications": [],
       "confidence": 1.0
     },
@@ -2659,11 +2659,11 @@
     {
       "slug": "ragflow-io",
       "domain": "ragflow.io",
-      "name_en": "InfiniFlow",
+      "name_en": "RAGFlow",
       "name_zh": null,
-      "category": null,
+      "category": "devtools",
       "certifications": [],
-      "confidence": 0.75
+      "confidence": 1.0
     },
     {
       "slug": "rainbond-com",
