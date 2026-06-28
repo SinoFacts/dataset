@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-27T19:03:49",
+  "generated_at": "2026-06-28T19:03:30",
   "companies": [
     {
       "slug": "01-ai",
@@ -1347,9 +1347,9 @@
       "domain": "hailuoai.video",
       "name_en": "Hailuo AI",
       "name_zh": "海螺AI",
-      "category": "ai-video",
+      "category": "ai-video/generation",
       "certifications": [],
-      "confidence": 0.889
+      "confidence": 0.778
     },
     {
       "slug": "halo-run",
@@ -1944,7 +1944,7 @@
       "name_zh": "美图",
       "category": "ai-photo/video-editing",
       "certifications": [],
-      "confidence": 0.778
+      "confidence": 0.889
     },
     {
       "slug": "memfiredb-com",
@@ -3266,7 +3266,7 @@
       "name_zh": null,
       "category": "ai-3d/generation",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.909
     },
     {
       "slug": "truewatch-com",
@@ -3546,9 +3546,9 @@
       "domain": "wondershare.com",
       "name_en": "Wondershare",
       "name_zh": "万兴科技",
-      "category": "creative-software",
+      "category": "creative-software/video-editing",
       "certifications": [],
-      "confidence": 0.889
+      "confidence": 1.0
     },
     {
       "slug": "worldfirst-com",
