@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-28T19:03:30",
+  "generated_at": "2026-06-29T19:03:22",
   "companies": [
     {
       "slug": "01-ai",
@@ -1055,9 +1055,10 @@
       "name_zh": "帆软软件有限公司",
       "category": "business-intelligence",
       "certifications": [
-        "CMMI5"
+        "CMMI 5",
+        "国际质量体系认证"
       ],
-      "confidence": 0.923
+      "confidence": 0.929
     },
     {
       "slug": "fastgpt-io",
@@ -1277,9 +1278,9 @@
     {
       "slug": "glority-com",
       "domain": "glority.com",
-      "name_en": "Glority",
+      "name_en": "Glority LLC",
       "name_zh": null,
-      "category": "ai",
+      "category": "computer-vision",
       "certifications": [],
       "confidence": 1.0
     },
@@ -2056,7 +2057,7 @@
       "name_zh": "Moka",
       "category": "hr-saas/recruiting",
       "certifications": [],
-      "confidence": 0.75
+      "confidence": 1.0
     },
     {
       "slug": "momen-app",
@@ -3507,9 +3508,9 @@
       "domain": "wegic.ai",
       "name_en": "Wegic",
       "name_zh": null,
-      "category": "ai-website/builder",
+      "category": "ai-website-builder",
       "certifications": [],
-      "confidence": 0.857
+      "confidence": 0.875
     },
     {
       "slug": "weshop-ai",

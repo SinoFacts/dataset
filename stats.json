@@ -5,11 +5,11 @@
     "other": 48,
     "ai-video": 28,
     "ai-image": 26,
-    "devtools": 22,
+    "devtools": 21,
     "ecommerce-saas": 20,
     "infrastructure": 20,
-    "ai-productivity": 20,
     "design-saas": 20,
+    "ai-productivity": 19,
     "database": 16,
     "data-infra": 15,
     "ai-agent": 14,
@@ -23,9 +23,9 @@
     "fintech-saas": 7,
     "ai-coding": 7,
     "crm": 7,
+    "ai-platform": 6,
     "edtech": 6,
     "ai-companion": 6,
-    "ai-platform": 5,
     "ai-avatar": 5,
     "ai-search": 4,
     "logistics-saas": 4,
@@ -43,7 +43,8 @@
     "graph-database": 1,
     "enterprise-software": 1,
     "fintech": 1,
-    "ai-infrastructure": 1
+    "ai-infrastructure": 1,
+    "ai-website-builder": 1
   },
-  "generated_at": "2026-06-28"
+  "generated_at": "2026-06-29"
 }
