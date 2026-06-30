@@ -54,7 +54,7 @@ certik-com,certik.com,CertiK,,Skynet|SkyInsights,security,,,SOC2|ISO27001,Global
 chaitin-com,chaitin.com,Chaitin,北京长亭科技有限公司,SafeLine|X-Ray|CloudWalker|Cloud Atlas|Alioth|ChaitinAI|COSMOS|Insight|T-ANSWER|D-Sensor|CloudWalker-DDR,security,,"Beijing, China",,,unknown,1.0,2026-06-13,https://sinofacts.com/companies/chaitin-com
 channelwill-com,channelwill.com,CWILL,,ParcelWILL|TrustWILL|SEOWILL|ChatWILL|SendWILL,ecommerce-saas,2014,"Shenzhen, China",,Global,usage-based,1.0,2026-06-13,https://sinofacts.com/companies/channelwill-com
 chat2db-ai,chat2db.ai,Chat2DB,Chat2DB,Chat2DB,data-infra,,,,,freemium,1.0,2026-06-12,https://sinofacts.com/companies/chat2db-ai
-chatdoc-com,chatdoc.com,ChatDOC,,ChatDOC|ChatPaper,ai-productivity,,,,Global,freemium,1.0,2026-06-11,https://sinofacts.com/companies/chatdoc-com
+chatdoc-com,chatdoc.com,ChatDOC,,ChatDOC|ChatPaper|ChatDOC API|ChatDOC PDF Parser,other,,,,Global,freemium,0.6,2026-06-30,https://sinofacts.com/companies/chatdoc-com
 cherry-ai-com,cherry-ai.com,Cherry Studio,上海千彗科技有限公司,Cherry Studio,ai-productivity,,,,,free,0.889,2026-06-13,https://sinofacts.com/companies/cherry-ai-com
 cjdropshipping-com,cjdropshipping.com,CJ Dropshipping,,,ecommerce,,,,Global,unknown,0.7,2026-06-13,https://sinofacts.com/companies/cjdropshipping-com
 clacky-ai,clacky.ai,ClackyAI,,ClackyAI,ai-coding,,,,,freemium,0.9,2026-06-12,https://sinofacts.com/companies/clacky-ai
@@ -117,7 +117,7 @@ fineshare-com,fineshare.com,FineShare,,FineVoice|Singify|VoiceTrans|FineCam|Vora
 fish-audio,fish.audio,Fish Audio,,Text-to-Speech|Voice Cloning|Speech-to-Text|Voice Changer|Story Studio|Audio Separation|Audio Translation|Sound Effects,other,,,,Global,freemium,0.727,2026-06-12,https://sinofacts.com/companies/fish-audio
 flat-ads-com,flat-ads.com,Flat Ads,,,martech,2019,,,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/flat-ads-com
 flexclip-com,flexclip.com,FlexClip,恒图科技,FlexClip,ai-video,2019,,,,freemium,0.833,2026-06-12,https://sinofacts.com/companies/flexclip-com
-flowith-io,flowith.io,Flowith,,Flowith AI,ai-productivity,,,,,unknown,1.0,2026-06-11,https://sinofacts.com/companies/flowith-io
+flowith-io,flowith.io,Flowith,,Flowith AI,ai-productivity,,,,,unknown,1.0,2026-06-30,https://sinofacts.com/companies/flowith-io
 folo-is,folo.is,Folo,,Folo,ai-productivity,,,,Global,freemium,0.9,2026-06-12,https://sinofacts.com/companies/folo-is
 fotor-com,fotor.com,Fotor,,Fotor,ai-image,,,,Global,freemium,1.0,2026-06-17,https://sinofacts.com/companies/fotor-com
 foxit-com,foxit.com,Foxit,福昕软件,Foxit PDF Editor|Foxit AI|Foxit eSign|Foxit PDF Reader|Foxit PDF SDK|Foxit for Salesforce,other,,,,Global,freemium,0.909,2026-06-12,https://sinofacts.com/companies/foxit-com
@@ -155,7 +155,7 @@ inshot-com,inshot.com,InShot,影笑科技,InShot,ai-video,,,,Global,,0.75,2026-0
 insmind-com,insmind.com,insMind,,insMind,ai-image,,,,,unknown,0.833,2026-06-12,https://sinofacts.com/companies/insmind-com
 intl-yonyou-com,intl.yonyou.com,Yonyou,用友,,erp-saas,,,,,unknown,1.0,2026-06-11,https://sinofacts.com/companies/intl-yonyou-com
 ipaylinks-com,ipaylinks.com,iPayLinks,,iPayLinks艾贝盈,other,2015,Hong Kong,PCI-DSS|ISO27001|网络安全等级保护,Global,unknown,0.8,2026-06-12,https://sinofacts.com/companies/ipaylinks-com
-isales-ai-com,isales-ai.com,iSales AI,光年触达（上海）科技有限公司,iSales|iMarketing,other,,"Shanghai, China",,Global,unknown,0.8,2026-06-11,https://sinofacts.com/companies/isales-ai-com
+isales-ai-com,isales-ai.com,iSales,光年触达（上海）科技有限公司,iSales|iMarketing,other,,"Shanghai, China",,Global,unknown,0.889,2026-06-30,https://sinofacts.com/companies/isales-ai-com
 ixbrowser-com,ixbrowser.com,IXBrowser,,ixBrowser,ecommerce-saas,,,,Global,freemium,0.889,2026-06-13,https://sinofacts.com/companies/ixbrowser-com
 jijiaerp-com,jijiaerp.com,Jijia ERP,积加ERP,积加ERP|积加电商中台|积加BI与数仓,ecommerce-saas,,"Shenzhen, China",国家信息安全等级保护认证,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/jijiaerp-com
 jina-ai,jina.ai,Jina AI,,Reader API|Embeddings API|Reranker API|DeepSearch|Elastic Inference Service,ai-search,,,,Global,freemium,1.0,2026-06-25,https://sinofacts.com/companies/jina-ai
@@ -166,7 +166,7 @@ jumpserver-com,jumpserver.com,JumpServer,飞致云,JumpServer,security,,,,Global
 juphoon-com,juphoon.com,Juphoon,菊风,视频能力平台|IoT智能硬件|实时音视频SDK|全球云通信服务|5G消息|菊风云会议|RCS SDK,infrastructure,,,CMMI5|ISO9001|ISO20000|ISO27001|GSMA UP 2.0,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/juphoon-com
 kalodata-com,kalodata.com,Kalodata,,Kalodata|Kaloboost|Kaloclip|KaloPilot,bi-saas,,,,,unknown,1.0,2026-06-12,https://sinofacts.com/companies/kalodata-com
 kanaries-net,kanaries.net,Kanaries,Kanaries,PyGWalker|Graphic Walker Desktop|GWalkR|Graphic Walker Component|RunCell,bi-saas,,,,,,0.714,2026-06-12,https://sinofacts.com/companies/kanaries-net
-kimi-com,kimi.com,Kimi,,Kimi,ai-llm,,,,,unknown,1.0,2026-06-11,https://sinofacts.com/companies/kimi-com
+kimi-com,kimi.com,Kimi,Kimi,Kimi,ai-llm,,,,,unknown,1.0,2026-06-30,https://sinofacts.com/companies/kimi-com
 kingdee-com,kingdee.com,Kingdee,金蝶,Kingdee Cloud ERP|Kingdee Financial Cloud|Kingdee AI Suite|Kingdee Collaboration Cloud,erp-saas,,,,Global,unknown,0.889,2026-06-23,https://sinofacts.com/companies/kingdee-com
 kiriengine-app,kiriengine.app,KIRI Innovation,,KIRI Engine,other,,,,,freemium,0.7,2026-06-12,https://sinofacts.com/companies/kiriengine-app
 klingai-com,klingai.com,Kling AI,可灵AI,Kling AI Creative Studio,ai-video,,,,,unknown,1.0,2026-06-15,https://sinofacts.com/companies/klingai-com
@@ -352,7 +352,7 @@ visionular-ai,visionular.ai,Visionular,微帧科技,Aurora1|Aurora4|Aurora5|Auro
 vivago-ai,vivago.ai,Vivago,智象未来,Vivago,ai-video,,,,,free,0.857,2026-06-12,https://sinofacts.com/companies/vivago-ai
 vizard-ai,vizard.ai,Vizard,,Vizard,ai-video,,,,,freemium,1.0,2026-06-12,https://sinofacts.com/companies/vizard-ai
 vmlogin-com,vmlogin.com,VMLogin,安徽铁脚印网络科技有限公司,VMLogin,other,,"Hefei, China",,,subscription,0.727,2026-06-13,https://sinofacts.com/companies/vmlogin-com
-voc-ai,voc.ai,VOC AI,,,martech,,"Shenzhen, China",,Global,subscription,0.933,2026-06-11,https://sinofacts.com/companies/voc-ai
+voc-ai,voc.ai,VOC AI,,VOC AI|VOC AI Insight|Agent|API & MCP,other,2020,"Shenzhen, China",,,,0.615,2026-06-30,https://sinofacts.com/companies/voc-ai
 voidzero-dev,voidzero.dev,VoidZero,VoidZero,Void|Vite+|Vite|Vitest|Rolldown|Oxc,devtools,,,,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/voidzero-dev
 voovmeeting-com,voovmeeting.com,VooV Meeting,腾讯会议海外版,VooV Meeting,enterprise-saas,,,,Global,unknown,1.0,2026-06-22,https://sinofacts.com/companies/voovmeeting-com
 vozo-ai,vozo.ai,Vozo,,Vozo AI Video Translator,ai-video,,,SOC2|GDPR,Global,freemium,0.9,2026-06-12,https://sinofacts.com/companies/vozo-ai

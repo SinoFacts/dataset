@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-29T19:03:22",
+  "generated_at": "2026-06-30T19:04:47",
   "companies": [
     {
       "slug": "01-ai",
@@ -581,9 +581,9 @@
       "domain": "chatdoc.com",
       "name_en": "ChatDOC",
       "name_zh": null,
-      "category": "document-ai",
+      "category": null,
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.6
     },
     {
       "slug": "cherry-ai-com",
@@ -1548,11 +1548,11 @@
     {
       "slug": "isales-ai-com",
       "domain": "isales-ai.com",
-      "name_en": "iSales AI",
+      "name_en": "iSales",
       "name_zh": "光年触达（上海）科技有限公司",
       "category": null,
       "certifications": [],
-      "confidence": 0.8
+      "confidence": 0.889
     },
     {
       "slug": "ixbrowser-com",
@@ -1658,7 +1658,7 @@
       "slug": "kimi-com",
       "domain": "kimi.com",
       "name_en": "Kimi",
-      "name_zh": null,
+      "name_zh": "Kimi",
       "category": "ai-llm/chatbot",
       "certifications": [],
       "confidence": 1.0
@@ -3451,9 +3451,9 @@
       "domain": "voc.ai",
       "name_en": "VOC AI",
       "name_zh": null,
-      "category": "martech",
+      "category": null,
       "certifications": [],
-      "confidence": 0.933
+      "confidence": 0.615
     },
     {
       "slug": "voidzero-dev",
