@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-06-30T19:04:47",
+  "generated_at": "2026-07-01T19:02:30",
   "companies": [
     {
       "slug": "01-ai",
@@ -3122,11 +3122,11 @@
     {
       "slug": "tensor-art",
       "domain": "tensor.art",
-      "name_en": "Tensor.Art",
+      "name_en": "TensorArt",
       "name_zh": "回响科技",
       "category": "ai-image",
       "certifications": [],
-      "confidence": 0.8
+      "confidence": 1.0
     },
     {
       "slug": "tensorchord-ai",
@@ -3614,13 +3614,14 @@
       "slug": "yonyou-com",
       "domain": "yonyou.com",
       "name_en": "Yonyou",
-      "name_zh": "用友",
-      "category": "enterprise-saas",
+      "name_zh": "用友网络科技股份有限公司",
+      "category": "enterprise-saas/erp",
       "certifications": [
-        "ISO27001",
-        "C-STAR"
+        "ISO 9001",
+        "CMMI5",
+        "ISO 42001"
       ],
-      "confidence": 1.0
+      "confidence": 0.929
     },
     {
       "slug": "youmind-com",
