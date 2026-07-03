@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-02T19:03:51",
+  "generated_at": "2026-07-03T19:03:42",
   "companies": [
     {
       "slug": "01-ai",
@@ -994,7 +994,7 @@
       "name_zh": "映云科技",
       "category": "iot-infra",
       "certifications": [
-        "SOC2"
+        "SOC 2"
       ],
       "confidence": 1.0
     },
@@ -2898,16 +2898,16 @@
       "name_zh": null,
       "category": null,
       "certifications": [],
-      "confidence": 0.667
+      "confidence": 0.889
     },
     {
       "slug": "shopline-com",
       "domain": "shopline.com",
       "name_en": "SHOPLINE",
       "name_zh": null,
-      "category": null,
+      "category": "saas-ecommerce",
       "certifications": [],
-      "confidence": 0.727
+      "confidence": 0.778
     },
     {
       "slug": "shopyy-com",
@@ -3305,7 +3305,7 @@
       "name_zh": "广州联雅网络科技有限公司",
       "category": "saas-ecommerce",
       "certifications": [],
-      "confidence": 0.929
+      "confidence": 1.0
     },
     {
       "slug": "ultipa-com",
@@ -3708,7 +3708,7 @@
       "name_zh": null,
       "category": "vector-database",
       "certifications": [],
-      "confidence": 0.8
+      "confidence": 1.0
     },
     {
       "slug": "ziniao-com",
