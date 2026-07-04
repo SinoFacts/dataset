@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-03T19:03:42",
+  "generated_at": "2026-07-04T19:05:01",
   "companies": [
     {
       "slug": "01-ai",
@@ -242,11 +242,12 @@
       "name_zh": "有赞AllValue",
       "category": "saas-ecommerce",
       "certifications": [
-        "ISO27001",
-        "CSA-STAR",
-        "PCI-DSS"
+        "ISO 27001",
+        "CSA STAR",
+        "PCI DSS",
+        "信息系统安全等级保护三级"
       ],
-      "confidence": 1.0
+      "confidence": 0.929
     },
     {
       "slug": "allvoicelab-com",
@@ -438,9 +439,9 @@
       "domain": "bigseller.com",
       "name_en": "BigSeller",
       "name_zh": null,
-      "category": null,
+      "category": "saas-ecommerce",
       "certifications": [],
-      "confidence": 0.8
+      "confidence": 1.0
     },
     {
       "slug": "bika-ai",
@@ -851,7 +852,7 @@
       "domain": "dianxiaomi.com",
       "name_en": "DianXiaoMi",
       "name_zh": "店小秘",
-      "category": "e-commerce",
+      "category": "saas-ecommerce",
       "certifications": [],
       "confidence": 1.0
     },
@@ -2889,7 +2890,7 @@
       "name_zh": "星盘跨境",
       "category": "saas-ecommerce",
       "certifications": [],
-      "confidence": 0.833
+      "confidence": 1.0
     },
     {
       "slug": "shoplazza-com",
@@ -2913,10 +2914,10 @@
       "slug": "shopyy-com",
       "domain": "shopyy.com",
       "name_en": "SHOPYY",
-      "name_zh": null,
+      "name_zh": "厦门中恒天下网络科技有限公司",
       "category": "saas-ecommerce",
       "certifications": [],
-      "confidence": 0.733
+      "confidence": 1.0
     },
     {
       "slug": "sider-ai",
