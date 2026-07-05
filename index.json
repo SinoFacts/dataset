@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-04T19:05:01",
+  "generated_at": "2026-07-05T19:04:23",
   "companies": [
     {
       "slug": "01-ai",
@@ -1789,7 +1789,7 @@
     {
       "slug": "lingxing-com",
       "domain": "lingxing.com",
-      "name_en": "Lingxing",
+      "name_en": "Lingxing ERP",
       "name_zh": "领星ERP",
       "category": "saas-ecommerce",
       "certifications": [
@@ -1858,14 +1858,12 @@
       "slug": "mabangerp-com",
       "domain": "mabangerp.com",
       "name_en": "Mabang ERP",
-      "name_zh": "马帮ERP",
+      "name_zh": "上海马帮科技有限公司",
       "category": "saas-ecommerce",
       "certifications": [
-        "ISO27001",
-        "SOC",
-        "国家信息等级保护认证"
+        "ISO 27001"
       ],
-      "confidence": 0.929
+      "confidence": 1.0
     },
     {
       "slug": "magictiger-ai",
@@ -1879,11 +1877,11 @@
     {
       "slug": "mangoerp-com",
       "domain": "mangoerp.com",
-      "name_en": null,
+      "name_en": "MangoERP",
       "name_zh": "芒果店长",
       "category": "saas-ecommerce",
       "certifications": [],
-      "confidence": 0.714
+      "confidence": 1.0
     },
     {
       "slug": "manus-ai",
@@ -3187,7 +3185,7 @@
       "slug": "tongtool-com",
       "domain": "tongtool.com",
       "name_en": "Tongtool",
-      "name_zh": "通途ERP",
+      "name_zh": "通途",
       "category": "saas-ecommerce",
       "certifications": [],
       "confidence": 1.0
