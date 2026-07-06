@@ -6,7 +6,7 @@ slug,domain,name_en,name_zh,products,category,founded_year,hq_city,certification
 4paradigm-com,4paradigm.com,4Paradigm,,4Paradigm Sage AIOS|4Paradigm Sage HyperCycle|4Paradigm SageOne|4Paradigm Marketing|4Paradigm SageGPT,ai-platform,2014,,GDPR,,unknown,1.0,2026-06-13,https://sinofacts.com/companies/4paradigm-com
 accio-com,accio.com,Accio,Accio(阿里国际),Accio Work,ai-search,,,,,unknown,1.0,2026-06-12,https://sinofacts.com/companies/accio-com
 acestudio-ai,acestudio.ai,ACE Studio,时域科技,ACE Studio,ai-audio,,,,,unknown,1.0,2026-06-12,https://sinofacts.com/companies/acestudio-ai
-adspower-com,adspower.com,AdsPower,,AdsPower,ecommerce-saas,,,,Global,freemium,0.917,2026-06-12,https://sinofacts.com/companies/adspower-com
+adspower-com,adspower.com,AdsPower,,AdsPower,other,,,,Global,freemium,0.818,2026-07-06,https://sinofacts.com/companies/adspower-com
 advance-ai,advance.ai,ADVANCE.AI,,AdvanGuard Solution,fintech-saas,2016,Singapore,ISO/IEC 27001:2013|iBeta Level 2,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/advance-ai
 affine-pro,affine.pro,AFFiNE,,AFFiNE|AFFiNE AI,other,2022,Singapore,,,freemium,0.833,2026-06-12,https://sinofacts.com/companies/affine-pro
 aftership-com,aftership.com,AfterShip,,Tracking|Returns|Shipping|AI EDD|Warranty|AfterShip Intelligence,ecommerce-saas,,,ISO27001|GDPR,Global,subscription,0.917,2026-06-14,https://sinofacts.com/companies/aftership-com
@@ -164,7 +164,7 @@ js-design,js.design,JSdesign,即时设计,即时设计,design-saas,,,,China,free
 juicefs-com,juicefs.com,Juicedata,Juicedata,JuiceFS|JuiceFS Community Edition|JuiceFS Cloud Service|JuiceFS Enterprise Edition,data-infra,2017,,SOC2,,,0.867,2026-06-12,https://sinofacts.com/companies/juicefs-com
 jumpserver-com,jumpserver.com,JumpServer,飞致云,JumpServer,security,,,,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/jumpserver-com
 juphoon-com,juphoon.com,Juphoon,菊风,视频能力平台|IoT智能硬件|实时音视频SDK|全球云通信服务|5G消息|菊风云会议|RCS SDK,infrastructure,,,CMMI5|ISO9001|ISO20000|ISO27001|GSMA UP 2.0,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/juphoon-com
-kalodata-com,kalodata.com,Kalodata,,Kalodata|Kaloboost|Kaloclip|KaloPilot,bi-saas,,,,,unknown,1.0,2026-06-12,https://sinofacts.com/companies/kalodata-com
+kalodata-com,kalodata.com,Kalodata,,Kalodata|Kaloboost|Kaloclip|KaloPilot,bi-saas,,,,,unknown,0.857,2026-07-06,https://sinofacts.com/companies/kalodata-com
 kanaries-net,kanaries.net,Kanaries,Kanaries,PyGWalker|Graphic Walker Desktop|GWalkR|Graphic Walker Component|RunCell,bi-saas,,,,,,0.714,2026-06-12,https://sinofacts.com/companies/kanaries-net
 kimi-com,kimi.com,Kimi,Kimi,Kimi,ai-llm,,,,,unknown,1.0,2026-06-30,https://sinofacts.com/companies/kimi-com
 kingdee-com,kingdee.com,Kingdee,金蝶,Kingdee Cloud ERP|Kingdee Financial Cloud|Kingdee AI Suite|Kingdee Collaboration Cloud,erp-saas,,,,Global,unknown,0.889,2026-06-23,https://sinofacts.com/companies/kingdee-com
@@ -287,7 +287,7 @@ scrapeless-com,scrapeless.com,Scrapeless,,Scraping Browser|Universal Scraping AP
 seaart-ai,seaart.ai,SeaArt,,SeaArt AI,ai-image,,,,,unknown,0.667,2026-06-18,https://sinofacts.com/companies/seaart-ai
 sealos-io,sealos.io,Sealos,环界云计算,Sealos,infrastructure,2018,,,,subscription,1.0,2026-06-12,https://sinofacts.com/companies/sealos-io
 selectdb-com,selectdb.com,SelectDB,SelectDB,SelectDB|SelectDB Cloud,database,,,CMMI Level 3|Classified Protection Level 3|ISO/IEC 27001:2022|ISO/IEC 27018:2019|ISO/IEC 27017:2015|Trusted Database Evaluation,,unknown,1.0,2026-06-13,https://sinofacts.com/companies/selectdb-com
-sellersprite-com,sellersprite.com,SellerSprite,,SellerSprite|Shulex VOC,other,,,,Global,,0.583,2026-06-12,https://sinofacts.com/companies/sellersprite-com
+sellersprite-com,sellersprite.com,SellerSprite,卖家精灵,SellerSprite|Shulex VOC,ecommerce-saas,,,,Global,freemium,1.0,2026-07-06,https://sinofacts.com/companies/sellersprite-com
 sensetime-com,sensetime.com,SenseTime,商汤科技,SenseNova|SenseCore|SenseFoundry|Kapi Camera App|SenseAuto,ai-platform,,"Shanghai, China",,,unknown,0.7,2026-06-24,https://sinofacts.com/companies/sensetime-com
 sensorsdata-com,sensorsdata.com,Sensors Data,神策数据,,bi-saas,,,,,,0.778,2026-06-12,https://sinofacts.com/companies/sensorsdata-com
 shakker-ai,shakker.ai,Shakker AI,Shakker,Shakker AI,ai-image,,,,,,0.625,2026-06-12,https://sinofacts.com/companies/shakker-ai
@@ -325,7 +325,7 @@ ticktick-com,ticktick.com,TickTick,滴答清单,TickTick,ai-productivity,2013,,,
 timecho-com,timecho.com,Timecho,天谋科技,TimechoDB|TimechoAI|Apache IoTDB|Timecho Workbench|Timer,database,2021,"Beijing, China",,,enterprise,1.0,2026-06-12,https://sinofacts.com/companies/timecho-com
 timeplus-com,timeplus.com,Timeplus,,Timeplus Enterprise|Timeplus Proton|Timeplus AgentGuard,data-infra,,,,,subscription,1.0,2026-06-12,https://sinofacts.com/companies/timeplus-com
 tongtool-com,tongtool.com,Tongtool,通途,通途ERP|通途Listing|通途营销系统,ecommerce-saas,2010,,,China|Global,usage-based,1.0,2026-07-05,https://sinofacts.com/companies/tongtool-com
-tool4seller-com,tool4seller.com,Tool4seller,点金数据通,Tool4seller,ecommerce-saas,2017,,,Global,subscription,1.0,2026-06-12,https://sinofacts.com/companies/tool4seller-com
+tool4seller-com,tool4seller.com,Tool4seller,,Tool4seller,ecommerce,2017,,,Global,subscription,1.0,2026-07-06,https://sinofacts.com/companies/tool4seller-com
 topmediai-com,topmediai.com,TopMediai,TopMediai,TopMediai,ai-audio,2022,,,Global,freemium,0.909,2026-06-12,https://sinofacts.com/companies/topmediai-com
 topon-com,topon.com,TopON,,Portable power stations|Power banks|Solar panels|Chargers,other,2005,Hong Kong,EAC|CE|RoHS|FCC|ISO9001,Russia|CIS,unknown,0.7,2026-06-12,https://sinofacts.com/companies/topon-com
 topview-ai,topview.ai,Topview AI,特看科技,Topview AI|Video Agent|AI Product Video|AI Avatar|AI Ads Video,ai-video,,Singapore,,,freemium,0.8,2026-06-12,https://sinofacts.com/companies/topview-ai
@@ -379,6 +379,6 @@ zegocloud-com,zegocloud.com,ZEGOCLOUD,即构科技,Video Call|Voice Call|Live St
 zenlayer-com,zenlayer.com,Zenlayer,,Distributed Inference|AI Gateway|Fabric for AI|Bare Metal|Elastic Compute|Cloud Connect|Cloud Router|Private Connect|Virtual Edge|Global Accelerator|CDN|IP Transit|Edge Colocation,infrastructure,2014,"Los Angeles, US",SOC2|ISO27001,Global,usage-based,0.909,2026-06-12,https://sinofacts.com/companies/zenlayer-com
 zhipuai-cn,zhipuai.cn,Zhipu AI,智谱AI,GLM|GLM-5.2|GLM-5V-Turbo|GLM-5-Turbo|AutoGLM|ChatGLM|AutoClaw|Z.ai|AMiner,ai-llm,,"Beijing, China",,,freemium,1.0,2026-06-25,https://sinofacts.com/companies/zhipuai-cn
 zilliz-com,zilliz.com,Zilliz,,Zilliz Cloud|Milvus,database,,,,Global,unknown,1.0,2026-07-03,https://sinofacts.com/companies/zilliz-com
-ziniao-com,ziniao.com,,紫鸟浏览器,,other,,,,Global,unknown,0.6,2026-06-12,https://sinofacts.com/companies/ziniao-com
+ziniao-com,ziniao.com,SuperBrowser,紫鸟浏览器,紫鸟浏览器|SuperBrowser,ecommerce-saas,,,,Global,subscription,0.909,2026-07-06,https://sinofacts.com/companies/ziniao-com
 zmo-ai,zmo.ai,ZMO.AI,感知阶跃,,ai-image,,,,,unknown,0.75,2026-06-11,https://sinofacts.com/companies/zmo-ai
 zwsoft-com,zwsoft.com,ZWSOFT,,ZWCAD Flex|ZW3D,other,1998,"Guangzhou, China",,Global,subscription,0.75,2026-06-13,https://sinofacts.com/companies/zwsoft-com

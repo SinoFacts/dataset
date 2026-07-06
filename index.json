@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-05T19:04:23",
+  "generated_at": "2026-07-06T19:05:50",
   "companies": [
     {
       "slug": "01-ai",
@@ -77,9 +77,9 @@
       "domain": "adspower.com",
       "name_en": "AdsPower",
       "name_zh": null,
-      "category": "saas-ecommerce",
+      "category": null,
       "certifications": [],
-      "confidence": 0.917
+      "confidence": 0.818
     },
     {
       "slug": "advance-ai",
@@ -1644,7 +1644,7 @@
       "name_zh": null,
       "category": "analytics",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.857
     },
     {
       "slug": "kanaries-net",
@@ -2840,10 +2840,10 @@
       "slug": "sellersprite-com",
       "domain": "sellersprite.com",
       "name_en": "SellerSprite",
-      "name_zh": null,
-      "category": null,
+      "name_zh": "卖家精灵",
+      "category": "saas-ecommerce",
       "certifications": [],
-      "confidence": 0.583
+      "confidence": 1.0
     },
     {
       "slug": "sensetime-com",
@@ -3194,8 +3194,8 @@
       "slug": "tool4seller-com",
       "domain": "tool4seller.com",
       "name_en": "Tool4seller",
-      "name_zh": "点金数据通",
-      "category": "saas-ecommerce",
+      "name_zh": null,
+      "category": "ecommerce",
       "certifications": [],
       "confidence": 1.0
     },
@@ -3712,11 +3712,11 @@
     {
       "slug": "ziniao-com",
       "domain": "ziniao.com",
-      "name_en": null,
+      "name_en": "SuperBrowser",
       "name_zh": "紫鸟浏览器",
-      "category": null,
+      "category": "saas-ecommerce",
       "certifications": [],
-      "confidence": 0.6
+      "confidence": 0.909
     },
     {
       "slug": "zmo-ai",
