@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-07T19:03:24",
+  "generated_at": "2026-07-08T19:04:37",
   "companies": [
     {
       "slug": "01-ai",
@@ -1537,14 +1537,14 @@
       "slug": "ipaylinks-com",
       "domain": "ipaylinks.com",
       "name_en": "iPayLinks",
-      "name_zh": null,
-      "category": null,
+      "name_zh": "iPayLinks",
+      "category": "fintech-infra",
       "certifications": [
-        "PCI-DSS",
-        "ISO27001",
-        "网络安全等级保护"
+        "PCI DSS",
+        "ISO 27001",
+        "信息系统安全等级保护三级"
       ],
-      "confidence": 0.8
+      "confidence": 0.929
     },
     {
       "slug": "isales-ai-com",
@@ -2281,12 +2281,12 @@
       "slug": "onerway-com",
       "domain": "onerway.com",
       "name_en": "ONERWAY",
-      "name_zh": "万唯Onerway",
-      "category": "fintech-infra",
+      "name_zh": null,
+      "category": null,
       "certifications": [
-        "PCI-DSS"
+        "PCI DSS Level 1"
       ],
-      "confidence": 1.0
+      "confidence": 0.818
     },
     {
       "slug": "ones-com",
@@ -2608,12 +2608,12 @@
       "slug": "qbitnetwork-com",
       "domain": "qbitnetwork.com",
       "name_en": "Qbit",
-      "name_zh": "Qbit趣比汇",
+      "name_zh": null,
       "category": null,
       "certifications": [
-        "PCI-DSS"
+        "PCI DSS Level 1"
       ],
-      "confidence": 0.8
+      "confidence": 0.714
     },
     {
       "slug": "qfpay-com",
@@ -3051,9 +3051,9 @@
       "name_zh": "寻汇SUNRATE",
       "category": "fintech-infra",
       "certifications": [
-        "PCI-DSS"
+        "PCI DSS Level 1"
       ],
-      "confidence": 0.9
+      "confidence": 1.0
     },
     {
       "slug": "tabbyml-com",
@@ -3363,10 +3363,10 @@
       "slug": "useepay-com",
       "domain": "useepay.com",
       "name_en": "UseePay",
-      "name_zh": "UseePay",
-      "category": null,
+      "name_zh": "深圳镒坤科技有限公司",
+      "category": "fintech-infra",
       "certifications": [],
-      "confidence": 0.778
+      "confidence": 1.0
     },
     {
       "slug": "velodb-io",
