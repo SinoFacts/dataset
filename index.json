@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-08T19:04:37",
+  "generated_at": "2026-07-09T19:04:49",
   "companies": [
     {
       "slug": "01-ai",
@@ -85,10 +85,10 @@
       "slug": "advance-ai",
       "domain": "advance.ai",
       "name_en": "ADVANCE.AI",
-      "name_zh": null,
+      "name_zh": "ADVANCE.AI",
       "category": "fintech-infra",
       "certifications": [
-        "ISO/IEC 27001:2013",
+        "ISO 27001",
         "iBeta Level 2"
       ],
       "confidence": 1.0
@@ -1775,7 +1775,7 @@
       "name_zh": "询盘云",
       "category": "crm",
       "certifications": [],
-      "confidence": 0.929
+      "confidence": 1.0
     },
     {
       "slug": "lianlianglobal-com",
@@ -2263,10 +2263,10 @@
       "slug": "okki-com",
       "domain": "okki.com",
       "name_en": "OKKI",
-      "name_zh": "小满科技OKKI",
+      "name_zh": "小满科技",
       "category": "crm",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.917
     },
     {
       "slug": "omnichat-ai",
@@ -2772,14 +2772,14 @@
       "slug": "salesmartly-com",
       "domain": "salesmartly.com",
       "name_en": "SaleSmartly",
-      "name_zh": "SaleSmartly",
+      "name_zh": "广州标品软件有限公司",
       "category": "customer-service",
       "certifications": [
-        "ISO27001",
-        "ISO27701",
+        "ISO 27001",
+        "ISO 27701",
         "CCRC"
       ],
-      "confidence": 1.0
+      "confidence": 0.941
     },
     {
       "slug": "sand-ai",
@@ -3563,7 +3563,7 @@
       "name_zh": "万里汇",
       "category": "fintech-infra",
       "certifications": [],
-      "confidence": 0.867
+      "confidence": 0.833
     },
     {
       "slug": "wps-com",
