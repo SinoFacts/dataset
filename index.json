@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-09T19:04:49",
+  "generated_at": "2026-07-10T19:04:17",
   "companies": [
     {
       "slug": "01-ai",
@@ -1004,11 +1004,9 @@
       "domain": "engagelab.com",
       "name_en": "EngageLab",
       "name_zh": null,
-      "category": null,
-      "certifications": [
-        "GDPR"
-      ],
-      "confidence": 0.9
+      "category": "martech",
+      "certifications": [],
+      "confidence": 1.0
     },
     {
       "slug": "eprolo-com",
@@ -2275,7 +2273,7 @@
       "name_zh": null,
       "category": "crm",
       "certifications": [],
-      "confidence": 0.75
+      "confidence": 1.0
     },
     {
       "slug": "onerway-com",
@@ -2954,10 +2952,10 @@
       "slug": "sleekflow-io",
       "domain": "sleekflow.io",
       "name_en": "SleekFlow",
-      "name_zh": "SleekFlow",
+      "name_zh": null,
       "category": "crm",
       "certifications": [],
-      "confidence": 0.909
+      "confidence": 0.9
     },
     {
       "slug": "slowmist-com",
@@ -2974,12 +2972,10 @@
       "slug": "sobot-io",
       "domain": "sobot.io",
       "name_en": "Sobot",
-      "name_zh": null,
+      "name_zh": "智齿科技",
       "category": "customer-service",
-      "certifications": [
-        "GDPR"
-      ],
-      "confidence": 0.833
+      "certifications": [],
+      "confidence": 1.0
     },
     {
       "slug": "solvely-ai",
@@ -3608,10 +3604,10 @@
       "slug": "ycloud-com",
       "domain": "ycloud.com",
       "name_en": "YCloud",
-      "name_zh": "YCloud",
+      "name_zh": null,
       "category": "martech",
       "certifications": [
-        "ISO27001"
+        "ISO 27001"
       ],
       "confidence": 1.0
     },
