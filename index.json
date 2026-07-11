@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-10T19:04:17",
+  "generated_at": "2026-07-11T19:03:23",
   "companies": [
     {
       "slug": "01-ai",
@@ -328,10 +328,10 @@
       "slug": "appgrowing-ai",
       "domain": "appgrowing.ai",
       "name_en": "AppGrowing Global",
-      "name_zh": null,
-      "category": null,
+      "name_zh": "广州米慧信息科技有限公司",
+      "category": "adtech",
       "certifications": [],
-      "confidence": 0.636
+      "confidence": 0.846
     },
     {
       "slug": "atoms-dev",
@@ -2743,7 +2743,7 @@
       "name_zh": "融云",
       "category": "rtc",
       "certifications": [],
-      "confidence": 0.733
+      "confidence": 1.0
     },
     {
       "slug": "rustdesk-com",
@@ -3215,15 +3215,11 @@
       "domain": "topon.com",
       "name_en": "TopON",
       "name_zh": null,
-      "category": null,
+      "category": "power-electronics",
       "certifications": [
-        "EAC",
-        "CE",
-        "RoHS",
-        "FCC",
-        "ISO9001"
+        "ISO 9001"
       ],
-      "confidence": 0.7
+      "confidence": 1.0
     },
     {
       "slug": "topview-ai",
@@ -3679,7 +3675,7 @@
       "name_zh": "即构科技",
       "category": "rtc",
       "certifications": [],
-      "confidence": 0.909
+      "confidence": 0.714
     },
     {
       "slug": "zenlayer-com",
