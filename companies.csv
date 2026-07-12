@@ -1,6 +1,6 @@
 slug,domain,name_en,name_zh,products,category,founded_year,hq_city,certifications,target_markets,pricing_model,confidence,last_verified,canonical
 01-ai,01.ai,01.AI,零一万物,Yi Foundation Models|Yi-Lightning Mixture-of-Experts LLM|WorldWise Enterprise LLM Platform|Enterprise AI Agent Tailored Solutions|Yi Open-source,ai-llm,,,,Global,unknown,1.0,2026-06-26,https://sinofacts.com/companies/01-ai
-17track-net,17track.net,17TRACK,,Shopify App|Tracking API|17TRACK Mobile App|Tracking Widget,other,,,GDPR,Global,,0.636,2026-06-12,https://sinofacts.com/companies/17track-net
+17track-net,17track.net,17TRACK,17TRACK,17TRACK|17TRACK Shopify App|17TRACK Tracking API|17TRACK Mobile App,other,,,GDPR,Global,,0.667,2026-07-12,https://sinofacts.com/companies/17track-net
 1panel-pro,1panel.pro,1Panel,1Panel,1Panel,other,,,,Global,freemium,0.786,2026-06-13,https://sinofacts.com/companies/1panel-pro
 302-ai,302.ai,302.AI,302.AI,302.AI,other,,,,,usage-based,0.889,2026-06-12,https://sinofacts.com/companies/302-ai
 4paradigm-com,4paradigm.com,4Paradigm,,4Paradigm Sage AIOS|4Paradigm Sage HyperCycle|4Paradigm SageOne|4Paradigm Marketing|4Paradigm SageGPT,ai-platform,2014,,GDPR,,unknown,1.0,2026-06-13,https://sinofacts.com/companies/4paradigm-com
@@ -163,7 +163,7 @@ jobright-ai,jobright.ai,Jobright,Jobright,Jobright,ai-productivity,,,,United Sta
 js-design,js.design,JSdesign,即时设计,即时设计,design-saas,,,,China,free,0.917,2026-06-13,https://sinofacts.com/companies/js-design
 juicefs-com,juicefs.com,Juicedata,Juicedata,JuiceFS|JuiceFS Community Edition|JuiceFS Cloud Service|JuiceFS Enterprise Edition,data-infra,2017,,SOC2,,,0.867,2026-06-12,https://sinofacts.com/companies/juicefs-com
 jumpserver-com,jumpserver.com,JumpServer,飞致云,JumpServer,security,,,,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/jumpserver-com
-juphoon-com,juphoon.com,Juphoon,菊风,视频能力平台|IoT智能硬件|实时音视频SDK|全球云通信服务|5G消息|菊风云会议|RCS SDK,infrastructure,,,CMMI5|ISO9001|ISO20000|ISO27001|GSMA UP 2.0,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/juphoon-com
+juphoon-com,juphoon.com,Juphoon,菊风,Juphoon Video Capability Platform|Juphoon Cloud Meeting|Juphoon RCS 5G Messaging|Juphoon IoT SDK,infrastructure,,,CMMI5级|ISO9001|ISO20000|ISO27001|高新技术企业,Global,unknown,1.0,2026-07-12,https://sinofacts.com/companies/juphoon-com
 kalodata-com,kalodata.com,Kalodata,,Kalodata|Kaloboost|Kaloclip|KaloPilot,bi-saas,,,,,unknown,0.857,2026-07-06,https://sinofacts.com/companies/kalodata-com
 kanaries-net,kanaries.net,Kanaries,Kanaries,PyGWalker|Graphic Walker Desktop|GWalkR|Graphic Walker Component|RunCell,bi-saas,,,,,,0.714,2026-06-12,https://sinofacts.com/companies/kanaries-net
 kimi-com,kimi.com,Kimi,Kimi,Kimi,ai-llm,,,,,unknown,1.0,2026-06-30,https://sinofacts.com/companies/kimi-com
@@ -329,7 +329,7 @@ tool4seller-com,tool4seller.com,Tool4seller,,Tool4seller,ecommerce,2017,,,Global
 topmediai-com,topmediai.com,TopMediai,TopMediai,TopMediai,ai-audio,2022,,,Global,freemium,0.909,2026-06-12,https://sinofacts.com/companies/topmediai-com
 topon-com,topon.com,TopON,,Power Bank|Portable Power Station|Solar Panel|Battery|Charger|Inverter|LED Light,power-electronics,2005,Hong Kong,ISO 9001,Global|Russia|CIS,unknown,1.0,2026-07-11,https://sinofacts.com/companies/topon-com
 topview-ai,topview.ai,Topview AI,特看科技,Topview AI|Video Agent|AI Product Video|AI Avatar|AI Ads Video,ai-video,,Singapore,,,freemium,0.8,2026-06-12,https://sinofacts.com/companies/topview-ai
-trackingmore-com,trackingmore.com,TrackingMore,,Multi-Carrier Tracking API|Air Cargo Tracking|Shopify Order Tracking,logistics-saas,,,,Global,freemium,0.917,2026-06-12,https://sinofacts.com/companies/trackingmore-com
+trackingmore-com,trackingmore.com,TrackingMore,,TrackingMore Tracking API|Air Cargo Tracking|Shipment Dashboard|Branded Tracking Page|Shipment Notifications,logistics-saas,2014,,,Global,freemium,1.0,2026-07-12,https://sinofacts.com/companies/trackingmore-com
 transwarp-io,transwarp.io,Transwarp,,ArgoDB|Sophon|Transwarp Data Hub|TDC|TDS|Slipstream|TimeLyre|Inceptor,data-infra,,,,,unknown,1.0,2026-06-13,https://sinofacts.com/companies/transwarp-io
 trickle-so,trickle.so,Trickle,Trickle,Trickle,design-saas,,,,,freemium,0.636,2026-06-12,https://sinofacts.com/companies/trickle-so
 tripo3d-ai,tripo3d.ai,Tripo AI,,Tripo Studio|Tripo API|Tripo Game Hub|TripoSR,ai-image,2023,,,Global,freemium,0.909,2026-06-28,https://sinofacts.com/companies/tripo3d-ai
@@ -348,7 +348,7 @@ vidau-ai,vidau.ai,VidAU,VidAU,VidAU|AI Video|AI Image|AI Avatar|VidRemix|VidRema
 vidnoz-com,vidnoz.com,Vidnoz,,Vidnoz AI|Vidnoz Gen,other,,,ISO27001,Global,freemium,0.909,2026-06-13,https://sinofacts.com/companies/vidnoz-com
 vidu-io,vidu.io,Vidu,生数科技,Personalized Video|Sales Memes,ai-video,,,,,subscription,0.818,2026-06-11,https://sinofacts.com/companies/vidu-io
 viggle-ai,viggle.ai,Viggle AI,,Viggle|PINOC|Viggle Game Portal,ai-video,2023,"Toronto, Canada",,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/viggle-ai
-visionular-ai,visionular.ai,Visionular,微帧科技,Aurora1|Aurora4|Aurora5|AuroraImage|AuroraCloud|AuroraEnhancer,infrastructure,2018,"Los Altos, California, USA",,Global,usage-based,0.923,2026-06-12,https://sinofacts.com/companies/visionular-ai
+visionular-ai,visionular.ai,Visionular,微帧科技,Aurora1|Aurora4|Aurora5|AuroraImage|AuroraEnhancer|AuroraCloud,infrastructure,2018,"Los Altos, California, USA",,Global|North America|Europe|Southeast Asia|India|China,unknown,1.0,2026-07-12,https://sinofacts.com/companies/visionular-ai
 vivago-ai,vivago.ai,Vivago,智象未来,Vivago,ai-video,,,,,free,0.857,2026-06-12,https://sinofacts.com/companies/vivago-ai
 vizard-ai,vizard.ai,Vizard,,Vizard,ai-video,,,,,freemium,1.0,2026-06-12,https://sinofacts.com/companies/vizard-ai
 vmlogin-com,vmlogin.com,VMLogin,安徽铁脚印网络科技有限公司,VMLogin,other,,"Hefei, China",,,subscription,0.727,2026-06-13,https://sinofacts.com/companies/vmlogin-com

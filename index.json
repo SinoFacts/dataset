@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-11T19:03:23",
+  "generated_at": "2026-07-12T19:04:53",
   "companies": [
     {
       "slug": "01-ai",
@@ -18,12 +18,12 @@
       "slug": "17track-net",
       "domain": "17track.net",
       "name_en": "17TRACK",
-      "name_zh": null,
+      "name_zh": "17TRACK",
       "category": null,
       "certifications": [
         "GDPR"
       ],
-      "confidence": 0.636
+      "confidence": 0.667
     },
     {
       "slug": "1panel-pro",
@@ -1627,11 +1627,11 @@
       "name_zh": "菊风",
       "category": "rtc",
       "certifications": [
-        "CMMI5",
+        "CMMI5级",
         "ISO9001",
         "ISO20000",
         "ISO27001",
-        "GSMA UP 2.0"
+        "高新技术企业"
       ],
       "confidence": 1.0
     },
@@ -3237,7 +3237,7 @@
       "name_zh": null,
       "category": "logistics-saas",
       "certifications": [],
-      "confidence": 0.917
+      "confidence": 1.0
     },
     {
       "slug": "transwarp-io",
@@ -3414,7 +3414,7 @@
       "name_zh": "微帧科技",
       "category": "video-infra",
       "certifications": [],
-      "confidence": 0.923
+      "confidence": 1.0
     },
     {
       "slug": "vivago-ai",
