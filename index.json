@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-12T19:04:53",
+  "generated_at": "2026-07-13T19:04:55",
   "companies": [
     {
       "slug": "01-ai",
@@ -464,11 +464,11 @@
     {
       "slug": "boardmix-com",
       "domain": "boardmix.com",
-      "name_en": "Boardmix",
-      "name_zh": null,
+      "name_en": "Shenzhen Pixso Technology Co., Ltd.",
+      "name_zh": "博思白板",
       "category": "collaboration",
       "certifications": [],
-      "confidence": 0.846
+      "confidence": 1.0
     },
     {
       "slug": "bytebase-com",
@@ -2016,7 +2016,7 @@
       "name_zh": "摹客",
       "category": "design",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.909
     },
     {
       "slug": "modao-cc",
@@ -2105,10 +2105,10 @@
       "slug": "motiff-com",
       "domain": "motiff.com",
       "name_en": "Motiff",
-      "name_zh": "妙多",
-      "category": "design",
+      "name_zh": null,
+      "category": null,
       "certifications": [],
-      "confidence": 0.889
+      "confidence": 0.7
     },
     {
       "slug": "mureka-ai",
@@ -2373,10 +2373,9 @@
       "name_zh": null,
       "category": "logistics-saas",
       "certifications": [
-        "ISO27001",
-        "GDPR"
+        "ISO 27001"
       ],
-      "confidence": 0.769
+      "confidence": 1.0
     },
     {
       "slug": "patsnap-com",
