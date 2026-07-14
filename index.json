@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-13T19:04:55",
+  "generated_at": "2026-07-14T19:04:14",
   "companies": [
     {
       "slug": "01-ai",
@@ -185,11 +185,11 @@
     {
       "slug": "aitable-ai",
       "domain": "aitable.ai",
-      "name_en": "AITable.ai",
+      "name_en": "APITable Ltd.",
       "name_zh": "维格AITable",
       "category": "collaboration",
       "certifications": [],
-      "confidence": 0.929
+      "confidence": 1.0
     },
     {
       "slug": "akool-com",
@@ -617,10 +617,10 @@
       "slug": "classin-com",
       "domain": "classin.com",
       "name_en": "ClassIn",
-      "name_zh": "翼鸥教育",
+      "name_zh": null,
       "category": "edtech-saas",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.786
     },
     {
       "slug": "clonbrowser-com",
@@ -833,10 +833,10 @@
       "slug": "derbysoft-com",
       "domain": "derbysoft.com",
       "name_en": "DerbySoft",
-      "name_zh": "德比软件",
-      "category": "travel-saas",
+      "name_zh": null,
+      "category": null,
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.75
     },
     {
       "slug": "devv-ai",
@@ -2173,7 +2173,7 @@
       "name_zh": null,
       "category": "low-code",
       "certifications": [],
-      "confidence": 0.917
+      "confidence": 0.75
     },
     {
       "slug": "notegpt-io",
@@ -3025,10 +3025,10 @@
       "slug": "strikingly-com",
       "domain": "strikingly.com",
       "name_en": "Strikingly",
-      "name_zh": "上线了",
+      "name_zh": null,
       "category": "website-builder",
       "certifications": [],
-      "confidence": 0.923
+      "confidence": 0.909
     },
     {
       "slug": "style3d-com",

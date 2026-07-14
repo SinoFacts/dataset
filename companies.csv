@@ -16,7 +16,7 @@ aippt-com,aippt.com,AiPPT,AiPPT(像素绽放),AiPPT Classic|AiPPT Flow|AiPPT Vis
 airbrush-com,airbrush.com,Airbrush,美图,Airbrush,ai-image,,Singapore,,Global,freemium,1.0,2026-06-17,https://sinofacts.com/companies/airbrush-com
 airwallex-com,airwallex.com,Airwallex,空中云汇,Airwallex,fintech-saas,2015,"Melbourne, Australia",PCI-DSS|SOC1|SOC2,Global,unknown,0.923,2026-06-21,https://sinofacts.com/companies/airwallex-com
 aispeech-com,aispeech.com,AISpeech,思必驰,AI办公本|高端矩阵麦克风MA600D|高端吸顶会议麦克风MC10|AISPEECH DFM大模型,ai-audio,,,,,unknown,0.778,2026-06-13,https://sinofacts.com/companies/aispeech-com
-aitable-ai,aitable.ai,AITable.ai,维格AITable,AITable,enterprise-saas,2019,Hong Kong,,,freemium,0.929,2026-06-12,https://sinofacts.com/companies/aitable-ai
+aitable-ai,aitable.ai,APITable Ltd.,维格AITable,AITable.ai|APITable,enterprise-saas,2019,Hong Kong,,Global,freemium,1.0,2026-07-14,https://sinofacts.com/companies/aitable-ai
 akool-com,akool.com,Akool,Akool,Akool,ai-avatar,,"Palo Alto, California, United States",SOC2,Global,freemium,0.923,2026-06-12,https://sinofacts.com/companies/akool-com
 alauda-io,alauda.io,Alauda,灵雀云,Alauda Container Platform|Alauda Virtualization|Alauda AI|Alauda HyperFlux,infrastructure,2014,"Beijing, China",,Global|Southeast Asia|Middle East|Africa|Latin America|Europe|China,unknown,0.917,2026-06-12,https://sinofacts.com/companies/alauda-io
 alibabacloud-com,alibabacloud.com,Alibaba Cloud,阿里云,Alibaba Cloud,infrastructure,2009,,GDPR|HIPAA|PCI DSS|C5|TPN,Global,unknown,0.846,2026-06-21,https://sinofacts.com/companies/alibabacloud-com
@@ -58,7 +58,7 @@ chatdoc-com,chatdoc.com,ChatDOC,,ChatDOC|ChatPaper|ChatDOC API|ChatDOC PDF Parse
 cherry-ai-com,cherry-ai.com,Cherry Studio,上海千彗科技有限公司,Cherry Studio,ai-productivity,,,,,free,0.889,2026-06-13,https://sinofacts.com/companies/cherry-ai-com
 cjdropshipping-com,cjdropshipping.com,CJ Dropshipping,,,ecommerce,,,,Global,unknown,0.7,2026-06-13,https://sinofacts.com/companies/cjdropshipping-com
 clacky-ai,clacky.ai,ClackyAI,,ClackyAI,ai-coding,,,,,freemium,0.9,2026-06-12,https://sinofacts.com/companies/clacky-ai
-classin-com,classin.com,ClassIn,翼鸥教育,ClassIn|ClassIn X,edtech,,,,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/classin-com
+classin-com,classin.com,ClassIn,,ClassIn|ClassIn X,edtech,,,,Global,freemium,0.786,2026-07-14,https://sinofacts.com/companies/classin-com
 clonbrowser-com,clonbrowser.com,ClonBrowser,,ClonBrowser,other,2019,,,Global,,0.818,2026-06-13,https://sinofacts.com/companies/clonbrowser-com
 cloudwalk-com,cloudwalk.com,CloudWalk Technology,云从科技,,ai-platform,,,,,unknown,0.833,2026-06-11,https://sinofacts.com/companies/cloudwalk-com
 cocos-com,cocos.com,Cocos,,Cocos Creator|Cocos2d-x|Cocos 4|OpenPaaS Runtime,game-engine,,,,Global,free,1.0,2026-06-27,https://sinofacts.com/companies/cocos-com
@@ -81,7 +81,7 @@ dcloud-io,dcloud.io,DCloud,数字天堂,HBuilder|HBuilderX|uni-app,devtools,,"Be
 deemos-com,deemos.com,Deemos,Deemos,Hyper3D Rodin,ai-image,,,,,unknown,1.0,2026-06-13,https://sinofacts.com/companies/deemos-com
 deepflow-io,deepflow.io,DeepFlow (Yunshan Networks),云杉网络,DeepFlow,infrastructure,,,,Global,unknown,0.889,2026-06-12,https://sinofacts.com/companies/deepflow-io
 deepseek-com,deepseek.com,DeepSeek,深度求索,DeepSeek,other,2023,"Hangzhou, China",,Global|China,freemium,0.917,2026-06-15,https://sinofacts.com/companies/deepseek-com
-derbysoft-com,derbysoft.com,DerbySoft,德比软件,Property Connector|Streamlined Connectivity|Exchange|Business Travel Solutions|Content Solutions|Digital Marketing Solutions|AI Voice Agent|Flight Technology Solutions,enterprise-saas,2002,,,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/derbysoft-com
+derbysoft-com,derbysoft.com,DerbySoft,,DerbySoft Platform|Property Connector|Exchange|Content Solutions|Digital Marketing Solutions|AI Voice Agent|Flight Technology Solutions,other,2002,"Shanghai, China",,Global,unknown,0.75,2026-07-14,https://sinofacts.com/companies/derbysoft-com
 devv-ai,devv.ai,Devv,Devv,Devv,ai-search,,,,,unknown,1.0,2026-06-12,https://sinofacts.com/companies/devv-ai
 dianxiaomi-com,dianxiaomi.com,DianXiaoMi,店小秘,店小秘ERP,ecommerce-saas,2014,"Shenzhen, China",,Global,free,1.0,2026-07-04,https://sinofacts.com/companies/dianxiaomi-com
 dicloak-com,dicloak.com,DICloak,,DICloak Antidetect Browser,other,,,,Global,freemium,0.889,2026-06-13,https://sinofacts.com/companies/dicloak-com
@@ -220,7 +220,7 @@ nativex-com,nativex.com,Nativex,汇量科技,Nativex,martech,,,,,unknown,1.0,202
 navicat-com,navicat.com,PremiumSoft CyberTech Ltd,卓软数码科技,Navicat|Navicat Premium|Navicat Data Modeler|Navicat BI|Navicat On-Prem Server|Navicat Monitor,devtools,1999,Hong Kong,GDPR,Global,,0.867,2026-06-12,https://sinofacts.com/companies/navicat-com
 nebula-graph-io,nebula-graph.io,Vesoft Inc.,,NebulaGraph Database|NebulaGraph Analytics|NebulaGraph Cloud|NebulaGraph AI AP,graph-database,2018,"Hangzhou, China",,Global,freemium,1.0,2026-06-26,https://sinofacts.com/companies/nebula-graph-io
 neusoft-com,neusoft.com,Neusoft,东软集团,OneCoreGo|RealOne Suite|Data Middle Platform|NAGIVI|NAGIC|One Mate|One Map|One Sight|One Cloud|One Guard|One Pay|One Store,enterprise-software,1991,,,Global,unknown,1.0,2026-06-25,https://sinofacts.com/companies/neusoft-com
-nocobase-com,nocobase.com,NocoBase,,NocoBase,devtools,,,,,freemium,0.917,2026-06-12,https://sinofacts.com/companies/nocobase-com
+nocobase-com,nocobase.com,NocoBase,,NocoBase,devtools,2021,,,,,0.75,2026-07-14,https://sinofacts.com/companies/nocobase-com
 notegpt-io,notegpt.io,NoteGPT,,NoteGPT,ai-productivity,,,ISO27001|SOC2,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/notegpt-io
 notta-ai,notta.ai,Notta,,Notta|Notta Brain,ai-productivity,2022,"Tokyo, Japan",SOC2|ISO27001|HIPAA|GDPR|APPI|CCPA,Japan|Global,freemium,1.0,2026-06-19,https://sinofacts.com/companies/notta-ai
 novita-ai,novita.ai,Novita AI,Novita AI,Model APIs|Agent Sandbox|GPU Cloud,ai-infra,,,,,usage-based,0.909,2026-06-12,https://sinofacts.com/companies/novita-ai
@@ -307,7 +307,7 @@ sphere-ex-com,sphere-ex.com,SphereEx,,SphereEx-DBPlusEngine|SphereEx-Tools|Spher
 squirrelai-com,squirrelai.com,Squirrel Ai Learning,松鼠AI,Squirrel Ai,edtech,,,,Global|United States,,0.727,2026-06-12,https://sinofacts.com/companies/squirrelai-com
 stepfun-ai,stepfun.ai,StepFun,,阶跃AI|StepClaw|Step Audio Studio,ai-llm,,,,,unknown,0.857,2026-06-26,https://sinofacts.com/companies/stepfun-ai
 streamnative-io,streamnative.io,StreamNative,,StreamNative Cloud|Lakestream|Agent Engine|Managed Apache Flink,infrastructure,,,,,usage-based,1.0,2026-06-21,https://sinofacts.com/companies/streamnative-io
-strikingly-com,strikingly.com,Strikingly,上线了,Strikingly,devtools,,,,Global,freemium,0.923,2026-06-12,https://sinofacts.com/companies/strikingly-com
+strikingly-com,strikingly.com,Strikingly,,Strikingly,devtools,,,,Global,freemium,0.909,2026-07-14,https://sinofacts.com/companies/strikingly-com
 style3d-com,style3d.com,Style3D,凌迪科技,Style3D AI|Style3D Studio|Style3D Fabric|Assyst CAD|Style3D Cloud,ai-image,,,,Global,unknown,1.0,2026-06-12,https://sinofacts.com/companies/style3d-com
 sunrate-com,sunrate.com,SUNRATE,寻汇SUNRATE,International Payments|Commercial Cards|Global Collection|Global Acquiring|TreasuryOS,fintech-saas,,,PCI DSS Level 1,Global,unknown,1.0,2026-07-08,https://sinofacts.com/companies/sunrate-com
 tabbyml-com,tabbyml.com,TabbyML,,Tabby,ai-coding,,,,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/tabbyml-com
