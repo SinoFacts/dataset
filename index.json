@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-15T19:05:25",
+  "generated_at": "2026-07-16T19:04:42",
   "companies": [
     {
       "slug": "01-ai",
@@ -283,10 +283,15 @@
       "slug": "api7-ai",
       "domain": "api7.ai",
       "name_en": "API7.ai",
-      "name_zh": "支流科技",
-      "category": "data-infra",
-      "certifications": [],
-      "confidence": 0.857
+      "name_zh": null,
+      "category": null,
+      "certifications": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "GDPR",
+        "HIPAA"
+      ],
+      "confidence": 0.769
     },
     {
       "slug": "apifox-com",
@@ -1331,7 +1336,7 @@
       "name_zh": "格睿科技",
       "category": "data-infra",
       "certifications": [],
-      "confidence": 0.909
+      "confidence": 0.75
     },
     {
       "slug": "hailuoai-com",
@@ -1604,12 +1609,12 @@
       "slug": "juicefs-com",
       "domain": "juicefs.com",
       "name_en": "Juicedata",
-      "name_zh": "Juicedata",
-      "category": "data-infra",
+      "name_zh": null,
+      "category": null,
       "certifications": [
-        "SOC2"
+        "SOC 2"
       ],
-      "confidence": 0.867
+      "confidence": 0.833
     },
     {
       "slug": "jumpserver-com",
@@ -2729,11 +2734,11 @@
       "name_zh": null,
       "category": "data-infra",
       "certifications": [
-        "SOC2",
+        "SOC 2",
         "GDPR",
         "HIPAA"
       ],
-      "confidence": 0.929
+      "confidence": 1.0
     },
     {
       "slug": "rongcloud-io",
@@ -3089,11 +3094,11 @@
     {
       "slug": "tapdata-io",
       "domain": "tapdata.io",
-      "name_en": "Tapdata",
+      "name_en": "TapData",
       "name_zh": "钛铂数据",
-      "category": "data-infra",
+      "category": null,
       "certifications": [],
-      "confidence": 0.875
+      "confidence": 0.9
     },
     {
       "slug": "tdengine-com",
