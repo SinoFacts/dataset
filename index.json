@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-16T19:04:42",
+  "generated_at": "2026-07-17T19:05:33",
   "companies": [
     {
       "slug": "01-ai",
@@ -274,7 +274,7 @@
       "slug": "apecloud-com",
       "domain": "apecloud.com",
       "name_en": "ApeCloud",
-      "name_zh": "云猿生数据",
+      "name_zh": "杭州云猿生数据有限公司",
       "category": "data-infra",
       "certifications": [],
       "confidence": 1.0
@@ -577,10 +577,10 @@
       "slug": "chat2db-ai",
       "domain": "chat2db.ai",
       "name_en": "Chat2DB",
-      "name_zh": "Chat2DB",
-      "category": "data-infra",
+      "name_zh": null,
+      "category": null,
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.778
     },
     {
       "slug": "chatdoc-com",
@@ -1265,10 +1265,10 @@
       "slug": "genspark-ai",
       "domain": "genspark.ai",
       "name_en": "Genspark",
-      "name_zh": null,
+      "name_zh": "Genspark",
       "category": "ai-agent",
       "certifications": [],
-      "confidence": 0.857
+      "confidence": 0.778
     },
     {
       "slug": "gitea-com",
@@ -1445,12 +1445,12 @@
       "certifications": [
         "ISO 22301:2019",
         "ISO 27001:2022",
-        "SOC 2 Type II",
+        "SOC 2 Type II Report",
         "PCI DSS",
-        "CSA STAR Gold",
-        "网络安全等级保护"
+        "信息系统安全等级保护三级 (MLPS Level 3)",
+        "CSA STAR Gold"
       ],
-      "confidence": 1.0
+      "confidence": 0.909
     },
     {
       "slug": "hubstudio-com",
@@ -2866,7 +2866,7 @@
       "slug": "sensorsdata-com",
       "domain": "sensorsdata.com",
       "name_en": "Sensors Data",
-      "name_zh": "神策数据",
+      "name_zh": null,
       "category": "analytics",
       "certifications": [],
       "confidence": 0.778

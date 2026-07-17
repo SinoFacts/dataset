@@ -2,7 +2,7 @@
   "companies": 383,
   "with_certifications": 79,
   "categories": {
-    "other": 46,
+    "other": 47,
     "ai-video": 28,
     "ai-image": 26,
     "ecommerce-saas": 22,
@@ -13,7 +13,7 @@
     "database": 16,
     "ai-agent": 14,
     "security": 13,
-    "data-infra": 12,
+    "data-infra": 11,
     "ai-llm": 10,
     "fintech-saas": 9,
     "martech": 9,
@@ -47,5 +47,5 @@
     "power-electronics": 1,
     "ai-website-builder": 1
   },
-  "generated_at": "2026-07-16"
+  "generated_at": "2026-07-17"
 }
