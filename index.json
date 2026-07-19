@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-18T19:03:24",
+  "generated_at": "2026-07-19T19:05:23",
   "companies": [
     {
       "slug": "01-ai",
@@ -519,9 +519,10 @@
       "certifications": [
         "ISO 27001",
         "ISO 27701",
-        "ISO 20000"
+        "ISO 20000",
+        "信息系统安全等级保护三级"
       ],
-      "confidence": 0.727
+      "confidence": 0.667
     },
     {
       "slug": "capcut-com",
@@ -1202,11 +1203,11 @@
     {
       "slug": "foxit-com",
       "domain": "foxit.com",
-      "name_en": "Foxit",
-      "name_zh": "福昕软件",
+      "name_en": "Foxit Software",
+      "name_zh": null,
       "category": null,
       "certifications": [],
-      "confidence": 0.909
+      "confidence": 0.8
     },
     {
       "slug": "gaiaworks-cn",
@@ -1310,15 +1311,15 @@
       "slug": "gptbots-ai",
       "domain": "gptbots.ai",
       "name_en": "GPTBots",
-      "name_zh": "GPTBots(极光)",
+      "name_zh": "GPTBots（极光）",
       "category": "ai-agent",
       "certifications": [
-        "ESOF",
         "ISO 27001",
         "ISO 27701",
-        "SOC 2 Type II"
+        "SOC 2 Type II",
+        "ESOF"
       ],
-      "confidence": 0.833
+      "confidence": 0.769
     },
     {
       "slug": "gpustack-ai",
@@ -2941,7 +2942,7 @@
       "name_zh": "硅基流动",
       "category": "ai-infra",
       "certifications": [],
-      "confidence": 0.889
+      "confidence": 1.0
     },
     {
       "slug": "skywork-ai",
@@ -3344,7 +3345,7 @@
       "name_zh": null,
       "category": "ai-document",
       "certifications": [],
-      "confidence": 0.875
+      "confidence": 1.0
     },
     {
       "slug": "usadrop-com",
