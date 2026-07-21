@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-20T19:03:39",
+  "generated_at": "2026-07-21T19:02:55",
   "companies": [
     {
       "slug": "01-ai",
@@ -345,7 +345,7 @@
       "name_zh": "深度赋智MGX",
       "category": "ai-coding",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.8
     },
     {
       "slug": "authing-cn",
@@ -977,11 +977,11 @@
     {
       "slug": "eigent-ai",
       "domain": "eigent.ai",
-      "name_en": "Eigent AI",
+      "name_en": "Eigent",
       "name_zh": null,
       "category": "ai-agent",
       "certifications": [],
-      "confidence": 0.667
+      "confidence": 1.0
     },
     {
       "slug": "eloqdata-com",
@@ -1072,7 +1072,7 @@
       "name_zh": null,
       "category": "ai-agent",
       "certifications": [],
-      "confidence": 0.75
+      "confidence": 1.0
     },
     {
       "slug": "fastmoss-com",
@@ -1844,10 +1844,10 @@
       "slug": "lovart-ai",
       "domain": "lovart.ai",
       "name_en": "Lovart",
-      "name_zh": "Lovart",
+      "name_zh": null,
       "category": "ai-agent",
       "certifications": [],
-      "confidence": 0.778
+      "confidence": 0.8
     },
     {
       "slug": "lowcoder-cloud",
