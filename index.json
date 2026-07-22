@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-21T19:02:55",
+  "generated_at": "2026-07-22T19:02:56",
   "companies": [
     {
       "slug": "01-ai",
@@ -2370,7 +2370,7 @@
       "name_zh": "Paradot",
       "category": "ai-companion",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.833
     },
     {
       "slug": "parcelpanel-com",
@@ -2574,11 +2574,11 @@
     {
       "slug": "polybuzz-ai",
       "domain": "polybuzz.ai",
-      "name_en": "PolyBuzz",
+      "name_en": "Polybuzz",
       "name_zh": null,
       "category": "ai-companion",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.833
     },
     {
       "slug": "popai-pro",
@@ -3007,7 +3007,7 @@
       "name_zh": "松鼠AI",
       "category": "ai-education",
       "certifications": [],
-      "confidence": 0.727
+      "confidence": 0.778
     },
     {
       "slug": "stepfun-ai",
