@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-22T19:02:56",
+  "generated_at": "2026-07-23T19:03:14",
   "companies": [
     {
       "slug": "01-ai",
@@ -455,7 +455,7 @@
       "name_zh": "Bika(维格)",
       "category": "ai-agent",
       "certifications": [],
-      "confidence": 0.889
+      "confidence": 1.0
     },
     {
       "slug": "bitbrowser-net",
@@ -617,7 +617,7 @@
       "name_zh": null,
       "category": "ai-coding",
       "certifications": [],
-      "confidence": 0.9
+      "confidence": 1.0
     },
     {
       "slug": "classin-com",
@@ -1592,10 +1592,10 @@
       "slug": "jobright-ai",
       "domain": "jobright.ai",
       "name_en": "Jobright",
-      "name_zh": "Jobright",
+      "name_zh": null,
       "category": "ai-career",
       "certifications": [],
-      "confidence": 0.889
+      "confidence": 0.75
     },
     {
       "slug": "js-design",
@@ -1935,11 +1935,11 @@
     {
       "slug": "me-bot",
       "domain": "me.bot",
-      "name_en": "Me.bot",
-      "name_zh": "心识宇宙",
+      "name_en": "Mindverse AI",
+      "name_zh": null,
       "category": "ai-companion",
       "certifications": [],
-      "confidence": 0.8
+      "confidence": 0.875
     },
     {
       "slug": "meitu-com",
@@ -2069,7 +2069,7 @@
       "name_zh": "Momen(函子科技)",
       "category": "ai-coding",
       "certifications": [],
-      "confidence": 0.846
+      "confidence": 1.0
     },
     {
       "slug": "monica-im",
