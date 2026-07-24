@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-23T19:03:14",
+  "generated_at": "2026-07-24T19:04:14",
   "companies": [
     {
       "slug": "01-ai",
@@ -58,8 +58,8 @@
       "slug": "accio-com",
       "domain": "accio.com",
       "name_en": "Accio",
-      "name_zh": "Accio(阿里国际)",
-      "category": "ai-search",
+      "name_zh": null,
+      "category": "ai-agent",
       "certifications": [],
       "confidence": 1.0
     },
@@ -146,10 +146,10 @@
       "slug": "aippt-com",
       "domain": "aippt.com",
       "name_en": "AiPPT",
-      "name_zh": "AiPPT(像素绽放)",
+      "name_zh": null,
       "category": "ai-productivity",
       "certifications": [],
-      "confidence": 0.769
+      "confidence": 1.0
     },
     {
       "slug": "airbrush-com",
@@ -2557,10 +2557,10 @@
       "slug": "pokee-ai",
       "domain": "pokee.ai",
       "name_en": "Pokee AI",
-      "name_zh": "Pokee AI",
+      "name_zh": null,
       "category": "ai-agent",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.857
     },
     {
       "slug": "pollo-ai",
@@ -3539,10 +3539,13 @@
       "name_zh": null,
       "category": "ai-customer-service",
       "certifications": [
-        "SOC2",
-        "PCI-DSS"
+        "SOC 2 Type II",
+        "PCI DSS",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018"
       ],
-      "confidence": 0.909
+      "confidence": 1.0
     },
     {
       "slug": "wondershare-com",
@@ -3632,7 +3635,7 @@
       "name_zh": null,
       "category": "ai-writing",
       "certifications": [],
-      "confidence": 0.818
+      "confidence": 0.9
     },
     {
       "slug": "youware-com",

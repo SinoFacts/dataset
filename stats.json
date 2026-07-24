@@ -11,7 +11,7 @@
     "design-saas": 19,
     "ai-productivity": 17,
     "database": 16,
-    "ai-agent": 14,
+    "ai-agent": 15,
     "security": 13,
     "data-infra": 11,
     "ai-llm": 10,
@@ -27,8 +27,8 @@
     "edtech": 6,
     "ai-companion": 6,
     "ai-avatar": 5,
-    "ai-search": 4,
     "logistics-saas": 4,
+    "ai-search": 3,
     "ecommerce": 2,
     "ai-automation": 2,
     "hr-saas": 2,
@@ -47,5 +47,5 @@
     "power-electronics": 1,
     "ai-website-builder": 1
   },
-  "generated_at": "2026-07-23"
+  "generated_at": "2026-07-24"
 }
