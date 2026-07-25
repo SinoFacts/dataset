@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-24T19:04:14",
+  "generated_at": "2026-07-25T19:03:05",
   "companies": [
     {
       "slug": "01-ai",
@@ -1189,7 +1189,7 @@
       "name_zh": null,
       "category": "ai-productivity",
       "certifications": [],
-      "confidence": 0.9
+      "confidence": 1.0
     },
     {
       "slug": "fotor-com",
@@ -1654,10 +1654,10 @@
       "slug": "kanaries-net",
       "domain": "kanaries.net",
       "name_en": "Kanaries",
-      "name_zh": "Kanaries",
-      "category": "ai-data",
+      "name_zh": null,
+      "category": null,
       "certifications": [],
-      "confidence": 0.714
+      "confidence": 0.667
     },
     {
       "slug": "kimi-com",
@@ -2708,7 +2708,7 @@
       "name_zh": null,
       "category": "ai-agent",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.889
     },
     {
       "slug": "remaker-ai",
@@ -2989,7 +2989,7 @@
       "name_zh": null,
       "category": "ai-education",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.889
     },
     {
       "slug": "sphere-ex-com",
