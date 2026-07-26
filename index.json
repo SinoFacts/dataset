@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-25T19:03:05",
+  "generated_at": "2026-07-26T19:03:12",
   "companies": [
     {
       "slug": "01-ai",
@@ -367,7 +367,7 @@
       "name_zh": null,
       "category": "mq",
       "certifications": [],
-      "confidence": 0.818
+      "confidence": 0.909
     },
     {
       "slug": "avclabs-com",
@@ -1921,7 +1921,7 @@
       "name_zh": "矩阵起源",
       "category": "database",
       "certifications": [],
-      "confidence": 0.778
+      "confidence": 1.0
     },
     {
       "slug": "maxkb-cn",
@@ -2188,8 +2188,10 @@
       "name_zh": null,
       "category": "ai-notes",
       "certifications": [
-        "ISO27001",
-        "SOC2"
+        "ISO 27001",
+        "SOC 2",
+        "GDPR",
+        "CCPA"
       ],
       "confidence": 1.0
     },
@@ -3368,11 +3370,11 @@
     {
       "slug": "velodb-io",
       "domain": "velodb.io",
-      "name_en": "VeloDB (SelectDB)",
+      "name_en": "VeloDB",
       "name_zh": "飞轮科技",
       "category": "database",
       "certifications": [],
-      "confidence": 0.833
+      "confidence": 1.0
     },
     {
       "slug": "vidau-ai",

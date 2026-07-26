@@ -33,7 +33,7 @@ appflowy-io,appflowy.io,AppFlowy,,AppFlowy,devtools,,,,,freemium,1.0,2026-06-12,
 appgrowing-ai,appgrowing.ai,AppGrowing Global,广州米慧信息科技有限公司,AppGrowing Global|AppGrowing,martech,,"Guangzhou, China",,Global,subscription,0.846,2026-07-11,https://sinofacts.com/companies/appgrowing-ai
 atoms-dev,atoms.dev,Atoms,深度赋智MGX,Atoms|MetaGPT X,ai-coding,,,,,freemium,0.8,2026-07-21,https://sinofacts.com/companies/atoms-dev
 authing-cn,authing.cn,Authing,Authing,Authing Identity Cloud|Single Sign-On (SSO)|Multi-Factor Authentication (MFA)|Identity Directory|Identity Security Platform|Identity Automation,security,,"Beijing, China",ISO 9001|GDPR|Information Security Level 3 Protection (China),Global|China,freemium,1.0,2026-06-13,https://sinofacts.com/companies/authing-cn
-automq-com,automq.com,AutoMQ,,AutoMQ,data-infra,,,,,usage-based,0.818,2026-06-12,https://sinofacts.com/companies/automq-com
+automq-com,automq.com,AutoMQ,,AutoMQ|AutoMQ BYOC|AutoMQ Software|Table Topic|AutoMQ Linking|Kafka Connector|Multi-Region Cluster,data-infra,,,,Global,usage-based,0.909,2026-07-26,https://sinofacts.com/companies/automq-com
 avclabs-com,avclabs.com,AVCLabs,,AVCLabs Video Enhancer AI|AVCLabs Video Blur AI|AVCLabs Photo Enhancer AI|AVCLabs PhotoPro AI|Any Video Converter|AVCLabs Video Enhancer Cloud AI|AVCLabs MCP,ai-video,,,,,unknown,0.571,2026-06-12,https://sinofacts.com/companies/avclabs-com
 baichuan-ai-com,baichuan-ai.com,Baichuan Intelligence,百川智能,Baichuan Big Model,ai-llm,,,,,unknown,1.0,2026-06-26,https://sinofacts.com/companies/baichuan-ai-com
 baichuan-cn,baichuan.cn,Baichuan AI,百川智能,,ai-llm,,"Beijing, China",,,unknown,1.0,2026-06-11,https://sinofacts.com/companies/baichuan-cn
@@ -193,7 +193,7 @@ mangoerp-com,mangoerp.com,MangoERP,芒果店长,MangoERP,ecommerce-saas,2014,"Ha
 manus-ai,manus.ai,Manus,蝴蝶效应,Manus,ai-agent,,,,Global,,0.909,2026-06-20,https://sinofacts.com/companies/manus-ai
 manus-im,manus.im,Manus,,Manus,ai-agent,,,,Global,unknown,1.0,2026-06-14,https://sinofacts.com/companies/manus-im
 mastergo-com,mastergo.com,MasterGo,莫高设计,MasterGo,design-saas,,"Beijing, China",,,freemium,1.0,2026-06-13,https://sinofacts.com/companies/mastergo-com
-matrixorigin-io,matrixorigin.io,MatrixOrigin,矩阵起源,MatrixOne|MatrixOne Intelligence|Astra|Memoria,database,,,,,,0.778,2026-06-12,https://sinofacts.com/companies/matrixorigin-io
+matrixorigin-io,matrixorigin.io,MatrixOrigin,矩阵起源,MatrixOne|MatrixOne Intelligence|Astra|Memoria,database,,,,,freemium,1.0,2026-07-26,https://sinofacts.com/companies/matrixorigin-io
 maxkb-cn,maxkb.cn,MaxKB,MaxKB,,devtools,,,,,unknown,0.6,2026-06-13,https://sinofacts.com/companies/maxkb-cn
 me-bot,me.bot,Mindverse AI,,Me.bot|Second Me,ai-companion,,,,,freemium,0.875,2026-07-23,https://sinofacts.com/companies/me-bot
 meitu-com,meitu.com,Meitu Inc.,美图,Meitu|BeautyCam|Wink|Picchi|Designkit|Kaipai|Kumoo|ZCOOL|WHEE|RoboNeo|MVLAND|MeituHub|EveLab Insight|Meitu AI Open Platform|MT Lab,ai-image,,"Xiamen, China",,Global,unknown,0.889,2026-06-28,https://sinofacts.com/companies/meitu-com
@@ -215,13 +215,13 @@ morelogin-com,morelogin.com,MoreLogin,MoreLogin,MoreLogin Antidetect Browser|Mor
 morphstudio-com,morphstudio.com,Morph Studio,,Morph Studio,ai-video,,,,,freemium,0.875,2026-06-12,https://sinofacts.com/companies/morphstudio-com
 motiff-com,motiff.com,Motiff,,Motiff AI,other,,,,,freemium,0.7,2026-07-13,https://sinofacts.com/companies/motiff-com
 mureka-ai,mureka.ai,Mureka,,Mureka,ai-audio,,,,,freemium,0.8,2026-06-19,https://sinofacts.com/companies/mureka-ai
-myscale-com,myscale.com,MyScale,墨奇科技,MyScale,database,,,,,unknown,1.0,2026-06-12,https://sinofacts.com/companies/myscale-com
+myscale-com,myscale.com,MyScale,墨奇科技,MyScale,database,,,,,unknown,1.0,2026-07-26,https://sinofacts.com/companies/myscale-com
 nativex-com,nativex.com,Nativex,汇量科技,Nativex,martech,,,,,unknown,1.0,2026-06-24,https://sinofacts.com/companies/nativex-com
 navicat-com,navicat.com,PremiumSoft CyberTech Ltd,卓软数码科技,Navicat|Navicat Premium|Navicat Data Modeler|Navicat BI|Navicat On-Prem Server|Navicat Monitor,devtools,1999,Hong Kong,GDPR,Global,,0.867,2026-06-12,https://sinofacts.com/companies/navicat-com
 nebula-graph-io,nebula-graph.io,Vesoft Inc.,,NebulaGraph Database|NebulaGraph Analytics|NebulaGraph Cloud|NebulaGraph AI AP,graph-database,2018,"Hangzhou, China",,Global,freemium,1.0,2026-06-26,https://sinofacts.com/companies/nebula-graph-io
 neusoft-com,neusoft.com,Neusoft,东软集团,OneCoreGo|RealOne Suite|Data Middle Platform|NAGIVI|NAGIC|One Mate|One Map|One Sight|One Cloud|One Guard|One Pay|One Store,enterprise-software,1991,,,Global,unknown,1.0,2026-06-25,https://sinofacts.com/companies/neusoft-com
 nocobase-com,nocobase.com,NocoBase,,NocoBase,devtools,2021,,,,,0.75,2026-07-14,https://sinofacts.com/companies/nocobase-com
-notegpt-io,notegpt.io,NoteGPT,,NoteGPT,ai-productivity,,,ISO27001|SOC2,Global,freemium,1.0,2026-06-12,https://sinofacts.com/companies/notegpt-io
+notegpt-io,notegpt.io,NoteGPT,,NoteGPT,ai-productivity,,,ISO 27001|SOC 2|GDPR|CCPA,Global,freemium,1.0,2026-07-26,https://sinofacts.com/companies/notegpt-io
 notta-ai,notta.ai,Notta,,Notta|Notta Brain,ai-productivity,2022,"Tokyo, Japan",SOC2|ISO27001|HIPAA|GDPR|APPI|CCPA,Japan|Global,freemium,1.0,2026-06-19,https://sinofacts.com/companies/notta-ai
 novita-ai,novita.ai,Novita AI,Novita AI,Model APIs|Agent Sandbox|GPU Cloud,ai-infra,,,,,usage-based,0.909,2026-06-12,https://sinofacts.com/companies/novita-ai
 nsfocusglobal-com,nsfocusglobal.com,NSFOCUS,绿盟科技,,security,,,,,unknown,0.6,2026-06-12,https://sinofacts.com/companies/nsfocusglobal-com
@@ -343,7 +343,7 @@ univer-ai,univer.ai,DreamNum,梦数科技,Univer|Univer Pro,devtools,,,,,freemiu
 updf-com,updf.com,UPDF,,UPDF,ai-productivity,,,,,freemium,1.0,2026-07-19,https://sinofacts.com/companies/updf-com
 usadrop-com,usadrop.com,USAdrop,USAdrop,USAdrop,ecommerce-saas,2015,"Hangzhou, China",,Global|North America|Europe|Latin America|Australia,,0.867,2026-06-13,https://sinofacts.com/companies/usadrop-com
 useepay-com,useepay.com,UseePay,深圳镒坤科技有限公司,UseePay|全球收单|外贸收付款|风控管理|货币汇兑,fintech-saas,,"Shenzhen, China",,Global,unknown,1.0,2026-07-08,https://sinofacts.com/companies/useepay-com
-velodb-io,velodb.io,VeloDB (SelectDB),飞轮科技,VeloDB Cloud|VeloDB Enterprise|Apache Doris,database,,,,,usage-based,0.833,2026-06-12,https://sinofacts.com/companies/velodb-io
+velodb-io,velodb.io,VeloDB,飞轮科技,VeloDB Cloud|VeloDB Enterprise,database,,,,,usage-based,1.0,2026-07-26,https://sinofacts.com/companies/velodb-io
 vidau-ai,vidau.ai,VidAU,VidAU,VidAU|AI Video|AI Image|AI Avatar|VidRemix|VidRemake|VidSnap,ai-video,,,,Global,unknown,0.889,2026-06-12,https://sinofacts.com/companies/vidau-ai
 vidnoz-com,vidnoz.com,Vidnoz,,Vidnoz AI|Vidnoz Gen,other,,,ISO27001,Global,freemium,0.909,2026-06-13,https://sinofacts.com/companies/vidnoz-com
 vidu-io,vidu.io,Vidu,生数科技,Personalized Video|Sales Memes,ai-video,,,,,subscription,0.818,2026-06-11,https://sinofacts.com/companies/vidu-io
