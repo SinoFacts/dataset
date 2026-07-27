@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-26T19:03:12",
+  "generated_at": "2026-07-27T19:04:55",
   "companies": [
     {
       "slug": "01-ai",
@@ -884,10 +884,10 @@
       "slug": "dolphindb-com",
       "domain": "dolphindb.com",
       "name_en": "DolphinDB",
-      "name_zh": null,
+      "name_zh": "智臾科技",
       "category": "database",
       "certifications": [],
-      "confidence": 0.909
+      "confidence": 1.0
     },
     {
       "slug": "domoai-app",
@@ -3000,7 +3000,7 @@
       "name_zh": null,
       "category": "database",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.75
     },
     {
       "slug": "squirrelai-com",
@@ -3179,7 +3179,7 @@
       "name_zh": "天谋科技",
       "category": "database",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.933
     },
     {
       "slug": "timeplus-com",
@@ -3532,7 +3532,7 @@
       "name_zh": "白鲸开源",
       "category": "data",
       "certifications": [],
-      "confidence": 0.857
+      "confidence": 0.889
     },
     {
       "slug": "wiz-ai",
