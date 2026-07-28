@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-27T19:04:55",
+  "generated_at": "2026-07-28T19:03:54",
   "companies": [
     {
       "slug": "01-ai",
@@ -231,9 +231,9 @@
       "domain": "alluxio.io",
       "name_en": "Alluxio",
       "name_zh": null,
-      "category": "data",
+      "category": null,
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.917
     },
     {
       "slug": "allvalue-com",
@@ -791,11 +791,11 @@
       "domain": "datastrato.ai",
       "name_en": "Datastrato",
       "name_zh": null,
-      "category": null,
+      "category": "data",
       "certifications": [
         "SOC 2 Type II"
       ],
-      "confidence": 0.727
+      "confidence": 0.818
     },
     {
       "slug": "dcloud-io",
@@ -3074,7 +3074,7 @@
       "name_zh": null,
       "category": null,
       "certifications": [],
-      "confidence": 0.875
+      "confidence": 0.9
     },
     {
       "slug": "taichi-graphics",
@@ -3318,9 +3318,9 @@
       "name_zh": "嬴图",
       "category": "database",
       "certifications": [
-        "SOC2"
+        "SOC 2"
       ],
-      "confidence": 0.846
+      "confidence": 0.909
     },
     {
       "slug": "umu-com",
