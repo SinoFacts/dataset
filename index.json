@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-28T19:03:54",
+  "generated_at": "2026-07-29T19:03:19",
   "companies": [
     {
       "slug": "01-ai",
@@ -820,11 +820,11 @@
     {
       "slug": "deepflow-io",
       "domain": "deepflow.io",
-      "name_en": "DeepFlow (Yunshan Networks)",
+      "name_en": "Yunshan Networks",
       "name_zh": "云杉网络",
       "category": "observability",
       "certifications": [],
-      "confidence": 0.889
+      "confidence": 1.0
     },
     {
       "slug": "deepseek-com",
@@ -1833,12 +1833,12 @@
       "slug": "logto-io",
       "domain": "logto.io",
       "name_en": "Logto",
-      "name_zh": "Logto",
+      "name_zh": null,
       "category": "identity",
       "certifications": [
-        "SOC2"
+        "SOC 2"
       ],
-      "confidence": 1.0
+      "confidence": 0.846
     },
     {
       "slug": "lovart-ai",
@@ -3120,12 +3120,12 @@
       "domain": "teable.ai",
       "name_en": "Teable",
       "name_zh": null,
-      "category": "lowcode",
+      "category": null,
       "certifications": [
-        "ISO9001",
-        "ISO27001"
+        "ISO 9001",
+        "ISO 27001"
       ],
-      "confidence": 1.0
+      "confidence": 0.9
     },
     {
       "slug": "tensor-art",
@@ -3280,9 +3280,12 @@
       "name_zh": "观测云",
       "category": "observability",
       "certifications": [
-        "SOC 2"
+        "SOC 2",
+        "ISO 27001",
+        "ISO 27017",
+        "ISO 27018"
       ],
-      "confidence": 0.917
+      "confidence": 1.0
     },
     {
       "slug": "tuya-com",
