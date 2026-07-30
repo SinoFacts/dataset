@@ -3,7 +3,7 @@
   "canonical": "https://sinofacts.com/index.json",
   "license": "CC BY 4.0 — attribution required",
   "count": 383,
-  "generated_at": "2026-07-29T19:03:19",
+  "generated_at": "2026-07-30T19:04:10",
   "companies": [
     {
       "slug": "01-ai",
@@ -209,7 +209,7 @@
       "name_zh": "灵雀云",
       "category": "cloudnative",
       "certifications": [],
-      "confidence": 0.917
+      "confidence": 1.0
     },
     {
       "slug": "alibabacloud-com",
@@ -1278,7 +1278,7 @@
       "name_zh": null,
       "category": "devtools",
       "certifications": [],
-      "confidence": 0.692
+      "confidence": 0.9
     },
     {
       "slug": "glority-com",
@@ -1620,7 +1620,7 @@
     {
       "slug": "jumpserver-com",
       "domain": "jumpserver.com",
-      "name_en": "JumpServer",
+      "name_en": "Lingxia (Hong Kong) Software Co., Ltd.",
       "name_zh": "飞致云",
       "category": "security",
       "certifications": [],
@@ -1716,11 +1716,11 @@
     {
       "slug": "kubesphere-io",
       "domain": "kubesphere.io",
-      "name_en": "QingCloud",
+      "name_en": "KubeSphere",
       "name_zh": "青云科技",
       "category": "cloudnative",
       "certifications": [],
-      "confidence": 1.0
+      "confidence": 0.9
     },
     {
       "slug": "kyligence-io",
